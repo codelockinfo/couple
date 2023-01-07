@@ -1,0 +1,194 @@
+<section class="clsFeature clsvideo Section {% unless section.settings.image %}Section--spacingNormal{% endunless %}">
+  {%- capture section_content -%}
+    <div class="FeatureText__ContentWrapper ">
+      <div class="FeatureText__Content">
+        {%- if section.settings.subheading != blank or section.settings.title != blank or section.settings.content != blank -%}
+          <header class="SectionHeader">
+            {%- if section.settings.subheading != blank -%}
+              <h3 class="SectionHeader__SubHeading Heading u-h6">{{ section.settings.subheading | escape }}</h3>
+            {%- endif -%}
+
+            {%- if section.settings.title != blank -%}
+              <h2 class="SectionHeader__Heading Heading u-h1">{{ section.settings.title | escape }}</h2>
+            {%- endif -%}
+
+            {%- if section.settings.content != blank -%}
+              <div class="SectionHeader__Description Rte">
+                {{ section.settings.content }}
+              </div>
+            {%- endif -%}
+
+            {%- if section.settings.link_text != blank -%}
+              <a href="{{ section.settings.link_url }}" class="Link Link--underline">{{ section.settings.link_text | escape }}</a>
+            {%- endif -%}
+          </header>
+        {%- endif -%}
+      </div>
+    </div>
+  {%- endcapture -%}
+
+      {%- capture section_image -%}
+     
+      <div class="FeatureText__ImageWrapper">
+        
+        <div class="mainclass">
+        <div class="AspectRatio1" >
+
+        <div class="videocls">
+
+          <video autoplay="" loop="" muted="1" playsinline="" height="410" width="231" preload="metadata" style="" data-video-width="231" data-video-height="410" src="{{ section.settings.video_url2 | split: '?v=' }}"></video>
+        </div>
+
+        </div>
+          </div>
+      </div>
+ 
+   {%- endcapture -%}
+
+  <div class="FeatureText {% if section.settings.image != blank %}FeatureText--withImage FeatureText--image{{ section.settings.image_position | capitalize }}{% endif %}">
+    {%- if section.settings.image_position == 'left' -%}
+      {{- section_image -}}
+      {{- section_content -}}
+    {%- else -%}
+      {{- section_content -}}
+      {{- section_image -}}
+    {%- endif -%}
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Rich text with image",
+  "class": "shopify-section--bordered",
+  "settings": [
+    {
+      "type": "text",
+      "id": "subheading",
+      "label": "Sub-heading",
+      "default": "Sub-heading"
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Heading",
+      "default": "Title"
+    },
+    {
+      "type": "url",
+      "id": "video_url2",
+    "label" : "video link" 
+    },
+    {
+      "type": "select",
+      "id": "image_position",
+      "label": "Image position",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "default": "right"
+    },
+    {
+      "type": "richtext",
+      "id": "content",
+      "label": "Text",
+      "default": "<p>Add your own custom content to give more information about your store, availability details...</p>"
+    },
+    {
+      "type": "text",
+      "id": "link_text",
+      "label": "Link text"
+    },
+    {
+      "type": "url",
+      "id": "link_url",
+      "label": "Link URL"
+    }
+  ],
+  "presets": [
+    {
+      "category": "Text",
+      "name": "Rich text with image new",
+      "settings": {}
+    }
+  ]
+}
+{% endschema %}
+<style>
+ .clsvideo .FeatureText {
+    text-align: center;
+    display: flex;
+}
+
+
+  .clsvideo .FeatureText__ImageWrapper {
+    width: 60%;
+    background-color: #f6dcd4;
+}
+  .clsFeature .FeatureText__ContentWrapper {
+    width: 40%;
+}
+    .clsFeature .AspectRatio {
+    max-width: 100% !important;
+}
+ .clsFeature a.Link.Link--underline {
+    display: inline-block;
+    height: 56px;
+    min-width: 160px;
+    border: 1px solid rgba(18,41,71,.12);
+    border-radius: 2px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14px;
+    text-align: center;
+    padding: 0 24px;
+    color: #122947;
+    line-height: 54px;
+    text-transform: uppercase;
+    letter-spacing: .12em;
+    white-space: nowrap;
+    transition: background-color .2s Cubic-bezier(1,0,.43,1),color .2s Cubic-bezier(1,0,.43,1),transform .2s Cubic-bezier(.3,0,.3,1);
+}
+  .clsFeature a.Link.Link--underline:hover {
+    background-color: #283953;
+    color: #fff;
+    transform: translateY(-1px);
+}
+  .clsFeature .Link--underline:before{
+        height: unset;
+  }
+  h3.SectionHeader__SubHeading.Heading.u-h6 {
+    color: #ef525b;
+    letter-spacing: 1px;
+}
+  .clsFeature h2.SectionHeader__Heading.Heading.u-h1 {
+    font-weight: 400;
+    line-height: 1.3;
+    color: #122947;
+    margin: 0 0 24px;
+        font-size: 38px;
+    letter-spacing: 1px;
+}
+  .clsFeature .FeatureText__Content {
+    max-width: 100%;
+  }
+  .clsFeature .SectionHeader__Description.Rte p {
+    line-height: 1.75;
+    color: #122947cc;
+    font-size: 17px;
+    font-weight: 700;
+}
+  .videocls {
+    border-radius: 30px;
+    transform: rotate3d(400,-600,600,5deg);
+    width: 100%;
+    height: 100%;
+        overflow: hidden;
+}
+</style>
