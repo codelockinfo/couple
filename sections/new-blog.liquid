@@ -2,16 +2,16 @@
     <div class="image-box">
       <div style="--image: url({{ section.settings.imageurl }})"></div>
     </div>
-    <h5>Step 1</h5>
-    <h4>Choose your style.</h4>
-    <p>Get inspired by one of our classic settings, or design your own. Meet with our diamond concierge in person or on a video call to see our styles up close. We can even help design a custom ring – the process is complimentary.</p>
+    <h5>{{ section.settings.subheading }}</h5>
+    <h4>{{ section.settings.heading }}</h4>
+    <p>{{ section.settings.content1 }}</p>
     <a class="book-concierge with-link-primary" href="#">
       <div class="background-container">
         <div class="image-container image-ready"></div>
       </div>
       <span class="link-primary animate-out">Book an appointment</span>
     </a>
-  </div>
+</div>
 
 
 {% schema %}
@@ -23,6 +23,24 @@
       "id": "imageurl",
       "label": "Image",
       "info": "1200 x 1200px .png recommended"
+    },
+      {
+      "type": "text",
+      "id": "subheading",
+      "label": "Sub-heading",
+      "default": "Sub-heading"
+    },
+      {
+      "type": "text",
+      "id": "heading",
+      "label": "heading",
+      "default": "heading"
+    },
+      {
+      "type": "richtext",
+      "id": "content1",
+      "label": "Text",
+      "default": "<p>Add your own custom content to give more information about your store, availability details...</p>"
     }
     ],
     "presets": [
