@@ -2,7 +2,10 @@
   <div class="maindivv">
     {% for block in section.blocks %}
       <div class="step-1">
-        <div class="image-box">
+        <div
+          class="image-box "
+          style=" background-image: linear-gradient(to bottom,transparent 0%,transparent 3vw,{{block.settings.colors1}} 0vw,{{block.settings.colors1}} 100%);"
+        >
           <div>
             <img src="{{ block.settings.imageurl |img_url: '800x'}}">
           </div>
@@ -85,7 +88,7 @@
 
 {% stylesheet %}
     .image-box {
-      background-image: linear-gradient(to bottom,transparent 0%,transparent 3vw,{{block.settings.colors1}} 0vw,{{block.settings.colors1}} 100%);
+
   }
   /*   .image-box {
       background-image: linear-gradient(to bottom,transparent 0%,transparent 3vw,#e1dfe8 0vw,#e1dfe8 100%);
