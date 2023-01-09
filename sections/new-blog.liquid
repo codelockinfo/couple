@@ -2,7 +2,7 @@
   <div class="step-1">
     <div class="image-box">
       <div>
-        <img src="{{ section.settings.imageurl }}">
+        <img src="{{ section.settings.imageurl |img_url: '800x'}}">
       </div>
     </div>
     <h5>{{ section.settings.subheading }}</h5>
