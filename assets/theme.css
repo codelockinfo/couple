@@ -1141,7 +1141,7 @@ body {
 }
 
 .features--heading-uppercase .Heading {
-  letter-spacing: 0.2em;
+  letter-spacing:unset;
   text-transform: uppercase;
 }
 
