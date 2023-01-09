@@ -7683,9 +7683,9 @@ body:not(.features--show-image-zooming) .Image--lazyLoaded.Image--zoomOut {
  * As of today this section is displayed on the home page only
  */
 
-.FeatureText {
+/* .FeatureText {
   text-align: center;
-}
+} */
 
 .FeatureText__ContentWrapper {
   padding-left: 24px;
