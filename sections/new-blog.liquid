@@ -3,17 +3,17 @@
   <div class="step-1">
     <div class="image-box">
       <div>
-        <img src="{{ section.settings.imageurl |img_url: '800x'}}">
+        <img src="{{ block.settings.imageurl |img_url: '800x'}}">
       </div>
     </div>
-    <h5>{{ section.settings.subheading }}</h5>
-    <h4>{{ section.settings.heading }}</h4>
-    <p>{{ section.settings.content1 }}</p>
+    <h5>{{ block.settings.subheading }}</h5>
+    <h4>{{ block.settings.heading }}</h4>
+    <p>{{ block.settings.content1 }}</p>
     <a class="book-concierge with-link-primary" href="#">
       <div class="background-container">
         <div class="image-container image-ready"></div>
       </div>
-      <a class="link-primary animate-out" href="{{ section.settings.url-link }}">{{ section.settings.url-text }}</a>
+      <a class="link-primary animate-out" href="{{ block.settings.url-link }}">{{ block.settings.url-text }}</a>
     </a>
   </div>
 {% endfor %}
