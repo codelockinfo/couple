@@ -1,6 +1,6 @@
 <div class="step-1">
     <div class="image-box">
-      <div style="--image: url(//cdn.shopify.com/s/files/1/2538/3476/t/4/assets/inbloom-d-pdp-solitaire-6040-02-rose-2x.png?v=24637152731377702141603712844)"></div>
+      <div style="--image: url({{ section.settings.imageurl }})"></div>
     </div>
     <h5>Step 1</h5>
     <h4>Choose your style.</h4>
@@ -18,7 +18,12 @@
   {
     "name": "new blog",
     "settings": [
-      
+      {
+      "type": "image_picker",
+      "id": "imageurl",
+      "label": "Image",
+      "info": "1200 x 1200px .png recommended"
+    }
     ],
     "presets": [
     {
