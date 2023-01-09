@@ -1,4 +1,4 @@
-<section class="clsFeature clsvideo Section {% unless section.settings.image %}Section--spacingNormal{% endunless %}">
+<section class="clsvideo Section {% unless section.settings.image %}Section--spacingNormal{% endunless %}">
   {%- capture section_content -%}
     <div class="FeatureText__ContentWrapper ">
       <div class="FeatureText__Content">
@@ -132,6 +132,9 @@
 /*  .clsvideo .FeatureText__ContentWrapper {
     padding-left: 100px;
 } */
+  section.clsvideo.Section.Section--spacingNormal {
+    position: relative;
+}
  .clsvideo .mainclass {
     height: 100%;
     width: 100%;
