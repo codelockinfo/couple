@@ -137,10 +137,22 @@
             "url-link": "",
             "url-text": "BOOK AN APPOINTMENT"
           }
+        },
+        "a963d388-2ed4-49ac-b78b-ce685a1f919a": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/inbloom-d-account-atf-2x_png.webp",
+            "subheading": "STEP 2",
+            "heading": "Pick your diamond.",
+            "content1": "<p>In addition to strict quality levels varified by 3rd party grading facilities, our in-house GIA trained gemologist will vet 2-3 diamond options for you that fit your style and budget.<\/p>",
+            "url-link": "",
+            "url-text": "GET A QUOTE"
+          }
         }
       },
       "block_order": [
-        "e83d47b5-3b3e-40a9-a408-600415c76e24"
+        "e83d47b5-3b3e-40a9-a408-600415c76e24",
+        "a963d388-2ed4-49ac-b78b-ce685a1f919a"
       ],
       "settings": {
       }
