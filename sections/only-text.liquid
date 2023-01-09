@@ -1,4 +1,4 @@
-<section class="Section {% unless section.settings.image %}Section--spacingNormal{% endunless %}">
+<section class="onlytext Section {% unless section.settings.image %}Section--spacingNormal{% endunless %}">
   {%- capture section_content -%}
     <div class="FeatureText__ContentWrapper">
       <div class="FeatureText__Content">
@@ -120,3 +120,9 @@
   ]
 }
 {% endschema %}
+<style>
+  .onlytext .FeatureText__Content {
+    text-align: center;
+}
+
+</style>
