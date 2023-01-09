@@ -1,5 +1,5 @@
 <div class="Containers">
-  <div class="">
+  <div class="maindivv">
     {% for block in section.blocks %}
       <div class="step-1">
         <div class="image-box">
@@ -79,6 +79,10 @@
 {% endschema %}
 
 {% stylesheet %}
+  .maindivv{
+        display: flex;
+    justify-content: space-around;
+  }
     .step-1 {
       width: 33.33%;
   }
