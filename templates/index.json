@@ -131,7 +131,7 @@
           "type": "collection",
           "settings": {
             "imageurl": "shopify:\/\/shop_images\/inbloom-d-pdp-solitaire-6040-02-rose-2x.webp",
-            "colors1": "",
+            "colors1": "#e1dfe8",
             "subheading": "STEP 1",
             "heading": "Choose your style.",
             "content1": "<p>Get inspired by one of our classic settings, or design your own. Meet with our diamond concierge in person or on a video call to see our styles up close. We can even help design a custom ring – the process is complimentary.<\/p>",
@@ -143,7 +143,7 @@
           "type": "collection",
           "settings": {
             "imageurl": "shopify:\/\/shop_images\/inbloom-d-account-atf-2x_png.webp",
-            "colors1": "",
+            "colors1": "#f6dcd4",
             "subheading": "STEP 2",
             "heading": "Pick your diamond.",
             "content1": "<p>In addition to strict quality levels varified by 3rd party grading facilities, our in-house GIA trained gemologist will vet 2-3 diamond options for you that fit your style and budget.<\/p>",
@@ -155,7 +155,7 @@
           "type": "collection",
           "settings": {
             "imageurl": "shopify:\/\/shop_images\/inbloom-d-privacy-atf-2x.webp",
-            "colors1": "#f94c43",
+            "colors1": "#dde9ed",
             "subheading": "STEP 3",
             "heading": "A perfect proposal.",
             "content1": "<p>In 3-4 weeks your handcrafted ring will be delivered with a luxurious proposal kit including polished brass ring tray, proposal box, and cleaning pen. Our lifetime warranty, complimentary resizing, and free returns mean you can shop with confidence.<\/p>",
