@@ -461,23 +461,13 @@
         "link_url": ""
       }
     },
-    "dfbb9896-063d-4c94-86cf-f606468f4354": {
-      "type": "text-with-image",
-      "settings": {
-        "subheading": "GUIDANCE",
-        "title": "No matter where you are in the process, we’re here to help.",
-        "image_position": "right",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
-        "link_text": "ASK US ANYTHING",
-        "link_url": ""
-      }
-    },
     "3b1674e0-5652-437a-b607-a6d22614d92c": {
       "type": "only-text",
       "settings": {
         "subheading": "GUIDANCE",
         "title": "NO MATTER WHERE YOU ARE IN THE PROCESS, WE’RE HERE TO HELP.",
         "Button": "ASK US ANYTHING",
+        "buttonlink0": "",
         "image_position": "right",
         "content": "",
         "link_text": "READ OUR DIAMONDS 101 GUIDE",
@@ -500,7 +490,6 @@
     "11cc7283-485a-4990-8c84-fa5bd6612b7e",
     "b8e56443-ae64-4105-be91-4d6359084d19",
     "3712930c-1497-4fa8-b23f-17af53889457",
-    "dfbb9896-063d-4c94-86cf-f606468f4354",
     "3b1674e0-5652-437a-b607-a6d22614d92c"
   ]
 }
