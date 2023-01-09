@@ -460,6 +460,17 @@
         "link_text": "BOOK AN APPOINTMENT",
         "link_url": ""
       }
+    },
+    "dfbb9896-063d-4c94-86cf-f606468f4354": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "GUIDANCE",
+        "title": "No matter where you are in the process, we’re here to help.",
+        "image_position": "right",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "link_text": "ASK US ANYTHING",
+        "link_url": ""
+      }
     }
   },
   "order": [
@@ -476,6 +487,7 @@
     "4bdf2d71-fb23-4a53-bbdf-d75881a32b88",
     "11cc7283-485a-4990-8c84-fa5bd6612b7e",
     "b8e56443-ae64-4105-be91-4d6359084d19",
-    "3712930c-1497-4fa8-b23f-17af53889457"
+    "3712930c-1497-4fa8-b23f-17af53889457",
+    "dfbb9896-063d-4c94-86cf-f606468f4354"
   ]
 }
