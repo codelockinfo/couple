@@ -126,13 +126,23 @@
     },
     "7c2e05ca-72f3-44fb-a21a-b25b5137f0bb": {
       "type": "new-blog",
+      "blocks": {
+        "e83d47b5-3b3e-40a9-a408-600415c76e24": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/inbloom-d-pdp-solitaire-6040-02-rose-2x.webp",
+            "subheading": "STEP 1",
+            "heading": "Choose your style.",
+            "content1": "<p>Get inspired by one of our classic settings, or design your own. Meet with our diamond concierge in person or on a video call to see our styles up close. We can even help design a custom ring – the process is complimentary.<\/p>",
+            "url-link": "",
+            "url-text": "BOOK AN APPOINTMENT"
+          }
+        }
+      },
+      "block_order": [
+        "e83d47b5-3b3e-40a9-a408-600415c76e24"
+      ],
       "settings": {
-        "imageurl": "shopify:\/\/shop_images\/inbloom-d-pdp-solitaire-6040-02-rose-2x.webp",
-        "subheading": "STEP 1",
-        "heading": "Choose your style.",
-        "content1": "<p>Get inspired by one of our classic settings, or design your own. Meet with our diamond concierge in person or on a video call to see our styles up close. We can even help design a custom ring – the process is complimentary.<\/p>",
-        "url-link": "",
-        "url-text": "BOOK AN APPOINTMENT"
       }
     }
   },
