@@ -11,7 +11,11 @@
             {%- if section.settings.title != blank -%}
               <h2 class="SectionHeader__Heading Heading u-h1">{{ section.settings.title | escape }}</h2>
             {%- endif -%}
-
+          
+            {%- if section.settings.title != blank -%}
+              <h4 class="SectionHeader__Heading Heading u-h1">{{ section.settings.title | escape }}</h4>
+            {%- endif -%}
+          
             {%- if section.settings.content != blank -%}
               <div class="SectionHeader__Description Rte">
                 {{ section.settings.content }}
