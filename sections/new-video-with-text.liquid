@@ -35,13 +35,12 @@
         <div class="AspectRatio1" >
 
         <div class="videocls">
-
           <video autoplay="" loop="" muted="1" playsinline="" height="410" width="231" preload="metadata" style="" data-video-width="231" data-video-height="410" src="{{ section.settings.video_url2 | split: '?v=' }}"></video>
         </div>
 
         </div>
           <div class="videodiv2">
-            
+            <video autoplay="" loop="" muted="1" playsinline="" height="410" width="231" preload="metadata" style="" data-video-width="231" data-video-height="410" src="{{ section.settings.video_url3 | split: '?v=' }}"></video>
           </div>
           </div>
       </div>
@@ -79,6 +78,11 @@
     {
       "type": "url",
       "id": "video_url2",
+    "label" : "video link" 
+    },
+     {
+      "type": "url",
+      "id": "video_url3",
     "label" : "video link" 
     },
     {
