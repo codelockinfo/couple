@@ -471,6 +471,16 @@
         "link_text": "ASK US ANYTHING",
         "link_url": ""
       }
+    },
+    "3b1674e0-5652-437a-b607-a6d22614d92c": {
+      "type": "only-text",
+      "settings": {
+        "subheading": "GUIDANCE",
+        "title": "NO MATTER WHERE YOU ARE IN THE PROCESS, WE’RE HERE TO HELP.",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
     }
   },
   "order": [
@@ -488,6 +498,7 @@
     "11cc7283-485a-4990-8c84-fa5bd6612b7e",
     "b8e56443-ae64-4105-be91-4d6359084d19",
     "3712930c-1497-4fa8-b23f-17af53889457",
-    "dfbb9896-063d-4c94-86cf-f606468f4354"
+    "dfbb9896-063d-4c94-86cf-f606468f4354",
+    "3b1674e0-5652-437a-b607-a6d22614d92c"
   ]
 }
