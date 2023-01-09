@@ -123,6 +123,17 @@
         "link_text": "READ OUR DIAMONDS 101 GUIDE",
         "link_url": ""
       }
+    },
+    "7c2e05ca-72f3-44fb-a21a-b25b5137f0bb": {
+      "type": "new-blog",
+      "settings": {
+        "imageurl": "shopify:\/\/shop_images\/inbloom-d-pdp-solitaire-6040-02-rose-2x.webp",
+        "subheading": "STEP 1",
+        "heading": "Choose your style.",
+        "content1": "<p>Get inspired by one of our classic settings, or design your own. Meet with our diamond concierge in person or on a video call to see our styles up close. We can even help design a custom ring – the process is complimentary.<\/p>",
+        "url-link": "",
+        "url-text": "BOOK AN APPOINTMENT"
+      }
     }
   },
   "order": [
@@ -132,6 +143,7 @@
     "89822bce-30a8-4067-8c11-0db6cd4135a7",
     "blog-posts",
     "3712930c-1497-4fa8-b23f-17af53889457",
-    "3b1674e0-5652-437a-b607-a6d22614d92c"
+    "3b1674e0-5652-437a-b607-a6d22614d92c",
+    "7c2e05ca-72f3-44fb-a21a-b25b5137f0bb"
   ]
 }
