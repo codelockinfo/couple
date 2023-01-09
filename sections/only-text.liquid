@@ -13,7 +13,7 @@
             {%- endif -%}
           
             {%- if section.settings.title != blank -%}
-              <h4 class="SectionHeader__Heading Heading u-h1">{{ section.settings.title | escape }}</h4>
+              <h4 class="SectionHeader__Heading Heading u-h1">{{ section.settings.Button | escape }}</h4>
             {%- endif -%}
           
             {%- if section.settings.content != blank -%}
@@ -73,6 +73,12 @@
     {
       "type": "text",
       "id": "title",
+      "label": "Heading",
+      "default": "Title"
+    },
+     {
+      "type": "text",
+      "id": "Button",
       "label": "Heading",
       "default": "Title"
     },
