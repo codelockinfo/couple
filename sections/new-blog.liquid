@@ -22,8 +22,13 @@
 {% schema %}
   {
     "name": "new blog",
-    "settings": [
-      {
+    "settings": [],
+      "blocks": [
+    {
+      "type": "collection",
+      "name": "Collection",
+      "settings": [
+         {
       "type": "image_picker",
       "id": "imageurl",
       "label": "Image",
@@ -57,7 +62,12 @@
       "id": "url-text",
       "label": "Link text"
     }
-    ],
+       
+      ]
+    }
+  ],
+     
+
     "presets": [
     {
      "name": "new blog"
