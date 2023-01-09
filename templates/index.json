@@ -148,11 +148,23 @@
             "url-link": "",
             "url-text": "GET A QUOTE"
           }
+        },
+        "2a3f9c0d-8a4e-4607-a89f-183fc6c24902": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/inbloom-d-privacy-atf-2x.webp",
+            "subheading": "STEP 3",
+            "heading": "A perfect proposal.",
+            "content1": "<p>In 3-4 weeks your handcrafted ring will be delivered with a luxurious proposal kit including polished brass ring tray, proposal box, and cleaning pen. Our lifetime warranty, complimentary resizing, and free returns mean you can shop with confidence.<\/p>",
+            "url-link": "",
+            "url-text": "Learn more"
+          }
         }
       },
       "block_order": [
         "e83d47b5-3b3e-40a9-a408-600415c76e24",
-        "a963d388-2ed4-49ac-b78b-ce685a1f919a"
+        "a963d388-2ed4-49ac-b78b-ce685a1f919a",
+        "2a3f9c0d-8a4e-4607-a89f-183fc6c24902"
       ],
       "settings": {
       }
