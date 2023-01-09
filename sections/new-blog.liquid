@@ -9,7 +9,7 @@
       <div class="background-container">
         <div class="image-container image-ready"></div>
       </div>
-      <span class="link-primary animate-out">Book an appointment</span>
+      <a class="link-primary animate-out" href="{{ section.settings.url-link }}">{{ section.settings.url-text }}</a>
     </a>
 </div>
 
@@ -41,6 +41,16 @@
       "id": "content1",
       "label": "Text",
       "default": "<p>Add your own custom content to give more information about your store, availability details...</p>"
+    },
+      {
+      "type": "url",
+      "id": "url-link",
+      "label": "Link URL"
+    },
+      {
+      "type": "text",
+      "id": "url-text",
+      "label": "Link text"
     }
     ],
     "presets": [
