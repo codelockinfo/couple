@@ -13,7 +13,7 @@
             {%- endif -%}
           
             {%- if section.settings.title != blank -%}
-              <a href="" class="buttontext">{{ section.settings.Button | escape }}</a>
+              <a href="{{ section.settings.buttonlink0 }}" class="buttontext">{{ section.settings.Button | escape }}</a>
             {%- endif -%}
           
             {%- if section.settings.content != blank -%}
@@ -81,6 +81,11 @@
       "id": "Button",
       "label": "Heading",
       "default": "Title"
+    },
+    {
+      "type": "url",
+      "id": "buttonlink0",
+      "label": "Link URL"
     },
     {
       "type": "image_picker",
