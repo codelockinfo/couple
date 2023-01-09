@@ -477,6 +477,8 @@
       "settings": {
         "subheading": "GUIDANCE",
         "title": "NO MATTER WHERE YOU ARE IN THE PROCESS, WE’RE HERE TO HELP.",
+        "Button": "ASK US ANYTHING",
+        "image_position": "right",
         "content": "",
         "link_text": "READ OUR DIAMONDS 101 GUIDE",
         "link_url": ""
