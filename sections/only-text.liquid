@@ -1,4 +1,7 @@
-<section class="onlytext Section {% unless section.settings.image %}Section--spacingNormal{% endunless %}">
+<section
+  class="onlytext Section {% unless section.settings.image %}Section--spacingNormal{% endunless %}"
+  style="background-color: {{section.settings.bgcolor}};"
+>
   {%- capture section_content -%}
     <div class="FeatureText__ContentWrapper">
       <div class="FeatureText__Content">
@@ -155,7 +158,7 @@
             text-align: center;
         }
   {{ section.id }}.onlytext{
-    background-color: {{section.settings.bgcolor}};
+
   }
           a.buttontext:hover {
             background-color: #283953;
