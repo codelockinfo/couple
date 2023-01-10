@@ -87,7 +87,8 @@
         "image_position": "right",
         "content": "<p>Buying a ring shouldn’t be the stressful part about getting engaged.<\/p>",
         "link_text": "",
-        "link_url": ""
+        "link_url": "",
+        "bgcolor": ""
       }
     },
     "7c2e05ca-72f3-44fb-a21a-b25b5137f0bb": {
@@ -148,7 +149,8 @@
         "image_position": "right",
         "content": "",
         "link_text": "",
-        "link_url": ""
+        "link_url": "",
+        "bgcolor": ""
       }
     },
     "ffd9f42b-1165-41af-ab24-2af66f8d4f67": {
@@ -235,7 +237,8 @@
         "image_position": "right",
         "content": "",
         "link_text": "READ OUR DIAMONDS 101 GUIDE",
-        "link_url": "shopify:\/\/collections"
+        "link_url": "shopify:\/\/collections",
+        "bgcolor": "#ffffff"
       }
     },
     "1673324214bd37b5dd": {
