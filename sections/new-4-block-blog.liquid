@@ -1,30 +1,33 @@
-<div class="Containers block4">
-  <div class="maindivv">
-    {% for block in section.blocks %}
-      <div class="block-1">
-        <div
-          class="image-box "
-          style=" background-image: linear-gradient(to bottom,transparent 0%,transparent 2vw,{{block.settings.colors1}} 0vw,{{block.settings.colors1}} 100%);"
-        >
-          <div class="blockimg">
-            <img src="{{ block.settings.imageurl |img_url: '800x'}}">
+<div style="{{ section.settings.bgcolors }}">
+  <div class="Containers block4">
+    <div class="maindivv">
+      {% for block in section.blocks %}
+        <div class="block-1">
+          <div
+            class="image-box "
+            style=" background-image: linear-gradient(to bottom,transparent 0%,transparent 2vw,{{block.settings.colors1}} 0vw,{{block.settings.colors1}} 100%);"
+          >
+            <div class="blockimg">
+              <img src="{{ block.settings.imageurl |img_url: '800x'}}">
+            </div>
           </div>
-        </div>
-        <h5>{{ block.settings.subheading }}</h5>
+          <h5>{{ block.settings.subheading }}</h5>
 
-        <h4>{{ block.settings.heading }}</h4>
-        <p>{{ block.settings.content1 }}</p>
-        <a class="book-concierge with-link-primary" href="#">
-          <div class="background-container">
-            <div class="image-container image-ready"></div>
-          </div>
-          <a class="link-primary animate-out" href="{{ block.settings.url-link }}">{{ block.settings['url-text'] }}</a>
-        </a>
-      </div>
-    {% endfor %}
+          <h4>{{ block.settings.heading }}</h4>
+          <p>{{ block.settings.content1 }}</p>
+          <a class="book-concierge with-link-primary" href="#">
+            <div class="background-container">
+              <div class="image-container image-ready"></div>
+            </div>
+            <a class="link-primary animate-out" href="{{ block.settings.url-link }}">
+              {{- block.settings['url-text'] -}}
+            </a>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
   </div>
 </div>
-
 {% schema %}
 {
   "name": "new blog 4",
@@ -72,7 +75,12 @@
     "type": "text",
     "id": "url-text",
     "label": "Link text"
-  }
+  },
+        {
+                  "type": "color",
+                  "id": "bgcolors",
+                  "label": "background color"
+                }
 
     ]
   }
