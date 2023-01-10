@@ -11353,7 +11353,7 @@ shopify-payment-terms {
 }
 
 .FeatureText__ContentWrapper {
-    padding-right: 100px;
+    padding-right: 100px !important;
 }
 h2.SectionHeader__Heading.Heading.u-h1 {
     font-family: Feijoa-Medium,Georgia,Times New Roman,Times,serif;
