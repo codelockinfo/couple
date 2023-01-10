@@ -77,6 +77,19 @@
         "buttontext": "SEE ALL CUSTOMER REVIEWS"
       }
     },
+    "feffc0d2-6b75-4fcb-b312-5ccd439ecf95": {
+      "type": "only-text",
+      "settings": {
+        "subheading": "STRESS-FREE BUYING",
+        "title": "How it works.",
+        "Button": "",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "<p>Buying a ring shouldn’t be the stressful part about getting engaged.<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
     "7c2e05ca-72f3-44fb-a21a-b25b5137f0bb": {
       "type": "new-blog",
       "blocks": {
@@ -144,24 +157,11 @@
         "subheading": "GUIDANCE",
         "title": "NO MATTER WHERE YOU ARE IN THE PROCESS, WE’RE HERE TO HELP.",
         "Button": "ASK US ANYTHING",
-        "buttonlink0": "",
+        "buttonlink0": "shopify:\/\/collections\/african-natural-products",
         "image_position": "right",
         "content": "",
         "link_text": "READ OUR DIAMONDS 101 GUIDE",
         "link_url": "shopify:\/\/collections"
-      }
-    },
-    "feffc0d2-6b75-4fcb-b312-5ccd439ecf95": {
-      "type": "only-text",
-      "settings": {
-        "subheading": "STRESS-FREE BUYING",
-        "title": "How it works.",
-        "Button": "",
-        "buttonlink0": "",
-        "image_position": "right",
-        "content": "<p>Buying a ring shouldn’t be the stressful part about getting engaged.<\/p>",
-        "link_text": "",
-        "link_url": ""
       }
     }
   },
@@ -170,9 +170,9 @@
     "53d58076-f0a7-41f0-8ec6-0825164c0768",
     "84c8e6d6-8195-470f-8853-f794e302b29b",
     "89822bce-30a8-4067-8c11-0db6cd4135a7",
+    "feffc0d2-6b75-4fcb-b312-5ccd439ecf95",
     "7c2e05ca-72f3-44fb-a21a-b25b5137f0bb",
     "3712930c-1497-4fa8-b23f-17af53889457",
-    "3b1674e0-5652-437a-b607-a6d22614d92c",
-    "feffc0d2-6b75-4fcb-b312-5ccd439ecf95"
+    "3b1674e0-5652-437a-b607-a6d22614d92c"
   ]
 }
