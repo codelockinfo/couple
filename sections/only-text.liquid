@@ -136,45 +136,52 @@
 }
 {% endschema %}
 <style>
-   .onlytext .SectionHeader__Description {
-      max-width: 100%;
+    .onlytext .SectionHeader__Description.Rte p {
+      transition: transform .75s Cubic-bezier(.3,0,.3,1) .2s,opacity .75s Cubic-bezier(1,0,.43,1) .2s;
+      font-size: 18px;
+      line-height: 1.75;
+      color: #122947cc;
+      font-family: "Brown",Sans-Serif;
   }
-      .onlytext .FeatureText__Content {
-        text-align: center;
+     .onlytext .SectionHeader__Description {
+        max-width: 100%;
     }
-      a.buttontext:hover {
-        background-color: #283953;
-        color: #fff;
-    }
-      a.buttontext {
-        margin-bottom: 30px;
-        display: inline-block;
-        height: 56px;
-        min-width: 160px;
-        border: 1px solid rgba(18,41,71,.12);
-        border-radius: 2px;
-        font-size: 12px;
-        font-weight: 700;
-        line-height: 14px;
-        text-align: center;
-        padding: 0 24px;
-        color: #fff;
-        line-height: 54px;
-        text-transform: uppercase;
-        letter-spacing: .12em;
-        white-space: nowrap;
-        transition: background-color .2s Cubic-bezier(1,0,.43,1),color .2s Cubic-bezier(1,0,.43,1),transform .2s Cubic-bezier(.3,0,.3,1);
-        background-color: #122947;
-    }
-    .onlytext h2.SectionHeader__Heading.Heading.u-h1 {
-        font-weight: 400;
-        line-height: 1.3;
-        color: #122947;
-        margin: 0 0 24px;
-        font-size: 38px;
-    }
-      .onlytext .FeatureText__Content {
-        max-width: 50%;
-        margin: 0 auto;
-    }
+        .onlytext .FeatureText__Content {
+          text-align: center;
+      }
+        a.buttontext:hover {
+          background-color: #283953;
+          color: #fff;
+      }
+        a.buttontext {
+          margin-bottom: 30px;
+          display: inline-block;
+          height: 56px;
+          min-width: 160px;
+          border: 1px solid rgba(18,41,71,.12);
+          border-radius: 2px;
+          font-size: 12px;
+          font-weight: 700;
+          line-height: 14px;
+          text-align: center;
+          padding: 0 24px;
+          color: #fff;
+          line-height: 54px;
+          text-transform: uppercase;
+          letter-spacing: .12em;
+          white-space: nowrap;
+          transition: background-color .2s Cubic-bezier(1,0,.43,1),color .2s Cubic-bezier(1,0,.43,1),transform .2s Cubic-bezier(.3,0,.3,1);
+          background-color: #122947;
+      }
+      .onlytext h2.SectionHeader__Heading.Heading.u-h1 {
+          font-weight: 400;
+          line-height: 1.3;
+          color: #122947;
+          margin: 0 0 24px;
+          font-size: 38px;
+      }
+        .onlytext .FeatureText__Content {
+          max-width: 50%;
+          margin: 0 auto;
+      }
 </style>
