@@ -182,6 +182,67 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "ffd9f42b-1165-41af-ab24-2af66f8d4f67": {
+      "type": "new-4-block-blog",
+      "blocks": {
+        "88b16931-24c5-4a8a-ad70-d75d1d046c9d": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/asset_17.png",
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": ""
+          }
+        },
+        "9b545805-80b8-44ed-9ce1-37c512d5ec4c": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/asset_18.png",
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": ""
+          }
+        },
+        "40c11bd7-61e4-41f3-be61-771e05d9e58b": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/asset_19.png",
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": ""
+          }
+        },
+        "db58054a-d851-43c3-912f-86b2531513b9": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/asset_20.png",
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": ""
+          }
+        }
+      },
+      "block_order": [
+        "88b16931-24c5-4a8a-ad70-d75d1d046c9d",
+        "9b545805-80b8-44ed-9ce1-37c512d5ec4c",
+        "40c11bd7-61e4-41f3-be61-771e05d9e58b",
+        "db58054a-d851-43c3-912f-86b2531513b9"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -193,6 +254,7 @@
     "7c2e05ca-72f3-44fb-a21a-b25b5137f0bb",
     "3712930c-1497-4fa8-b23f-17af53889457",
     "3b1674e0-5652-437a-b607-a6d22614d92c",
-    "1673324214bd37b5dd"
+    "1673324214bd37b5dd",
+    "ffd9f42b-1165-41af-ab24-2af66f8d4f67"
   ]
 }
