@@ -26,12 +26,24 @@
         </div>
       {% endfor %}
     </div>
+    <a href="{{ section.settings.buttonlink }}">{{ section.settings.buttontexts }}<a/>
   </div>
 </div>
 {% schema %}
 {
   "name": "new blog 4",
-  "settings": [],
+  "settings": [
+    {
+    "type": "url",
+    "id": "buttontexts",
+    "label": "Button text"
+  },
+    {
+    "type": "text",
+    "id": "url-link",
+    "label": "Link URL"
+  }
+  ],
     "blocks": [
   {
     "type": "collection",
