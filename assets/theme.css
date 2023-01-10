@@ -11372,3 +11372,8 @@ h2.SectionHeader__Heading.Heading.u-h1 {
 .FeatureText__Content {
     max-width: unset;
 }
+.SectionHeader__Description.Rte p{
+    font-family: "Brown",Sans-Serif;
+    color: #122947cc;
+    font-size: 18px;
+}
