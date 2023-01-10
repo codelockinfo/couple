@@ -270,6 +270,19 @@
       "type": "Newsletter-new",
       "settings": {
       }
+    },
+    "e6dcbb83-2163-4f94-b01b-5c846093f67c": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "section_size": "large",
+        "image": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-atf-2x.jpg",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30,
+        "subheading": "",
+        "title": "Tell your story",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+      }
     }
   },
   "order": [
@@ -284,6 +297,7 @@
     "3712930c-1497-4fa8-b23f-17af53889457",
     "3b1674e0-5652-437a-b607-a6d22614d92c",
     "1673324214bd37b5dd",
-    "9e65dd7b-5eb8-4379-b7c8-097feef3b338"
+    "9e65dd7b-5eb8-4379-b7c8-097feef3b338",
+    "e6dcbb83-2163-4f94-b01b-5c846093f67c"
   ]
 }
