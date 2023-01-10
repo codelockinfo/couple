@@ -163,6 +163,25 @@
         "link_text": "READ OUR DIAMONDS 101 GUIDE",
         "link_url": "shopify:\/\/collections"
       }
+    },
+    "1673324214bd37b5dd": {
+      "type": "apps",
+      "blocks": {
+        "77ff0dde-72ae-4963-9ad5-fb7fcfee7f5b": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "77ff0dde-72ae-4963-9ad5-fb7fcfee7f5b"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -173,6 +192,7 @@
     "feffc0d2-6b75-4fcb-b312-5ccd439ecf95",
     "7c2e05ca-72f3-44fb-a21a-b25b5137f0bb",
     "3712930c-1497-4fa8-b23f-17af53889457",
-    "3b1674e0-5652-437a-b607-a6d22614d92c"
+    "3b1674e0-5652-437a-b607-a6d22614d92c",
+    "1673324214bd37b5dd"
   ]
 }
