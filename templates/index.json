@@ -128,12 +128,24 @@
             "url-link": "",
             "url-text": "Learn more"
           }
+        },
+        "7d0f5252-efed-4cdc-8bfb-f96169d70725": {
+          "type": "collection",
+          "settings": {
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": ""
+          }
         }
       },
       "block_order": [
         "e83d47b5-3b3e-40a9-a408-600415c76e24",
         "a963d388-2ed4-49ac-b78b-ce685a1f919a",
-        "2a3f9c0d-8a4e-4607-a89f-183fc6c24902"
+        "2a3f9c0d-8a4e-4607-a89f-183fc6c24902",
+        "7d0f5252-efed-4cdc-8bfb-f96169d70725"
       ],
       "settings": {
       }
