@@ -216,8 +216,8 @@
         "db58054a-d851-43c3-912f-86b2531513b9"
       ],
       "settings": {
-        "buttontexts": "shopify:\/\/collections",
-        "url-link": "LEARN MORE"
+        "buttonlink": "shopify:\/\/collections",
+        "buttontexts": "LEARN MORE"
       }
     },
     "3712930c-1497-4fa8-b23f-17af53889457": {
