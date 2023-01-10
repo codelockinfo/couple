@@ -6,7 +6,7 @@
           class="image-box "
           style=" background-image: linear-gradient(to bottom,transparent 0%,transparent 3vw,{{block.settings.colors1}} 0vw,{{block.settings.colors1}} 100%);"
         >
-          <div>
+          <div class="blockimg">
             <img src="{{ block.settings.imageurl |img_url: '800x'}}">
           </div>
         </div>
@@ -88,7 +88,7 @@
 {% endschema %}
 
 {% stylesheet %}
-    .block4.image-box img {
+    .blockimg img {
       min-height: 160px;
   }
       .maindivv{
