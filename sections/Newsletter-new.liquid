@@ -32,7 +32,10 @@
             {%- if form.errors -%}
               <p class="Form__Alert Alert Alert--error">{{ form.errors.messages.email }}</p>
             {%- endif -%}
-
+            <div class="proposer-toggle">
+              <label><input type="radio" name="customer_type" value="Proposer" checked=""><span>Proposer</span></label>
+              <label><input type="radio" name="customer_type" value="Proposee"><span>Proposee</span></label>
+            </div>
             <div class="Newsletter__Inner">
               <input type="hidden" name="contact[tags]" value="newsletter">
               <input
