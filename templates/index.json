@@ -77,53 +77,6 @@
         "buttontext": "SEE ALL CUSTOMER REVIEWS"
       }
     },
-    "blog-posts": {
-      "type": "blog-posts",
-      "blocks": {
-        "blog-0": {
-          "type": "blog",
-          "settings": {
-            "blog": "couple"
-          }
-        }
-      },
-      "block_order": [
-        "blog-0"
-      ],
-      "settings": {
-        "subheading": "",
-        "title": "Featured article",
-        "show_category": false,
-        "button_link": "",
-        "button_text": "View all articles"
-      }
-    },
-    "3712930c-1497-4fa8-b23f-17af53889457": {
-      "type": "new-video-with-text",
-      "settings": {
-        "subheading": "WE’RE HERE TO HELP",
-        "title": "We get it, you’ve never done this before.",
-        "video_url2": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-4.mp4",
-        "video_url3": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-3.mp4",
-        "image_position": "right",
-        "content": "<p>That’s why we have complimentary concierges who are here to guide you through everything - from understanding what carat, color, cut, and clarity mean, to designing the perfect ring. And of course, we have resources if you’d prefer to learn at your own pace.<\/p>",
-        "link_text": "BOOK AN APPOINTMENT",
-        "link_url": ""
-      }
-    },
-    "3b1674e0-5652-437a-b607-a6d22614d92c": {
-      "type": "only-text",
-      "settings": {
-        "subheading": "GUIDANCE",
-        "title": "NO MATTER WHERE YOU ARE IN THE PROCESS, WE’RE HERE TO HELP.",
-        "Button": "ASK US ANYTHING",
-        "buttonlink0": "",
-        "image_position": "right",
-        "content": "",
-        "link_text": "READ OUR DIAMONDS 101 GUIDE",
-        "link_url": "shopify:\/\/collections"
-      }
-    },
     "7c2e05ca-72f3-44fb-a21a-b25b5137f0bb": {
       "type": "new-blog",
       "blocks": {
@@ -172,6 +125,32 @@
       "settings": {
       }
     },
+    "3712930c-1497-4fa8-b23f-17af53889457": {
+      "type": "new-video-with-text",
+      "settings": {
+        "subheading": "WE’RE HERE TO HELP",
+        "title": "We get it, you’ve never done this before.",
+        "video_url2": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-4.mp4",
+        "video_url3": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-3.mp4",
+        "image_position": "right",
+        "content": "<p>That’s why we have complimentary concierges who are here to guide you through everything - from understanding what carat, color, cut, and clarity mean, to designing the perfect ring. And of course, we have resources if you’d prefer to learn at your own pace.<\/p>",
+        "link_text": "BOOK AN APPOINTMENT",
+        "link_url": ""
+      }
+    },
+    "3b1674e0-5652-437a-b607-a6d22614d92c": {
+      "type": "only-text",
+      "settings": {
+        "subheading": "GUIDANCE",
+        "title": "NO MATTER WHERE YOU ARE IN THE PROCESS, WE’RE HERE TO HELP.",
+        "Button": "ASK US ANYTHING",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "",
+        "link_text": "READ OUR DIAMONDS 101 GUIDE",
+        "link_url": "shopify:\/\/collections"
+      }
+    },
     "feffc0d2-6b75-4fcb-b312-5ccd439ecf95": {
       "type": "only-text",
       "settings": {
@@ -191,10 +170,9 @@
     "53d58076-f0a7-41f0-8ec6-0825164c0768",
     "84c8e6d6-8195-470f-8853-f794e302b29b",
     "89822bce-30a8-4067-8c11-0db6cd4135a7",
-    "blog-posts",
+    "7c2e05ca-72f3-44fb-a21a-b25b5137f0bb",
     "3712930c-1497-4fa8-b23f-17af53889457",
     "3b1674e0-5652-437a-b607-a6d22614d92c",
-    "7c2e05ca-72f3-44fb-a21a-b25b5137f0bb",
     "feffc0d2-6b75-4fcb-b312-5ccd439ecf95"
   ]
 }
