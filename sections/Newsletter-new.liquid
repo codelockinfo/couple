@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <div class="component-newsletter-signup">
   <div class="grid">
     <div class="left-column">
@@ -46,7 +48,9 @@
                 placeholder="{{ 'home_page.newsletter.input' | t }}"
                 required
               >
-              <button type="submit" class="Form__Submit Button Button--primary"></button>
+              <button type="submit" class="Form__Submit Button Button--primary">
+                <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+              </button>
             </div>
           {%- endif -%}
         {%- endform -%}
