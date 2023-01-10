@@ -165,7 +165,8 @@
             "heading": "heading",
             "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
             "url-link": "",
-            "url-text": ""
+            "url-text": "",
+            "bgcolors": ""
           }
         },
         "9b545805-80b8-44ed-9ce1-37c512d5ec4c": {
@@ -177,7 +178,8 @@
             "heading": "heading",
             "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
             "url-link": "",
-            "url-text": ""
+            "url-text": "",
+            "bgcolors": ""
           }
         },
         "40c11bd7-61e4-41f3-be61-771e05d9e58b": {
@@ -189,7 +191,8 @@
             "heading": "heading",
             "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
             "url-link": "",
-            "url-text": ""
+            "url-text": "",
+            "bgcolors": ""
           }
         },
         "db58054a-d851-43c3-912f-86b2531513b9": {
@@ -201,7 +204,8 @@
             "heading": "heading",
             "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
             "url-link": "",
-            "url-text": ""
+            "url-text": "",
+            "bgcolors": ""
           }
         }
       },
@@ -212,6 +216,8 @@
         "db58054a-d851-43c3-912f-86b2531513b9"
       ],
       "settings": {
+        "buttontexts": "shopify:\/\/collections",
+        "url-link": "LEARN MORE"
       }
     },
     "3712930c-1497-4fa8-b23f-17af53889457": {
