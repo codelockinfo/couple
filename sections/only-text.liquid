@@ -124,7 +124,12 @@
       "type": "url",
       "id": "link_url",
       "label": "Link URL"
-    }
+    },
+    {
+                  "type": "color",
+                  "id": "bgcolor",
+                  "label": "background color"
+                }
   ],
   "presets": [
     {
@@ -149,6 +154,9 @@
           .onlytext .FeatureText__Content {
             text-align: center;
         }
+  .onlytext{
+    background-color: {{section.settings.bgcolor}};
+  }
           a.buttontext:hover {
             background-color: #283953;
             color: #fff;
