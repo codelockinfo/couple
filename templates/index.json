@@ -266,17 +266,6 @@
         "include_margins": true
       }
     },
-    "9be3461b-6549-46f8-9212-e35a04a2d6ff": {
-      "type": "newsletter",
-      "settings": {
-        "section_size": "normal",
-        "text_color": "#ffffff",
-        "button_color": "#000000",
-        "subheading": "Keep updated",
-        "title": "Newsletter",
-        "content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
-      }
-    },
     "9e65dd7b-5eb8-4379-b7c8-097feef3b338": {
       "type": "Newsletter-new",
       "settings": {
@@ -295,7 +284,6 @@
     "3712930c-1497-4fa8-b23f-17af53889457",
     "3b1674e0-5652-437a-b607-a6d22614d92c",
     "1673324214bd37b5dd",
-    "9be3461b-6549-46f8-9212-e35a04a2d6ff",
     "9e65dd7b-5eb8-4379-b7c8-097feef3b338"
   ]
 }
