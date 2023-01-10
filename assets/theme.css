@@ -11357,7 +11357,7 @@ shopify-payment-terms {
 /* cla013 */
 
 .FeatureText__Content {
-    margin-left: 21%;
+    margin-left: 21% !important;
 }
 .FeatureText__ContentWrapper {
     padding-right: 100px !important;
