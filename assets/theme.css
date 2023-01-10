@@ -11364,3 +11364,6 @@ h2.SectionHeader__Heading.Heading.u-h1 {
     text-transform: none;
     font-size: 43px;
 }
+.FeatureText__Content {
+    max-width: unset;
+}
