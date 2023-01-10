@@ -24,7 +24,7 @@
     "heading_font": "times_new_roman_n4",
     "heading_size": "small",
     "uppercase_heading": true,
-    "text_font": "arimo_n4",
+    "text_font": "cabin_n4",
     "base_text_font_size": 14,
     "show_page_transition": false,
     "show_button_transition": false,
