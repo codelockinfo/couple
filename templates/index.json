@@ -243,6 +243,19 @@
       ],
       "settings": {
       }
+    },
+    "35b57eeb-122b-435e-a049-6d78ace4520d": {
+      "type": "only-text",
+      "settings": {
+        "subheading": "A CURATED EXPERIENCE",
+        "title": "Everything matters",
+        "Button": "",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "",
+        "link_text": "",
+        "link_url": ""
+      }
     }
   },
   "order": [
@@ -255,6 +268,7 @@
     "3712930c-1497-4fa8-b23f-17af53889457",
     "3b1674e0-5652-437a-b607-a6d22614d92c",
     "1673324214bd37b5dd",
-    "ffd9f42b-1165-41af-ab24-2af66f8d4f67"
+    "ffd9f42b-1165-41af-ab24-2af66f8d4f67",
+    "35b57eeb-122b-435e-a049-6d78ace4520d"
   ]
 }
