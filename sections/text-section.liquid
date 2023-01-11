@@ -10,7 +10,7 @@
             {%- if section.settings.subheading != blank -%}
               <h3 class="SectionHeader__SubHeading Heading u-h6">{{ section.settings.subheading | escape }}</h3>
             {%- endif -%}
-
+<div>
             {%- if section.settings.title != blank -%}
               <h2 class="SectionHeader__Heading Heading u-h1">{{ section.settings.title | escape }}</h2>
             {%- endif -%}
@@ -18,7 +18,7 @@
             {%- if section.settings.buttonlink0 != blank -%}
               <a href="{{ section.settings.buttonlink0 }}" class="buttontext">{{ section.settings.Button | escape }}</a><br>
             {%- endif -%}
-          
+          </div>
             {%- if section.settings.content != blank -%}
               <div class="SectionHeader__Description Rte">
                 {{ section.settings.content }}
