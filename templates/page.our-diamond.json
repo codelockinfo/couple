@@ -30,10 +30,19 @@
             "heading": "From figuring out ring size to finding the right style",
             "text": "We can answer quick questions, or help you along every step of the way"
           }
+        },
+        "436adc79-6c2f-454d-93ef-f07643e7c258": {
+          "type": "block",
+          "settings": {
+            "imagesmain": "shopify:\/\/shop_images\/concierge-world.png",
+            "heading": "Anytime, anyplace",
+            "text": "We can answer quick questions, or help you along every step of the way"
+          }
         }
       },
       "block_order": [
-        "064e3770-2d1b-43d3-ba6c-0f76811b2adc"
+        "064e3770-2d1b-43d3-ba6c-0f76811b2adc",
+        "436adc79-6c2f-454d-93ef-f07643e7c258"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/inbloom-d-pdp-solitaire-6040-02-white-2x.png",
