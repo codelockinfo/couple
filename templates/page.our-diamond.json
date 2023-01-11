@@ -158,7 +158,7 @@
         "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
         "link_text": "BOOK NOW",
         "link_url": "shopify:\/\/collections",
-        "bgcolor": ""
+        "bgcolor": "#f8f8f6"
       }
     }
   },
