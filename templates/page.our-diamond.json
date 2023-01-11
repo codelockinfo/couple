@@ -2,11 +2,27 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+        "show_large": false
+      }
+    },
+    "e084fd2d-1d62-44af-8cef-279ff510e0d9": {
+      "type": "new-video-with-text",
+      "settings": {
+        "subheading": "Sub-heading",
+        "title": "Title",
+        "video_url2": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-4.mp4",
+        "video_url3": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-3.mp4",
+        "image_position": "right",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "link_text": "",
+        "link_url": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "e084fd2d-1d62-44af-8cef-279ff510e0d9"
   ]
 }
