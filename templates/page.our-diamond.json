@@ -24,17 +24,12 @@
       "type": "image-with-text-Select",
       "settings": {
         "image": "shopify:\/\/shop_images\/inbloom-d-pdp-solitaire-6040-02-white-2x.png",
-        "subdasing": "",
+        "imagesmain": "shopify:\/\/shop_images\/concierge-ring.png",
         "heading": "From figuring out ring size to finding the right style",
         "text": "We can answer quick questions, or help you along every step of the way",
-        "text2": "",
         "option-select": "2",
-        "btn-text": "",
-        "btn-link": "",
-        "bg-color": "#fff",
-        "text-color": "#000",
-        "btn-bg-color": "#000",
-        "btn-text-color": "#fff"
+        "bg-color": "#ffffff",
+        "text-color": "#000000"
       }
     }
   },
