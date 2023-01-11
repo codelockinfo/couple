@@ -92,12 +92,12 @@
         width: 40%;
         background-image: linear-gradient(to bottom,transparent 0%,transparent 20%,#dde9ed 20%,#dde9ed 100%);
   }
-    }
+
       p.text {
           margin-bottom: 60px;
       }
 
-        #{{section.id}}{
+        #{{section.id}} {
           background-size: cover;
           background-repeat: no-repeat;
           {% if section.settings.bg-image != blank %}
@@ -105,8 +105,8 @@
             {% else %}
           background-color: {{section.settings.bg-color}};
             {% endif %}
-
         }
+
         .flex-overlay-section{
           display: flex;
           flex-wrap: wrap;
