@@ -146,6 +146,20 @@
         "buttonlink": "shopify:\/\/collections",
         "buttontext": "SEE ALL CUSTOMER REVIEWS"
       }
+    },
+    "ab9e6054-adfa-4ef7-8739-f758aae7b02d": {
+      "type": "text-section",
+      "settings": {
+        "subheading": "GET STARTED",
+        "title": "Book your free consultation today",
+        "Button": "Speak with our Diamond Concierge, who can answer any questions you have about the process, provide style guidance and advice, and start the process of designing your dream ring.",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "link_text": "BOOK NOW",
+        "link_url": "shopify:\/\/collections",
+        "bgcolor": ""
+      }
     }
   },
   "order": [
@@ -154,6 +168,7 @@
     "61111868-e4a7-4f01-8d93-38ec4070ae2c",
     "16b1757f-66f2-4edb-9839-cc65712bdc9d",
     "c5a3f6a3-de67-4de9-a244-9b6c5e3417d5",
-    "9c9517c4-8f1c-4f09-a256-840e8788e756"
+    "9c9517c4-8f1c-4f09-a256-840e8788e756",
+    "ab9e6054-adfa-4ef7-8739-f758aae7b02d"
   ]
 }
