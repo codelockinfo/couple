@@ -10,13 +10,13 @@
     "1b3fa557-f88f-49de-b64f-af0e853ff4d5": {
       "type": "video-with-text",
       "settings": {
-        "subheading": "Sub-heading",
-        "title": "Title",
+        "subheading": "DIAMOND CONCIERGE",
+        "title": "The modern way to buy an engagement ring",
         "video_url2": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-4.mp4",
         "video_url3": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-3.mp4",
         "image_position": "right",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
-        "link_text": "",
+        "content": "<p>A personal Diamond Concierge with expert knowledge, and 5-star customer service<\/p>",
+        "link_text": "BOOK NOW",
         "link_url": ""
       }
     }
