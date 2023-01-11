@@ -20,8 +20,8 @@
         "link_url": ""
       }
     },
-    "6d419d24-f759-4955-95e2-c4f633aaf41c": {
-      "type": "image-with-text-new",
+    "61111868-e4a7-4f01-8d93-38ec4070ae2c": {
+      "type": "image-with-text-Select",
       "settings": {
         "image": "shopify:\/\/shop_images\/inbloom-d-pdp-solitaire-6040-02-white-2x.png",
         "subdasing": "",
@@ -41,6 +41,6 @@
   "order": [
     "main",
     "1b3fa557-f88f-49de-b64f-af0e853ff4d5",
-    "6d419d24-f759-4955-95e2-c4f633aaf41c"
+    "61111868-e4a7-4f01-8d93-38ec4070ae2c"
   ]
 }
