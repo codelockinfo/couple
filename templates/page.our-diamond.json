@@ -71,12 +71,61 @@
         "link_url": "",
         "bgcolor": ""
       }
+    },
+    "b33b640d-095d-48be-9ec4-977a041eb7d8": {
+      "type": "new-blog",
+      "blocks": {
+        "e1597b34-3ff8-48ea-99e5-65e9a6ce7fcf": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/engaged-couple.png",
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": ""
+          }
+        },
+        "144ece23-2f93-4477-9ada-56c385cfa9e8": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/inbloom-d-standard-fullWidthImage01-2x.png",
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": ""
+          }
+        },
+        "136d5d1d-c235-4630-95fc-160b6b8e1c58": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/inbloom-d-standard-fullWidthImage02-2x.png",
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": ""
+          }
+        }
+      },
+      "block_order": [
+        "e1597b34-3ff8-48ea-99e5-65e9a6ce7fcf",
+        "144ece23-2f93-4477-9ada-56c385cfa9e8",
+        "136d5d1d-c235-4630-95fc-160b6b8e1c58"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
     "1b3fa557-f88f-49de-b64f-af0e853ff4d5",
     "61111868-e4a7-4f01-8d93-38ec4070ae2c",
-    "16b1757f-66f2-4edb-9839-cc65712bdc9d"
+    "16b1757f-66f2-4edb-9839-cc65712bdc9d",
+    "b33b640d-095d-48be-9ec4-977a041eb7d8"
   ]
 }
