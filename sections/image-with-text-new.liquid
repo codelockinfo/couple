@@ -1,22 +1,22 @@
 <div class="Main-Image-with-texts" id="{{ section.id }}">
   <div class="main-position-section">
     <div class="flex-overlay-section {% if section.settings.option-select == '1' %}Flex-direction-change{% endif %}">
-    <div class="selctcombo">
-      {% if section.settings.image != blank %}
-      <div class="image-section-over width-over-combo">
-        <img src="{{ section.settings.image | img_url: 'master' }}">
-      </div>
+      <div class="selctcombo">
+        {% if section.settings.image != blank %}
+          <div class="image-section-over width-over-combo">
+            <img src="{{ section.settings.image | img_url: 'master' }}">
+          </div>
         {% endif %}
-    </div>
+      </div>
       <div class="text-over-section width-over-combo1">
         <h5 class="sub-heading">{{ section.settings.subdasing }}</h5>
         <h2 class="heading">{{ section.settings.heading }}</h2>
         <p class="text">{{ section.settings.text }}</p>
         <p class="text text-cls">{{ section.settings.text2 }}</p>
-        {% if section.settings.btn-text != blank %}
-        <div class="button-overlay">
-          <a href="{{ section.settings.btn-link }}">{{ section.settings.btn-text }}</a>
-        </div>
+        {% if section.settings['btn-text'] != blank %}
+          <div class="button-overlay">
+            <a href="{{ section.settings.btn-link }}">{{ section.settings['btn-text'] }}</a>
+          </div>
         {% endif %}
       </div>
     </div>
@@ -24,196 +24,195 @@
 </div>
 
 {% schema %}
-  {
-    "name": "Image With Text Select",
-    "settings": [
-      {
-        "id" : "image",
-        "type" : "image_picker",
-        "label" : "Image"
-      },
-       {
-        "id" : "subdasing",
-        "type" : "text",
-        "label" : "Heading"
-      },
-      
-      {
-        "id" : "heading",
-        "type" : "text",
-        "label" : "Heading"
-      },
-      {
-        "id" : "text",
-        "type" : "textarea",
-        "label" : "Text"
-      },
-      {
-        "id" : "text2",
-        "type" : "textarea",
-        "label" : "Text"
-      },
-      {
-      "type": "select",
-      "id": "option-select",
-      "default": "2",
-      "options": [
-       {
-          "value": "1",
-          "label": "Right"
-       },
-       {
-          "value": "2",
-          "label": "Left"
-        }
-      ],
-      "label": "Image Position"
+{
+  "name": "Image With Text Select",
+  "settings": [
+    {
+      "id" : "image",
+      "type" : "image_picker",
+      "label" : "Image"
     },
-      {
-        "id" : "btn-text",
-        "type" : "text",
-        "label" : "Button"
-      },
-      {
-        "id" : "btn-link",
-        "type" : "url",
-        "label" : "Button Link"
-      },
-      {
-        "id" : "bg-image",
-        "type" : "image_picker",
-        "label" : "Background Image"
-      },
-      {
-        "id" : "bg-color",
-        "type" : "color",
-        "label" : "Background Color",
-        "default" : "#fff"
-      },
-      {
-        "id" : "text-color",
-        "type" : "color",
-        "label" : "Text Color",
-        "default" : "#000"
-      },
-      {
-        "id" : "btn-bg-color",
-        "type" : "color",
-        "label" : "Button Background Color",
-        "default" : "#000"
-      },
-      {
-        "id" : "btn-text-color",
-        "type" : "color",
-        "label" : "Button Text Color",
-        "default" : "#fff"
+     {
+      "id" : "subdasing",
+      "type" : "text",
+      "label" : "Heading"
+    },
+
+    {
+      "id" : "heading",
+      "type" : "text",
+      "label" : "Heading"
+    },
+    {
+      "id" : "text",
+      "type" : "textarea",
+      "label" : "Text"
+    },
+    {
+      "id" : "text2",
+      "type" : "textarea",
+      "label" : "Text"
+    },
+    {
+    "type": "select",
+    "id": "option-select",
+    "default": "2",
+    "options": [
+     {
+        "value": "1",
+        "label": "Right"
+     },
+     {
+        "value": "2",
+        "label": "Left"
       }
     ],
-    "presets" : [
-      {
-        "name" : "Image With Text new"
-      }
-    ]
-  }
+    "label": "Image Position"
+  },
+    {
+      "id" : "btn-text",
+      "type" : "text",
+      "label" : "Button"
+    },
+    {
+      "id" : "btn-link",
+      "type" : "url",
+      "label" : "Button Link"
+    },
+    {
+      "id" : "bg-image",
+      "type" : "image_picker",
+      "label" : "Background Image"
+    },
+    {
+      "id" : "bg-color",
+      "type" : "color",
+      "label" : "Background Color",
+      "default" : "#fff"
+    },
+    {
+      "id" : "text-color",
+      "type" : "color",
+      "label" : "Text Color",
+      "default" : "#000"
+    },
+    {
+      "id" : "btn-bg-color",
+      "type" : "color",
+      "label" : "Button Background Color",
+      "default" : "#000"
+    },
+    {
+      "id" : "btn-text-color",
+      "type" : "color",
+      "label" : "Button Text Color",
+      "default" : "#fff"
+    }
+  ],
+  "presets" : [
+    {
+      "name" : "Image With Text Select "
+    }
+  ]
+}
 {% endschema %}
 
 <style>
-p.text {
-    margin-bottom: 60px;
-}
-/*   .main-position-section {
-    padding: 5%;
-} */
-  #{{section.id}}{
-    background-size: cover;
-    background-repeat: no-repeat;
-    {% if section.settings.bg-image != blank %}
-      background-image: url({{section.settings.bg-image | img_url:'master'}});
-      {% else %}
-    background-color: {{section.settings.bg-color}};
-      {% endif %}
-      
+  p.text {
+      margin-bottom: 60px;
   }
-  .flex-overlay-section{
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-    justify-content: space-between;
-    align-items: center;
-  }
-  .flex-overlay-section.Flex-direction-change{
-    flex-direction: row-reverse;
-  }
-  .width-over-combo {
-    width: 60%;
-}
-     .width-over-combo1 {
-    width: 40%;
-}     
-  .image-section-over img {
-    width: 100%;
-}
-  .text-over-section {
-    padding: 0 8%;
-}
-  #{{section.id}} .text-over-section h2.heading {
-    font-family: 'Gazpacho';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 35px;
-    line-height: 42px;
-    color: {{section.settings.text-color}};
-}
-  #{{section.id}} .text-over-section p.text {
-    font-family: 'TT Norms Pro';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 24px;
-    line-height: 30px;
-    color: {{section.settings.text-color}};
-}
-  #{{section.id}} .text-over-section p.text.text-cls {
-    font-weight: 400;
-}
-  #{{section.id}} .button-overlay {
-    background: {{section.settings.btn-bg-color}};
- 
-/*     width: 100%;
-    max-width: 370px;
-    padding: 5px 20px;
-    text-align: center; */
-}
-  #{{section.id}} .button-overlay a {
-    font-family: 'TT Norms Pro';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 15px;
-    line-height: 27px;
-    text-align: center;
-    color: {{section.settings.btn-text-color}};;
-        border: 1px solid black;
-    padding: 15px 20px;
-}
+  /*   .main-position-section {
+      padding: 5%;
+  } */
+    #{{section.id}}{
+      background-size: cover;
+      background-repeat: no-repeat;
+      {% if section.settings.bg-image != blank %}
+        background-image: url({{section.settings.bg-image | img_url:'master'}});
+        {% else %}
+      background-color: {{section.settings.bg-color}};
+        {% endif %}
 
-  @media(max-width:768px){
+    }
+    .flex-overlay-section{
+      display: flex;
+      flex-wrap: wrap;
+      width: 100%;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .flex-overlay-section.Flex-direction-change{
+      flex-direction: row-reverse;
+    }
     .width-over-combo {
-    width: 100%;
-}       
-    .text-over-section {
-    padding: 0;
-      margin-top: 10%;
-}
-     #{{section.id}} .text-over-section h2.heading {
-    font-size: 25px;
-    line-height: 32px;
-}
-   #{{section.id}} .text-over-section p.text {
-    font-size: 18px;
-    line-height: 24px;
-}
-    .main-position-section {
-    padding: 10% 5%;
-}
+      width: 60%;
   }
-  
+       .width-over-combo1 {
+      width: 40%;
+  }
+    .image-section-over img {
+      width: 100%;
+  }
+    .text-over-section {
+      padding: 0 8%;
+  }
+    #{{section.id}} .text-over-section h2.heading {
+      font-family: 'Gazpacho';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 35px;
+      line-height: 42px;
+      color: {{section.settings.text-color}};
+  }
+    #{{section.id}} .text-over-section p.text {
+      font-family: 'TT Norms Pro';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 30px;
+      color: {{section.settings.text-color}};
+  }
+    #{{section.id}} .text-over-section p.text.text-cls {
+      font-weight: 400;
+  }
+    #{{section.id}} .button-overlay {
+      background: {{section.settings.btn-bg-color}};
+
+  /*     width: 100%;
+      max-width: 370px;
+      padding: 5px 20px;
+      text-align: center; */
+  }
+    #{{section.id}} .button-overlay a {
+      font-family: 'TT Norms Pro';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 15px;
+      line-height: 27px;
+      text-align: center;
+      color: {{section.settings.btn-text-color}};;
+          border: 1px solid black;
+      padding: 15px 20px;
+  }
+
+    @media(max-width:768px){
+      .width-over-combo {
+      width: 100%;
+  }
+      .text-over-section {
+      padding: 0;
+        margin-top: 10%;
+  }
+       #{{section.id}} .text-over-section h2.heading {
+      font-size: 25px;
+      line-height: 32px;
+  }
+     #{{section.id}} .text-over-section p.text {
+      font-size: 18px;
+      line-height: 24px;
+  }
+      .main-position-section {
+      padding: 10% 5%;
+  }
+    }
 </style>
