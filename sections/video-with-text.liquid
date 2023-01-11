@@ -1,4 +1,4 @@
-<section class="clsvideo Section {% unless section.settings.image %}Section--spacingNormal{% endunless %}">
+<section class="clsvideo-text Section {% unless section.settings.image %}Section--spacingNormal{% endunless %}">
   {%- capture section_content -%}
     <div class="FeatureText__ContentWrapper ">
       <div class="FeatureText__Content">
@@ -132,14 +132,14 @@
         /*  .clsvideo .FeatureText__ContentWrapper {
             padding-left: 100px;
         } */
-        section.clsvideo.Section.Section--spacingNormal {
+        section.clsvideo-text.Section.Section--spacingNormal {
           padding: 10% 0;
           background-color: #f8f8f6;
       }
-          section.clsvideo.Section.Section--spacingNormal {
+          section.clsvideo-text.Section.Section--spacingNormal {
             position: relative;
         }
-         .clsvideo .mainclass {
+         .clsvideo-text .mainclass {
             height: 100%;
             width: 100%;
             position: absolute;
@@ -149,7 +149,7 @@
             max-height: 580px;
                top: 115px;
         }
-          .clsvideo .videodiv2{
+          .clsvideo-text .videodiv2{
                 width: 200px;
             height: 200px;
             border-radius: 50%;
@@ -164,7 +164,7 @@
             height: 100%;
             width: 100%;
           }
-         .clsvideo .AspectRatio1 {
+         .clsvideo-text .AspectRatio1 {
             position: absolute;
             perspective: 500px;
             font-size: 0;
@@ -173,27 +173,27 @@
             width: 100%;
             height: 100%;
         }
-         .clsvideo .FeatureText {
+         .clsvideo-text .FeatureText {
             display: flex
 
         }
-        .clsvideo video {
+        .clsvideo-text video {
             object-fit: cover;
             height: 100%;
             width: 100%;
         }
 
-          .clsvideo .FeatureText__ImageWrapper {
+          .clsvideo-text .FeatureText__ImageWrapper {
             width: 60%;
             background-color: #e5d3d9;
         }
-          .clsvideo .FeatureText__ContentWrapper {
+          .clsvideo-text .FeatureText__ContentWrapper {
             width: 40%;
         }
-            .clsvideo .AspectRatio {
+            .clsvideo-text .AspectRatio {
             max-width: 100% !important;
         }
-         .clsvideo a.Link.Link--underline {
+         .clsvideo-text a.Link.Link--underline {
             display: inline-block;
             height: 56px;
             min-width: 160px;
@@ -212,28 +212,19 @@
                margin-top: 70px;
             transition: background-color .2s Cubic-bezier(1,0,.43,1),color .2s Cubic-bezier(1,0,.43,1),transform .2s Cubic-bezier(.3,0,.3,1);
         }
-    /*       .clsvideo .FeatureText__Content {
-            max-width: 68%;
-
-        } */
-        /*   .clsvideo .mainclass {
-            flex-basis: calc(50% - 0.16667px);
-            max-width: calc(50% - 0.16667px);
-            margin: -4% auto 0;
-        } */
-          .clsvideo a.Link.Link--underline:hover {
+          .clsvideo-text a.Link.Link--underline:hover {
             background-color: #283953;
             color: #fff;
             transform: translateY(-1px);
         }
-          .clsvideo .Link--underline:before{
+          .clsvideo-text .Link--underline:before{
                 height: unset;
           }
           h3.SectionHeader__SubHeading.Heading.u-h6 {
             color: #ef525b;
             letter-spacing: 1px;
         }
-          .clsvideo h2.SectionHeader__Heading.Heading.u-h1 {
+          .clsvideo-text h2.SectionHeader__Heading.Heading.u-h1 {
             font-weight: 400;
             line-height: 1.3;
             color: #122947;
@@ -241,10 +232,8 @@
                 font-size: 38px;
             letter-spacing: 1px;
         }
-        /*   .clsvideo .FeatureText__Content {
-            max-width: 100%;
-          } */
-          .clsvideo .SectionHeader__Description.Rte p {
+
+          .clsvideo-text .SectionHeader__Description.Rte p {
             line-height: 1.75;
             color: #122947cc;
             font-size: 17px;
@@ -257,7 +246,7 @@
             height: 100%;
                 overflow: hidden;
         }
-    .clsvideo .FeatureText__Content {
+    .clsvideo-text .FeatureText__Content {
       width: 60%;
   }
 </style>
