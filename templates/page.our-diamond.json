@@ -36,15 +36,15 @@
           "settings": {
             "imagesmain": "shopify:\/\/shop_images\/concierge-world.png",
             "heading": "Anytime, anyplace",
-            "text": "We can answer quick questions, or help you along every step of the way"
+            "text": "Connect with us on your time, from anywhere in the world online, or in person in select cities"
           }
         },
         "baf2bc72-d9d8-429a-8d15-1b0b20a46903": {
           "type": "block",
           "settings": {
             "imagesmain": "shopify:\/\/shop_images\/concierge-contact.png",
-            "heading": "Anytime, anyplace",
-            "text": "We can answer quick questions, or help you along every step of the way"
+            "heading": "Call, text, video chat, or meet IRL",
+            "text": "Whatever style of communication suites you best, we are here for you"
           }
         }
       },
