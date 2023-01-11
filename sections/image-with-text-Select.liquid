@@ -8,17 +8,20 @@
           </div>
         {% endif %}
       </div>
-      {% for block in section.blocks %}
-        <div class="text-over-section width-over-combo1">
-          <div class="imagesdiv">
-            <img src="{{ block.settings.imagesmain | img_url: 'master'  }}">
+
+      <div class="text-over-section width-over-combo1">
+        {% for block in section.blocks %}
+          <div>
+            <div class="imagesdiv">
+              <img src="{{ block.settings.imagesmain | img_url: 'master'  }}">
+            </div>
+            <div class="headingdiv">
+              <h2 class="heading">{{ block.settings.heading }}</h2>
+              <p class="text">{{ block.settings.text }}</p>
+            </div>
           </div>
-          <div class="headingdiv">
-            <h2 class="heading">{{ block.settings.heading }}</h2>
-            <p class="text">{{ block.settings.text }}</p>
-          </div>
-        </div>
-      {% endfor %}
+        {% endfor %}
+      </div>
     </div>
   </div>
 </div>
