@@ -10,7 +10,7 @@
       </div>
       <div class="text-over-section width-over-combo1">
         <div class="imagesdiv">
-            <img src="{{ section.settings.imagesmain }}"
+            <img src="{{ section.settings.imagesmain | img_url: 'master'  }}"
         </div>
         <div class="headingdiv">
             <h2 class="heading">{{ section.settings.heading }}</h2>
