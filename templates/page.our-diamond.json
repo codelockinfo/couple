@@ -119,6 +119,33 @@
       ],
       "settings": {
       }
+    },
+    "9c9517c4-8f1c-4f09-a256-840e8788e756": {
+      "type": "Testimonials-new",
+      "blocks": {
+        "bd7a2324-2d2e-4dbf-8b36-c9607418dec5": {
+          "type": "block",
+          "settings": {
+            "confimed": "“My experience finding an engagement ring with Couple was awesome. Excellent buying process, exceptional quality, and the price was right.”",
+            "confimedp": "– KEVIN K."
+          }
+        },
+        "90861bbd-b066-4a7d-be45-1767ac3db720": {
+          "type": "block",
+          "settings": {
+            "confimed": "“My experience finding an engagement ring with Couple was awesome. Excellent buying process, exceptional quality, and the price was right.”",
+            "confimedp": "– KEVIN K."
+          }
+        }
+      },
+      "block_order": [
+        "bd7a2324-2d2e-4dbf-8b36-c9607418dec5",
+        "90861bbd-b066-4a7d-be45-1767ac3db720"
+      ],
+      "settings": {
+        "buttonlink": "shopify:\/\/collections",
+        "buttontext": "SEE ALL CUSTOMER REVIEWS"
+      }
     }
   },
   "order": [
@@ -126,6 +153,7 @@
     "1b3fa557-f88f-49de-b64f-af0e853ff4d5",
     "61111868-e4a7-4f01-8d93-38ec4070ae2c",
     "16b1757f-66f2-4edb-9839-cc65712bdc9d",
-    "c5a3f6a3-de67-4de9-a244-9b6c5e3417d5"
+    "c5a3f6a3-de67-4de9-a244-9b6c5e3417d5",
+    "9c9517c4-8f1c-4f09-a256-840e8788e756"
   ]
 }
