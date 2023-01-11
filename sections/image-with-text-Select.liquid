@@ -8,15 +8,17 @@
           </div>
         {% endif %}
       </div>
-      <div class="text-over-section width-over-combo1">
-        <div class="imagesdiv">
-          <img src="{{ section.settings.imagesmain | img_url: 'master'  }}">
+      {% for block in section.blocks %}
+        <div class="text-over-section width-over-combo1">
+          <div class="imagesdiv">
+            <img src="{{ block.settings.imagesmain | img_url: 'master'  }}">
+          </div>
+          <div class="headingdiv">
+            <h2 class="heading">{{ block.settings.heading }}</h2>
+            <p class="text">{{ block.settings.text }}</p>
+          </div>
         </div>
-        <div class="headingdiv">
-          <h2 class="heading">{{ section.settings.heading }}</h2>
-          <p class="text">{{ section.settings.text }}</p>
-        </div>
-      </div>
+      {% endfor %}
     </div>
   </div>
 </div>
@@ -30,21 +32,7 @@
       "type" : "image_picker",
       "label" : "Image"
     },
-    {
-      "id" : "imagesmain",
-      "type" : "image_picker",
-      "label" : "Image"
-    },
-    {
-      "id" : "heading",
-      "type" : "text",
-      "label" : "Heading"
-    },
-    {
-      "id" : "text",
-      "type" : "textarea",
-      "label" : "Text"
-    },
+
     {
     "type": "select",
     "id": "option-select",
@@ -60,25 +48,31 @@
       }
     ],
     "label": "Image Position"
-  },
-    {
-      "id" : "bg-image",
-      "type" : "image_picker",
-      "label" : "Background Image"
-    },
-    {
-      "id" : "bg-color",
-      "type" : "color",
-      "label" : "Background Color",
-      "default" : "#fff"
-    },
-    {
-      "id" : "text-color",
-      "type" : "color",
-      "label" : "Text Color",
-      "default" : "#000"
-    }
+  }
   ],
+  "blocks": [
+  {
+    "type": "block",
+    "name": "text block",
+    "settings": [
+      {
+      "id" : "imagesmain",
+      "type" : "image_picker",
+      "label" : "Image"
+    },
+    {
+      "id" : "heading",
+      "type" : "text",
+      "label" : "Heading"
+    },
+    {
+      "id" : "text",
+      "type" : "textarea",
+      "label" : "Text"
+    }
+    ]
+  }
+],
   "presets" : [
     {
       "name" : "Image With Text Select "
