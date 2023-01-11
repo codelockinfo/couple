@@ -11,7 +11,7 @@
 
       <div class="text-over-section width-over-combo1">
         {% for block in section.blocks %}
-          <div>
+          <div class="masterdiv">
             <div class="imagesdiv">
               <img src="{{ block.settings.imagesmain | img_url: 'master'  }}">
             </div>
@@ -85,6 +85,10 @@
 {% endschema %}
 
 <style>
+  .masterdiv{
+        width: 100%;
+    display: flex;
+  }
     .imagesdiv {
       flex-basis: calc(25% - 24px);
     max-width: calc(25% - 24px);
