@@ -7,8 +7,8 @@
         "show_large": false
       }
     },
-    "e084fd2d-1d62-44af-8cef-279ff510e0d9": {
-      "type": "new-video-with-text",
+    "1b3fa557-f88f-49de-b64f-af0e853ff4d5": {
+      "type": "video-with-text",
       "settings": {
         "subheading": "Sub-heading",
         "title": "Title",
@@ -23,6 +23,6 @@
   },
   "order": [
     "main",
-    "e084fd2d-1d62-44af-8cef-279ff510e0d9"
+    "1b3fa557-f88f-49de-b64f-af0e853ff4d5"
   ]
 }
