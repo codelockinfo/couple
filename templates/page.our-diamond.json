@@ -19,10 +19,28 @@
         "link_text": "BOOK NOW",
         "link_url": ""
       }
+    },
+    "6d419d24-f759-4955-95e2-c4f633aaf41c": {
+      "type": "image-with-text-new",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/inbloom-d-pdp-solitaire-6040-02-white-2x.png",
+        "subdasing": "",
+        "heading": "From figuring out ring size to finding the right style",
+        "text": "We can answer quick questions, or help you along every step of the way",
+        "text2": "",
+        "option-select": "2",
+        "btn-text": "",
+        "btn-link": "",
+        "bg-color": "#fff",
+        "text-color": "#000",
+        "btn-bg-color": "#000",
+        "btn-text-color": "#fff"
+      }
     }
   },
   "order": [
     "main",
-    "1b3fa557-f88f-49de-b64f-af0e853ff4d5"
+    "1b3fa557-f88f-49de-b64f-af0e853ff4d5",
+    "6d419d24-f759-4955-95e2-c4f633aaf41c"
   ]
 }
