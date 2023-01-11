@@ -38,11 +38,20 @@
             "heading": "Anytime, anyplace",
             "text": "We can answer quick questions, or help you along every step of the way"
           }
+        },
+        "baf2bc72-d9d8-429a-8d15-1b0b20a46903": {
+          "type": "block",
+          "settings": {
+            "imagesmain": "shopify:\/\/shop_images\/concierge-contact.png",
+            "heading": "Anytime, anyplace",
+            "text": "We can answer quick questions, or help you along every step of the way"
+          }
         }
       },
       "block_order": [
         "064e3770-2d1b-43d3-ba6c-0f76811b2adc",
-        "436adc79-6c2f-454d-93ef-f07643e7c258"
+        "436adc79-6c2f-454d-93ef-f07643e7c258",
+        "baf2bc72-d9d8-429a-8d15-1b0b20a46903"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/inbloom-d-pdp-solitaire-6040-02-white-2x.png",
