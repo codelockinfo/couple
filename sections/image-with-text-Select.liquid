@@ -87,127 +87,130 @@
 {% endschema %}
 
 <style>
-      .masterdiv>div:nth-child(1) {
-        /* flex-basis: calc(25% - 24px); */
-        max-width: calc(25% - 24px);
-        margin-right: 0;
-        margin-left: 24px;
-    }
-    .masterdiv>* {
-      flex: 1 1 0%;
-      box-sizing: border-box;
-      margin-left: 24px;
-      margin-bottom: 24px;
+    section.clsvideo-text.Section.Section--spacingNormal {
+      margin: 0;
   }
-      .masterdiv{
-            width: 100%;
-        display: flex;
+        .masterdiv>div:nth-child(1) {
+          /* flex-basis: calc(25% - 24px); */
+          max-width: calc(25% - 24px);
+          margin-right: 0;
+          margin-left: 24px;
       }
-        .imagesdiv {
-          flex-basis: calc(25% - 24px);
-        max-width: calc(25% - 24px);
-        margin-right: 8%;
+      .masterdiv>* {
+        flex: 1 1 0%;
+        box-sizing: border-box;
         margin-left: 24px;
-      }
-            .selctcombo {
-        max-width: 40%;
-    flex: 0 0 40%;
-              background-image: linear-gradient(to bottom,transparent 0%,transparent 20%,#dde9ed 20%,#dde9ed 100%);
+        margin-bottom: 24px;
+    }
+        .masterdiv{
+              width: 100%;
+          display: flex;
         }
+          .imagesdiv {
+            flex-basis: calc(25% - 24px);
+          max-width: calc(25% - 24px);
+          margin-right: 8%;
+          margin-left: 24px;
+        }
+              .selctcombo {
+          max-width: 40%;
+      flex: 0 0 40%;
+                background-image: linear-gradient(to bottom,transparent 0%,transparent 20%,#dde9ed 20%,#dde9ed 100%);
+          }
 
-            p.text {
-                margin-bottom: 60px;
-            }
-
-              #{{section.id}} {
-                background-size: cover;
-                background-repeat: no-repeat;
-                {% if section.settings.bg-image != blank %}
-                  background-image: url({{section.settings.bg-image | img_url:'master'}});
-                  {% else %}
-                background-color: {{section.settings.bg-color}};
-                  {% endif %}
+              p.text {
+                  margin-bottom: 60px;
               }
 
-              .flex-overlay-section{
-                display: flex;
-                flex-wrap: wrap;
-                width: 100%;
-                justify-content: space-between;
-                 align-items: flex-start;
-              }
-              .flex-overlay-section.Flex-direction-change{
-                flex-direction: row-reverse;
-              }
-              .width-over-combo {
-                width: 100%;
-            }
-                 .width-over-combo1 {
-             max-width: 60%;
-    flex: 0 0 60%;
+                #{{section.id}} {
+                  background-size: cover;
+                  background-repeat: no-repeat;
+                  {% if section.settings.bg-image != blank %}
+                    background-image: url({{section.settings.bg-image | img_url:'master'}});
+                    {% else %}
+                  background-color: {{section.settings.bg-color}};
+                    {% endif %}
+                }
 
-            }
-              .image-section-over img {
-                width: 100%;
-            }
-              .text-over-section {
-                padding: 0 8%;
-                        padding-top: 10%;
-            }
-              #{{section.id}} .text-over-section h2.heading {
-                   font-family: Feijoa-Medium,Georgia,Times New Roman,Times,serif;
-        font-weight: 400;
-        line-height: 1.3;
-        color: #122947;
-        margin: 0 0 24px;
-                    font-size: 39px;
-            }
-              #{{section.id}} .text-over-section p.text {
-                    line-height: 1.75;
-        color: #122947cc;
-        font-size: 18px;
-            }
-              #{{section.id}} .text-over-section p.text.text-cls {
-                font-weight: 400;
-            }
-              #{{section.id}} .button-overlay {
-                background: {{section.settings.btn-bg-color}};
-
-            /*     width: 100%;
-                max-width: 370px;
-                padding: 5px 20px;
-                text-align: center; */
-            }
-              #{{section.id}} .button-overlay a {
-                font-family: 'TT Norms Pro';
-                font-style: normal;
-                font-weight: 700;
-                font-size: 15px;
-                line-height: 27px;
-                text-align: center;
-                color: {{section.settings.btn-text-color}};;
-                    border: 1px solid black;
-                padding: 15px 20px;
-            }
-
-              @media(max-width:768px){
+                .flex-overlay-section{
+                  display: flex;
+                  flex-wrap: wrap;
+                  width: 100%;
+                  justify-content: space-between;
+                   align-items: flex-start;
+                }
+                .flex-overlay-section.Flex-direction-change{
+                  flex-direction: row-reverse;
+                }
                 .width-over-combo {
-                width: 100%;
-            }
-                .text-over-section {
-                padding: 0;
-                  margin-top: 10%;
-            }
-                 #{{section.id}} .text-over-section h2.heading {
-                font-size: 25px;
-                line-height: 32px;
-            }
-               #{{section.id}} .text-over-section p.text {
-                font-size: 18px;
-                line-height: 24px;
-            }
-                .main-position-section {
-                padding: 10% 5%;
-            }
+                  width: 100%;
               }
+                   .width-over-combo1 {
+               max-width: 60%;
+      flex: 0 0 60%;
+
+              }
+                .image-section-over img {
+                  width: 100%;
+              }
+                .text-over-section {
+                  padding: 0 8%;
+                          padding-top: 10%;
+              }
+                #{{section.id}} .text-over-section h2.heading {
+                     font-family: Feijoa-Medium,Georgia,Times New Roman,Times,serif;
+          font-weight: 400;
+          line-height: 1.3;
+          color: #122947;
+          margin: 0 0 24px;
+                      font-size: 39px;
+              }
+                #{{section.id}} .text-over-section p.text {
+                      line-height: 1.75;
+          color: #122947cc;
+          font-size: 18px;
+              }
+                #{{section.id}} .text-over-section p.text.text-cls {
+                  font-weight: 400;
+              }
+                #{{section.id}} .button-overlay {
+                  background: {{section.settings.btn-bg-color}};
+
+              /*     width: 100%;
+                  max-width: 370px;
+                  padding: 5px 20px;
+                  text-align: center; */
+              }
+                #{{section.id}} .button-overlay a {
+                  font-family: 'TT Norms Pro';
+                  font-style: normal;
+                  font-weight: 700;
+                  font-size: 15px;
+                  line-height: 27px;
+                  text-align: center;
+                  color: {{section.settings.btn-text-color}};;
+                      border: 1px solid black;
+                  padding: 15px 20px;
+              }
+
+                @media(max-width:768px){
+                  .width-over-combo {
+                  width: 100%;
+              }
+                  .text-over-section {
+                  padding: 0;
+                    margin-top: 10%;
+              }
+                   #{{section.id}} .text-over-section h2.heading {
+                  font-size: 25px;
+                  line-height: 32px;
+              }
+                 #{{section.id}} .text-over-section p.text {
+                  font-size: 18px;
+                  line-height: 24px;
+              }
+                  .main-position-section {
+                  padding: 10% 5%;
+              }
+                }
 </style>
