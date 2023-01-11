@@ -79,7 +79,7 @@
           "type": "blog",
           "settings": {
             "imageurl": "shopify:\/\/shop_images\/engaged-couple.png",
-            "colors1": "",
+            "colors1": "#e1dfe8",
             "subheading": "",
             "heading": "One on one guidance to help you find the perfect diamond and style",
             "content1": "",
@@ -91,7 +91,7 @@
           "type": "blog",
           "settings": {
             "imageurl": "shopify:\/\/shop_images\/inbloom-d-standard-fullWidthImage01-2x.png",
-            "colors1": "",
+            "colors1": "#dde9ed",
             "subheading": "",
             "heading": "Ask questions and learn about lab-grown diamonds",
             "content1": "",
@@ -103,7 +103,7 @@
           "type": "blog",
           "settings": {
             "imageurl": "shopify:\/\/shop_images\/inbloom-d-standard-fullWidthImage02-2x.png",
-            "colors1": "",
+            "colors1": "#f6dcd4",
             "subheading": "",
             "heading": "Customize one of our classic designs or create a bespoke ring from scratch",
             "content1": "",
