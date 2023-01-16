@@ -161,49 +161,49 @@
         "bgcolor": "#f8f8f6"
       }
     },
-    "bddc724f-e0b1-419c-8d78-4dd0c0a7b292": {
+    "73b7d8a4-4726-4154-80fe-e8099b27d8e1": {
       "type": "brand-logo",
       "blocks": {
-        "a8b8064a-5e4a-4ba9-aeb4-8f53f2a6efe3": {
+        "768c63bc-4f66-4eda-8543-c4027e050291": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/vogue.jpg"
+            "image": "shopify:\/\/shop_images\/asset_4.png"
           }
         },
-        "4c5065ad-fae6-4a00-89ac-5c9ef1166376": {
+        "1aaf40a8-b5c9-40f2-a79e-51f1bbb861dc": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/forbes.jpg"
+            "image": "shopify:\/\/shop_images\/asset_0.png"
           }
         },
-        "6e81260e-86d5-4e26-9d2e-5d939f1a12f8": {
+        "18fce88e-3c85-4851-80e1-52d2f20517a3": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/businessinsider.jpg"
+            "image": "shopify:\/\/shop_images\/asset_2_7be731a5-3c12-4b07-bc1c-1b7f66d760eb.png"
           }
         },
-        "7936867d-5c75-4240-a003-431b7fa7bd4b": {
+        "77206829-90ea-4a9b-a791-71b7f1a871c3": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/thezoereport.jpg"
+            "image": "shopify:\/\/shop_images\/asset_1_ba81a5d9-8d65-4154-b5a2-9dd1d31753b5.png"
           }
         },
-        "79734bed-ebce-4715-8867-ac2baf60d0bb": {
+        "fcd54e8a-63d8-4119-9ddc-485525a79f02": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/realsimple.jpg"
+            "image": "shopify:\/\/shop_images\/asset_3_9cee3216-7632-485e-9c3b-6d79a34cf577.png"
           }
         }
       },
       "block_order": [
-        "a8b8064a-5e4a-4ba9-aeb4-8f53f2a6efe3",
-        "4c5065ad-fae6-4a00-89ac-5c9ef1166376",
-        "6e81260e-86d5-4e26-9d2e-5d939f1a12f8",
-        "7936867d-5c75-4240-a003-431b7fa7bd4b",
-        "79734bed-ebce-4715-8867-ac2baf60d0bb"
+        "768c63bc-4f66-4eda-8543-c4027e050291",
+        "1aaf40a8-b5c9-40f2-a79e-51f1bbb861dc",
+        "18fce88e-3c85-4851-80e1-52d2f20517a3",
+        "77206829-90ea-4a9b-a791-71b7f1a871c3",
+        "fcd54e8a-63d8-4119-9ddc-485525a79f02"
       ],
       "settings": {
-        "heading": "FEATURED BY"
+        "heading": ""
       }
     }
   },
@@ -215,6 +215,6 @@
     "c5a3f6a3-de67-4de9-a244-9b6c5e3417d5",
     "9c9517c4-8f1c-4f09-a256-840e8788e756",
     "ab9e6054-adfa-4ef7-8739-f758aae7b02d",
-    "bddc724f-e0b1-419c-8d78-4dd0c0a7b292"
+    "73b7d8a4-4726-4154-80fe-e8099b27d8e1"
   ]
 }
