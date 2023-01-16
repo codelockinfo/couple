@@ -270,6 +270,51 @@
       "type": "Newsletter-new",
       "settings": {
       }
+    },
+    "aa74b8d5-0365-492c-a26b-8e74ff868082": {
+      "type": "brand-logo",
+      "blocks": {
+        "8b7e09c9-4401-440a-b51d-4e1a1ca3c2dc": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/realsimple.jpg"
+          }
+        },
+        "7ad1174a-da1e-49f8-b462-73b6274dab3f": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/thezoereport.jpg"
+          }
+        },
+        "2200a2ac-e4c2-4828-b5f7-39307da606bf": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/forbes.jpg"
+          }
+        },
+        "ddcbf4f2-a65a-4e9b-b0c8-82972af663f8": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vogue.jpg"
+          }
+        },
+        "59973e58-5500-4855-8a15-3bbd45336dc2": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/businessinsider.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "8b7e09c9-4401-440a-b51d-4e1a1ca3c2dc",
+        "7ad1174a-da1e-49f8-b462-73b6274dab3f",
+        "2200a2ac-e4c2-4828-b5f7-39307da606bf",
+        "ddcbf4f2-a65a-4e9b-b0c8-82972af663f8",
+        "59973e58-5500-4855-8a15-3bbd45336dc2"
+      ],
+      "settings": {
+        "heading": ""
+      }
     }
   },
   "order": [
@@ -284,6 +329,7 @@
     "3712930c-1497-4fa8-b23f-17af53889457",
     "3b1674e0-5652-437a-b607-a6d22614d92c",
     "1673324214bd37b5dd",
-    "9e65dd7b-5eb8-4379-b7c8-097feef3b338"
+    "9e65dd7b-5eb8-4379-b7c8-097feef3b338",
+    "aa74b8d5-0365-492c-a26b-8e74ff868082"
   ]
 }
