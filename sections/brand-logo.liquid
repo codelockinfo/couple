@@ -1,7 +1,7 @@
 <div class="brand-logo">
   {% for block in section.blocks %}
     <div class="logoimg">
-      <img src="{{ block.settings.image }}">
+      <img src="{{ block.settings.image| img_url: 'master' }}">
     </div>
   {% endfor %}
 </div>
