@@ -152,10 +152,10 @@
       "settings": {
         "subheading": "GET STARTED",
         "title": "Book your free consultation today",
-        "Button": "Speak with our Diamond Concierge, who can answer any questions you have about the process, provide style guidance and advice, and start the process of designing your dream ring.",
+        "Button": "",
         "buttonlink0": "",
         "image_position": "right",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "content": "<p>Speak with our Diamond Concierge, who can answer any questions you have about the process, provide style guidance and advice, and start the process of designing your dream ring.<\/p>",
         "link_text": "BOOK NOW",
         "link_url": "shopify:\/\/collections",
         "bgcolor": "#f8f8f6"
