@@ -271,49 +271,49 @@
       "settings": {
       }
     },
-    "aa74b8d5-0365-492c-a26b-8e74ff868082": {
+    "926d1d32-ffcb-4989-9caa-14b7ac8913ca": {
       "type": "brand-logo",
       "blocks": {
-        "8b7e09c9-4401-440a-b51d-4e1a1ca3c2dc": {
+        "9a909c43-b5ac-4f27-b59c-ad6edadf9c50": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/realsimple.jpg"
+            "image": "shopify:\/\/shop_images\/asset_4.png"
           }
         },
-        "7ad1174a-da1e-49f8-b462-73b6274dab3f": {
+        "adc545b8-4048-4210-88e4-c42461553928": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/thezoereport.jpg"
+            "image": "shopify:\/\/shop_images\/asset_1_ba81a5d9-8d65-4154-b5a2-9dd1d31753b5.png"
           }
         },
-        "2200a2ac-e4c2-4828-b5f7-39307da606bf": {
+        "4d622e43-15c8-43de-8d8b-4c36ea951ee0": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/forbes.jpg"
+            "image": "shopify:\/\/shop_images\/asset_2_7be731a5-3c12-4b07-bc1c-1b7f66d760eb.png"
           }
         },
-        "ddcbf4f2-a65a-4e9b-b0c8-82972af663f8": {
+        "17afa8db-bd12-44b1-a447-486c4c986df8": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/vogue.jpg"
+            "image": "shopify:\/\/shop_images\/asset_0.png"
           }
         },
-        "59973e58-5500-4855-8a15-3bbd45336dc2": {
+        "7196b169-d348-4568-a550-a7beadaade1d": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/businessinsider.jpg"
+            "image": "shopify:\/\/shop_images\/asset_3_9cee3216-7632-485e-9c3b-6d79a34cf577.png"
           }
         }
       },
       "block_order": [
-        "8b7e09c9-4401-440a-b51d-4e1a1ca3c2dc",
-        "7ad1174a-da1e-49f8-b462-73b6274dab3f",
-        "2200a2ac-e4c2-4828-b5f7-39307da606bf",
-        "ddcbf4f2-a65a-4e9b-b0c8-82972af663f8",
-        "59973e58-5500-4855-8a15-3bbd45336dc2"
+        "9a909c43-b5ac-4f27-b59c-ad6edadf9c50",
+        "adc545b8-4048-4210-88e4-c42461553928",
+        "4d622e43-15c8-43de-8d8b-4c36ea951ee0",
+        "17afa8db-bd12-44b1-a447-486c4c986df8",
+        "7196b169-d348-4568-a550-a7beadaade1d"
       ],
       "settings": {
-        "heading": "FEATURED BY"
+        "heading": ""
       }
     }
   },
@@ -330,6 +330,6 @@
     "3b1674e0-5652-437a-b607-a6d22614d92c",
     "1673324214bd37b5dd",
     "9e65dd7b-5eb8-4379-b7c8-097feef3b338",
-    "aa74b8d5-0365-492c-a26b-8e74ff868082"
+    "926d1d32-ffcb-4989-9caa-14b7ac8913ca"
   ]
 }
