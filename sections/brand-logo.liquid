@@ -1,4 +1,5 @@
 <div class="brand-logo">
+  <h2>{{ section.settings.heading }}</h2>
   {% for block in section.blocks %}
     <div class="logoimg">
       <img src="{{ block.settings.image| img_url: 'master' }}">
@@ -9,7 +10,11 @@
   {
   "name": "brand logo",
   "settings": [
-
+{
+      "id" : "heading",
+      "type" : "text",
+      "label" : "Heading"
+    }
   ],
   "blocks": [
   {
