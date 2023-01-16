@@ -1,10 +1,14 @@
 <div class="brand-logo">
-  <h2>{{ section.settings.heading }}</h2>
+  <diV>
+   <h2>{{ section.settings.heading }}</h2>
+  <div>
+  <div>
   {% for block in section.blocks %}
     <div class="logoimg">
       <img src="{{ block.settings.image| img_url: 'master' }}">
     </div>
   {% endfor %}
+  </div>
 </div>
 {% schema %}
   {
