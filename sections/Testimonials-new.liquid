@@ -334,7 +334,10 @@
         font-size: calc((100vw - 768px) * (32 - 28) / (1439 - 768) + 28px);
       }
 }
-    
+    @media only screen and (min-width: 360px) and (max-width: 767px)
+.component-review-carousel .carousel-container .carousel-item .quote {
+    font-size: calc((100vw - 360px) * (28 - 24) / (767 - 360) + 24px);
+}
 </style>
 
 <link rel="canonical" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css">
