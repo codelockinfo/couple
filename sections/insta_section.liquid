@@ -1,7 +1,16 @@
 <div class="maindiv">
   <div class="insta">
-    <div class="">
+    <div class="imginsta">
       <img src="{{ section.settings.instaimg | img_url: 'master'}}">
+    </div>
+    <div class="imginsta">
+      <img src="{{ section.settings.instaimg1 | img_url: 'master'}}">
+    </div>
+    <div class="imginsta">
+      <img src="{{ section.settings.instaimg2 | img_url: 'master'}}">
+    </div>
+    <div class="imginsta">
+      <img src="{{ section.settings.instaimg3 | img_url: 'master'}}">
     </div>
   </div>
   <div class="insta">
@@ -17,6 +26,21 @@
     "settings": [
        {
       "id" : "instaimg",
+      "type" : "image_picker",
+      "label" : "Image"
+    },
+      {
+      "id" : "instaimg1",
+      "type" : "image_picker",
+      "label" : "Image"
+    },
+      {
+      "id" : "instaimg2",
+      "type" : "image_picker",
+      "label" : "Image"
+    },
+      {
+      "id" : "instaimg3",
       "type" : "image_picker",
       "label" : "Image"
     }
