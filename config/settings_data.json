@@ -68,6 +68,38 @@
       },
       "header": {
         "type": "header",
+        "blocks": {
+          "ffd0b2c8-b78f-46a7-b979-df13cbfe79fb": {
+            "type": "mega_menu",
+            "settings": {
+              "navigation_mega_menu": "",
+              "push_1_image": "shopify:\/\/shop_images\/inbloom-d-nav-solitaire-2x.png",
+              "push_1_heading": "Example heading",
+              "push_1_subheading": "Example sub-heading",
+              "push_1_url": "",
+              "push_2_image": "shopify:\/\/shop_images\/inbloom-d-nav-solitaire-hover-2x.png",
+              "push_2_heading": "Example heading",
+              "push_2_subheading": "Example sub-heading",
+              "push_2_url": ""
+            }
+          },
+          "f2e3d0cc-ee79-42b8-b758-7f03a5caa093": {
+            "type": "mega_menu",
+            "settings": {
+              "navigation_mega_menu": "",
+              "push_1_heading": "Example heading",
+              "push_1_subheading": "Example sub-heading",
+              "push_1_url": "",
+              "push_2_heading": "Example heading",
+              "push_2_subheading": "Example sub-heading",
+              "push_2_url": ""
+            }
+          }
+        },
+        "block_order": [
+          "ffd0b2c8-b78f-46a7-b979-df13cbfe79fb",
+          "f2e3d0cc-ee79-42b8-b758-7f03a5caa093"
+        ],
         "settings": {
           "use_sticky_header": true,
           "logo": "shopify:\/\/shop_images\/svg-xml_base64_PHN2ZyBjbGFzcz0ibWFyayBtYXJrLWxvZ28iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVud.png",
