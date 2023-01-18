@@ -1,7 +1,26 @@
+<div class="maindiv">
+  <div class="insta">
+    <div class="">
+      <img src="{{ section.settings.instaimg | img_url: 'master'}}">
+    </div>
+  </div>
+  <div class="insta">
+    
+  </div>
+  <div class=" insta">
+    
+  </div>
+</div>
 {% schema %}
   {
     "name": "Section name",
-    "settings": []
+    "settings": [
+       {
+      "id" : "instaimg",
+      "type" : "image_picker",
+      "label" : "Image"
+    }
+    ]
   }
 {% endschema %}
 
