@@ -315,6 +315,15 @@
       "type": "Newsletter-new",
       "settings": {
       }
+    },
+    "d27f7e57-2d82-4935-8ec7-f68fb60b7205": {
+      "type": "insta_section",
+      "settings": {
+        "instaimg": "shopify:\/\/shop_images\/ugc_1.jpg",
+        "instaimg1": "shopify:\/\/shop_images\/ugc_4.jpg",
+        "instaimg2": "shopify:\/\/shop_images\/ugc_2.jpg",
+        "instaimg3": "shopify:\/\/shop_images\/ugc_3.jpg"
+      }
     }
   },
   "order": [
@@ -330,6 +339,7 @@
     "3712930c-1497-4fa8-b23f-17af53889457",
     "3b1674e0-5652-437a-b607-a6d22614d92c",
     "1673324214bd37b5dd",
-    "9e65dd7b-5eb8-4379-b7c8-097feef3b338"
+    "9e65dd7b-5eb8-4379-b7c8-097feef3b338",
+    "d27f7e57-2d82-4935-8ec7-f68fb60b7205"
   ]
 }
