@@ -3,15 +3,19 @@
     <div class="divinsta">
     <div class="imginsta">
       <img src="{{ section.settings.instaimg | img_url: 'master'}}">
+      <a href="{{ section.settings.instanameurl }}" target="_blank"><span>{{ section.settings.instaname }}</span></a>
     </div>
     <div class="imginsta">
       <img src="{{ section.settings.instaimg1 | img_url: 'master'}}">
+      <a href="{{ section.settings.instanameurl1 }}" target="_blank"><span>{{ section.settings.instaname1 }}</span></a>
     </div>
     <div class="imginsta">
       <img src="{{ section.settings.instaimg2 | img_url: 'master'}}">
+      <a href="{{ section.settings.instanameurl2 }}" target="_blank"><span>{{ section.settings.instaname2 }}</span></a>
     </div>
     <div class="imginsta">
       <img src="{{ section.settings.instaimg3 | img_url: 'master'}}">
+      <a href="{{ section.settings.instanameurl3 }}" target="_blank"><span>{{ section.settings.instaname3 }}</span></a>
     </div>
     </div>
   </div>
@@ -125,8 +129,29 @@
       "label" : "Image"
     },
       {
+      "id" : "instanameurl",
+      "type" : "url",
+      "label" : "Image"
+    },
+      {
+      "id" : "instaname",
+      "type" : "text",
+      "label" : "Image"
+    },
+      
+      {
       "id" : "instaimg1",
       "type" : "image_picker",
+      "label" : "Image"
+    },
+      {
+      "id" : "instanameurl1",
+      "type" : "url",
+      "label" : "Image"
+    },
+      {
+      "id" : "instaname1",
+      "type" : "text",
       "label" : "Image"
     },
       {
@@ -135,8 +160,28 @@
       "label" : "Image"
     },
       {
+      "id" : "instanameurl2",
+      "type" : "url",
+      "label" : "Image"
+    },
+      {
+      "id" : "instaname2",
+      "type" : "text",
+      "label" : "Image"
+    },
+      {
       "id" : "instaimg3",
       "type" : "image_picker",
+      "label" : "Image"
+    },
+      {
+      "id" : "instanameurl3",
+      "type" : "url",
+      "label" : "Image"
+    },
+      {
+      "id" : "instaname3",
+      "type" : "text",
       "label" : "Image"
     },
       {
