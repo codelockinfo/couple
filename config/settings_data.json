@@ -72,7 +72,7 @@
           "ffd0b2c8-b78f-46a7-b979-df13cbfe79fb": {
             "type": "mega_menu",
             "settings": {
-              "navigation_mega_menu": "1213",
+              "navigation_mega_menu": "classic",
               "push_1_image": "shopify:\/\/shop_images\/inbloom-d-nav-solitaire-2x.png",
               "push_1_heading": "Example heading",
               "push_1_subheading": "Example sub-heading",
@@ -107,7 +107,7 @@
           "mobile_logo_max_width": 90,
           "show_country_selector": false,
           "show_locale_selector": true,
-          "navigation_menu": "",
+          "navigation_menu": "main-menu",
           "navigation_style": "inline",
           "show_icons": false,
           "enable_transparent_header": true,
