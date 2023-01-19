@@ -29,8 +29,24 @@
     height: 100vh;
     min-height: 716px;
 }
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    margin-left: -24px;
+    margin-right: -24px;
+    padding-right: 24px;
+}
+.hero .grid {
+    position: relative;
+    z-index: 2;
+    height: 100%;
+}
+.module-plp .hero .grid, .module-plp .hero .design {
+    height: 50%;
+}
 
-
+  
   
 {% endstylesheet %}
 
