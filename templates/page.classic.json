@@ -10,7 +10,14 @@
     "9655857c-0b86-4fdf-bbee-e212de04a5d1": {
       "type": "hero_section",
       "settings": {
-        "heroimg": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-atf-2x_1.jpg"
+        "heroimg": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-atf-2x_1.jpg",
+        "subhading": "OUR RINGS",
+        "hading": "The Classic",
+        "textp": "Elegant. Timeless. A time-honored silhouette.",
+        "buttontext": "SHOP THE CLASSIC",
+        "butonurl": "",
+        "Design": "DESIGN",
+        "textarey": "They say a solitaire diamond represents a singular love shared between two people. When designing our flagship ring, we were inspired by legendary love stories, past and present."
       }
     }
   },
