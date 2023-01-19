@@ -127,7 +127,7 @@
           "navigation_style": "inline",
           "show_icons": false,
           "enable_transparent_header": true,
-          "enable_transparent_header_collection": false,
+          "enable_transparent_header_collection": true,
           "show_transparent_header_border": false,
           "transparent_text_color": "#000000"
         }
