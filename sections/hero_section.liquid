@@ -4,9 +4,9 @@
     </div>
     <div class="grid">
       <div class="left-column">
-        <h5 class="fade">Our Rings</h5>
-        <h2 class="fade">The Classic</h2>
-        <p class="body-large fade">Elegant. Timeless. A time-honored silhouette.</p>
+        <h5 class="fade">{{ section.settings.subhading }}</h5>
+        <h2 class="fade">{{ section.settings.hading }}</h2>
+        <p class="body-large fade">{{ section.settings.textp }}</p>
         <a class="button button-hero" href="/collections/engagement-rings/products/classic-signature-1ct-white-gold"><span>Shop The Classic</span></a>
       </div>
       <div class="right-column"></div>
@@ -193,7 +193,26 @@ h3.raise {
       "id" : "heroimg",
       "type" : "image_picker",
       "label" : "Image"
+    },
+      {
+      "id" : "subhading",
+      "type" : "text",
+      "label" : "sub heading"
+    },
+
+      {
+      "id" : "hading",
+      "type" : "text",
+      "label" : "heading"
+    },
+
+      {
+      "id" : "textp",
+      "type" : "text",
+      "label" : "text"
     }
+     
+      
     ],
      "presets" : [
     {
