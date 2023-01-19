@@ -129,7 +129,8 @@
           "enable_transparent_header": true,
           "enable_transparent_header_collection": true,
           "show_transparent_header_border": false,
-          "transparent_text_color": "#000000"
+          "transparent_text_color": "#000000",
+          "transparent_logo": "shopify:\/\/shop_images\/svg-xml_base64_PHN2ZyBjbGFzcz0ibWFyayBtYXJrLWxvZ28iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVud.png"
         }
       },
       "footer": {
