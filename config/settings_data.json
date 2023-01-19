@@ -71,6 +71,7 @@
         "blocks": {
           "ffd0b2c8-b78f-46a7-b979-df13cbfe79fb": {
             "type": "mega_menu",
+            "disabled": true,
             "settings": {
               "navigation_mega_menu": "classic",
               "push_1_image": "shopify:\/\/shop_images\/inbloom-d-nav-solitaire-2x.png",
@@ -85,6 +86,20 @@
           },
           "f2e3d0cc-ee79-42b8-b758-7f03a5caa093": {
             "type": "mega_menu",
+            "disabled": true,
+            "settings": {
+              "navigation_mega_menu": "",
+              "push_1_heading": "Example heading",
+              "push_1_subheading": "Example sub-heading",
+              "push_1_url": "",
+              "push_2_heading": "Example heading",
+              "push_2_subheading": "Example sub-heading",
+              "push_2_url": ""
+            }
+          },
+          "8cc8e875-6579-4bba-ac40-ed836d5b4521": {
+            "type": "mega_menu",
+            "disabled": true,
             "settings": {
               "navigation_mega_menu": "",
               "push_1_heading": "Example heading",
@@ -98,7 +113,8 @@
         },
         "block_order": [
           "ffd0b2c8-b78f-46a7-b979-df13cbfe79fb",
-          "f2e3d0cc-ee79-42b8-b758-7f03a5caa093"
+          "f2e3d0cc-ee79-42b8-b758-7f03a5caa093",
+          "8cc8e875-6579-4bba-ac40-ed836d5b4521"
         ],
         "settings": {
           "use_sticky_header": true,
