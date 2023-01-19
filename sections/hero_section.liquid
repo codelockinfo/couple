@@ -7,16 +7,16 @@
         <h5 class="fade">{{ section.settings.subhading }}</h5>
         <h2 class="fade">{{ section.settings.hading }}</h2>
         <p class="body-large fade">{{ section.settings.textp }}</p>
-        <a class="button button-hero" href="/collections/engagement-rings/products/classic-signature-1ct-white-gold"><span>Shop The Classic</span></a>
+        <a class="button button-hero" href="{{ section.settings.butonurl }}"><span>{{ section.settings.buttontext }}</span></a>
       </div>
       <div class="right-column"></div>
     </div>
 
     <div class="design">
       <div class="centered">
-        <h5 class="raise">Design</h5>
+        <h5 class="raise">{{ section.settings.Design }}</h5>
         <h3 class="raise">
-          They say a solitaire diamond represents a singular love shared between two people. When designing our flagship ring, we were inspired by legendary love stories, past and present.
+          {{ section.settings.textarey }}
         </h3>
       </div>
     </div>
@@ -210,8 +210,27 @@ h3.raise {
       "id" : "textp",
       "type" : "text",
       "label" : "text"
+    },
+       {
+      "id" : "buttontext",
+      "type" : "text",
+      "label" : "text"
+    },
+      {
+      "id" : "butonurl",
+      "type" : "url",
+      "label" : "text"
+    },
+     {
+      "id" : "Design",
+      "type" : "text",
+      "label" : "heading"
+    },
+     {
+      "id" : "textarey",
+      "type" : "text",
+      "label" : "text"
     }
-     
       
     ],
      "presets" : [
