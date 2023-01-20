@@ -1,7 +1,34 @@
+<div>
+{% for block in section.blocks %}
+  <div>
+    <div>
+      <img src="{{ section.settings.mainimges }}">
+    </div>
+    <div class="abstract-container">
+        <h5>Service &amp; Guidance</h5>
+        <h3>The Ring Guide</h3>
+        <p>A primer on the mined and organic-grown diamond industry, as well as the qualities gemologists always look for in a world-class diamond.</p>
+
+        <a class="button read-more" href="/blogs/our-guide">See our guide</a>
+   </div>
+  </div>
+{% endfor %}
+</div>
 {% schema %}
   {
-    "name": "Section name",
-    "settings": []
+    "name": "2 boc section",
+    "settings": [
+      {
+      "type": "image_picker",
+    "id": "mainimges",
+    "label": "Image"
+  }
+    ],
+    "presets": [
+  {
+   "name": "2 boc section"
+  }
+]
   }
 {% endschema %}
 
