@@ -40,12 +40,25 @@
         "link_url": "",
         "bgcolor": "#f2f7f8"
       }
+    },
+    "9ea26643-77c3-473e-b415-67e0ce49a824": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "The Classic — Signature",
+        "image": "shopify:\/\/shop_images\/inbloom-d-nav-solitaire-2x.png",
+        "image_position": "left",
+        "content": "<p>A knife-edge band adds depth and detail while providing a sturdy base for everyday wear. A 6-prong setting elevates your stone, making your statement piece one that sparks a reaction, every time.<\/p>",
+        "link_text": "STARTING AT $4,199",
+        "link_url": ""
+      }
     }
   },
   "order": [
     "main",
     "9655857c-0b86-4fdf-bbee-e212de04a5d1",
     "0fed8c01-133f-4f0a-89cc-240a7c37e413",
-    "00d65e3a-d93b-4d17-a0b3-c6978e735a31"
+    "00d65e3a-d93b-4d17-a0b3-c6978e735a31",
+    "9ea26643-77c3-473e-b415-67e0ce49a824"
   ]
 }
