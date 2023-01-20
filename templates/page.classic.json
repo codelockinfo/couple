@@ -185,7 +185,7 @@
           "type": "collection",
           "settings": {
             "imageurl": "shopify:\/\/shop_images\/PearClassicThinCathedral1.8mm2.0CT_B.png",
-            "colors1": "",
+            "colors1": "#f8f8f6",
             "subheading": "",
             "heading": "Round",
             "content1": "<p>Available in Classic Thin setting only.<\/p>",
