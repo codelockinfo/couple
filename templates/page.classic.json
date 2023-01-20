@@ -24,7 +24,7 @@
       "type": "full_image",
       "settings": {
         "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-fullwidthpng-01-2x.png",
-        "heroimg": "#dde9ed"
+        "bgcolor": "#dde9ed"
       }
     }
   },
