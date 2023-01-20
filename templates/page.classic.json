@@ -80,6 +80,40 @@
         "link_url": ""
       }
     },
+    "553153a2-d447-4716-b131-3dfcb2734816": {
+      "type": "Testimonials-new",
+      "blocks": {
+        "d9473a4e-736c-4efc-a11d-a2ae03b54e49": {
+          "type": "block",
+          "settings": {
+            "confimed": "“It’s everything I never knew I always wanted. I love that the ring I wear every day is sustainable, socially responsible, AND beautiful!”",
+            "confimedp": "– LORILYNN M."
+          }
+        },
+        "581fd71c-4a89-4e0a-ac21-a4b656170d67": {
+          "type": "block",
+          "settings": {
+            "confimed": "“It’s everything I never knew I always wanted. I love that the ring I wear every day is sustainable, socially responsible, AND beautiful!”",
+            "confimedp": "– LORILYNN M."
+          }
+        }
+      },
+      "block_order": [
+        "d9473a4e-736c-4efc-a11d-a2ae03b54e49",
+        "581fd71c-4a89-4e0a-ac21-a4b656170d67"
+      ],
+      "settings": {
+        "buttonlink": "",
+        "buttontext": "SEE ALL CUSTOMER REVIEWS"
+      }
+    },
+    "668abe1d-0539-46df-8c76-dcac38f5dd13": {
+      "type": "full_image",
+      "settings": {
+        "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-fullbleed1-2x.jpg",
+        "bgcolor": ""
+      }
+    },
     "b69bb56e-018f-46e2-9d79-c1263a6cd64d": {
       "type": "insta_section",
       "settings": {
@@ -117,40 +151,6 @@
       "type": "Newsletter-new",
       "settings": {
       }
-    },
-    "553153a2-d447-4716-b131-3dfcb2734816": {
-      "type": "Testimonials-new",
-      "blocks": {
-        "d9473a4e-736c-4efc-a11d-a2ae03b54e49": {
-          "type": "block",
-          "settings": {
-            "confimed": "“It’s everything I never knew I always wanted. I love that the ring I wear every day is sustainable, socially responsible, AND beautiful!”",
-            "confimedp": "– LORILYNN M."
-          }
-        },
-        "581fd71c-4a89-4e0a-ac21-a4b656170d67": {
-          "type": "block",
-          "settings": {
-            "confimed": "“It’s everything I never knew I always wanted. I love that the ring I wear every day is sustainable, socially responsible, AND beautiful!”",
-            "confimedp": "– LORILYNN M."
-          }
-        }
-      },
-      "block_order": [
-        "d9473a4e-736c-4efc-a11d-a2ae03b54e49",
-        "581fd71c-4a89-4e0a-ac21-a4b656170d67"
-      ],
-      "settings": {
-        "buttonlink": "",
-        "buttontext": "SEE ALL CUSTOMER REVIEWS"
-      }
-    },
-    "668abe1d-0539-46df-8c76-dcac38f5dd13": {
-      "type": "full_image",
-      "settings": {
-        "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-fullbleed1-2x.jpg",
-        "bgcolor": ""
-      }
     }
   },
   "order": [
@@ -161,9 +161,9 @@
     "9ea26643-77c3-473e-b415-67e0ce49a824",
     "41228192-09b8-469c-95d3-1d8eb6694ef9",
     "5c28658a-0eba-4fb5-8df2-92929d3f8569",
-    "b69bb56e-018f-46e2-9d79-c1263a6cd64d",
-    "e803af60-f4ed-4cd9-a13f-11ea5ec069bb",
     "553153a2-d447-4716-b131-3dfcb2734816",
-    "668abe1d-0539-46df-8c76-dcac38f5dd13"
+    "668abe1d-0539-46df-8c76-dcac38f5dd13",
+    "b69bb56e-018f-46e2-9d79-c1263a6cd64d",
+    "e803af60-f4ed-4cd9-a13f-11ea5ec069bb"
   ]
 }
