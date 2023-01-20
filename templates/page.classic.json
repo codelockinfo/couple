@@ -53,10 +53,42 @@
         "link_url": ""
       }
     },
-    "8653c904-34df-42bd-b68d-8fddc953fd0d": {
-      "type": "image-with-text-Select",
+    "b69bb56e-018f-46e2-9d79-c1263a6cd64d": {
+      "type": "insta_section",
       "settings": {
-        "option-select": "2"
+        "instaimg": "shopify:\/\/shop_images\/ugc_3.jpg",
+        "instanameurl": "",
+        "instaname": "",
+        "instaimg1": "shopify:\/\/shop_images\/ugc_4.jpg",
+        "instanameurl1": "",
+        "instaname1": "",
+        "instaimg2": "shopify:\/\/shop_images\/ugc_2.jpg",
+        "instanameurl2": "",
+        "instaname2": "",
+        "instaimg3": "shopify:\/\/shop_images\/ugc_1.jpg",
+        "instanameurl3": "",
+        "instaname3": "",
+        "instaimg4": "shopify:\/\/shop_images\/ugc_2.jpg",
+        "instanameurl4": "",
+        "instaname4": "",
+        "instaimg11": "shopify:\/\/shop_images\/ugc_1.jpg",
+        "instanameurl11": "",
+        "instaname11": "",
+        "instaimg21": "shopify:\/\/shop_images\/inbloom-d-nav-solitaire-hover-2x.png",
+        "instanameurl21": "",
+        "instaname21": "",
+        "instaimg31": "shopify:\/\/shop_images\/ugc_3.jpg",
+        "instanameurl31": "",
+        "instaname31": "",
+        "subtitel": "#COUPLECO",
+        "heading": "Share in the love.",
+        "alink": "",
+        "atext": "FOLLOW US ON INSTAGRAM"
+      }
+    },
+    "e803af60-f4ed-4cd9-a13f-11ea5ec069bb": {
+      "type": "Newsletter-new",
+      "settings": {
       }
     }
   },
@@ -66,6 +98,7 @@
     "0fed8c01-133f-4f0a-89cc-240a7c37e413",
     "00d65e3a-d93b-4d17-a0b3-c6978e735a31",
     "9ea26643-77c3-473e-b415-67e0ce49a824",
-    "8653c904-34df-42bd-b68d-8fddc953fd0d"
+    "b69bb56e-018f-46e2-9d79-c1263a6cd64d",
+    "e803af60-f4ed-4cd9-a13f-11ea5ec069bb"
   ]
 }
