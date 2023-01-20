@@ -44,6 +44,7 @@
     "9ea26643-77c3-473e-b415-67e0ce49a824": {
       "type": "text-with-image",
       "settings": {
+        "bgcolor": "#f2f7f8",
         "subheading": "",
         "title": "The Classic — Signature",
         "image": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-5050-01-2x.png",
