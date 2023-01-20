@@ -151,6 +151,59 @@
       "type": "Newsletter-new",
       "settings": {
       }
+    },
+    "91683fe4-f0c1-446c-abad-edb626fc9c4d": {
+      "type": "Diamond-Shapes",
+      "blocks": {
+        "2bdb173b-d3d6-4605-938a-63f5d339428f": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/SolitaireClassic_WhiteGold_2CT_OnWhite_C.png",
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": "",
+            "bgcolors": ""
+          }
+        },
+        "3ae9140a-3b21-41a1-aa51-3b6290302d87": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/OvalClassicThinCathedral1.8mm2.0CT_B.png",
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": "",
+            "bgcolors": ""
+          }
+        },
+        "29160650-a56a-4177-9112-301741fe03b4": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/PearClassicThinCathedral1.8mm2.0CT_B.png",
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": "",
+            "bgcolors": ""
+          }
+        }
+      },
+      "block_order": [
+        "2bdb173b-d3d6-4605-938a-63f5d339428f",
+        "3ae9140a-3b21-41a1-aa51-3b6290302d87",
+        "29160650-a56a-4177-9112-301741fe03b4"
+      ],
+      "settings": {
+        "buttonlink": "",
+        "buttontexts": ""
+      }
     }
   },
   "order": [
@@ -164,6 +217,7 @@
     "553153a2-d447-4716-b131-3dfcb2734816",
     "668abe1d-0539-46df-8c76-dcac38f5dd13",
     "b69bb56e-018f-46e2-9d79-c1263a6cd64d",
-    "e803af60-f4ed-4cd9-a13f-11ea5ec069bb"
+    "e803af60-f4ed-4cd9-a13f-11ea5ec069bb",
+    "91683fe4-f0c1-446c-abad-edb626fc9c4d"
   ]
 }
