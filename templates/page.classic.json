@@ -20,37 +20,16 @@
         "textarey": "They say a solitaire diamond represents a singular love shared between two people. When designing our flagship ring, we were inspired by legendary love stories, past and present."
       }
     },
-    "c1eedf24-d279-4b8f-bc6d-f3f6db1397be": {
-      "type": "text-with-image",
+    "0fed8c01-133f-4f0a-89cc-240a7c37e413": {
+      "type": "full_image",
       "settings": {
-        "subheading": "",
-        "title": "",
-        "image": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-fullwidthpng-01-2x.png",
-        "image_position": "right",
-        "content": "",
-        "link_text": "",
-        "link_url": ""
-      }
-    },
-    "7ddd6083-5c64-4fd2-b17c-bc8e6e7c1a84": {
-      "type": "only-text",
-      "settings": {
-        "subheading": "Sub-heading",
-        "title": "Title",
-        "Button": "Title",
-        "buttonlink0": "",
-        "image_position": "right",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
-        "link_text": "",
-        "link_url": "",
-        "bgcolor": ""
+        "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-fullwidthpng-01-2x.png"
       }
     }
   },
   "order": [
     "main",
     "9655857c-0b86-4fdf-bbee-e212de04a5d1",
-    "c1eedf24-d279-4b8f-bc6d-f3f6db1397be",
-    "7ddd6083-5c64-4fd2-b17c-bc8e6e7c1a84"
+    "0fed8c01-133f-4f0a-89cc-240a7c37e413"
   ]
 }
