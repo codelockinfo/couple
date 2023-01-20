@@ -11392,3 +11392,6 @@ div#shopify-section-template--17429961998626__f4ffbfb9-6cd7-4a71-8f16-ef8ba166cc
 .Link--underline:before{
       color: transparent;
 }
+img.Image--slideLeft.lazyautosizes.Image--lazyLoaded {
+    margin-top: 10%;
+}
