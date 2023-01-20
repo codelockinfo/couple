@@ -238,12 +238,6 @@
         "alink": "",
         "atext": "FOLLOW US ON INSTAGRAM"
       }
-    },
-    "32a6e472-f8e9-4495-a5d3-d1f7a18a1a69": {
-      "type": "hero_section",
-      "settings": {
-        "heroimg": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-atf-2x_1.jpg"
-      }
     }
   },
   "order": [
@@ -255,7 +249,6 @@
     "9c9517c4-8f1c-4f09-a256-840e8788e756",
     "ab9e6054-adfa-4ef7-8739-f758aae7b02d",
     "73b7d8a4-4726-4154-80fe-e8099b27d8e1",
-    "1fde5558-f8f5-4137-859c-9a5baaa0b264",
-    "32a6e472-f8e9-4495-a5d3-d1f7a18a1a69"
+    "1fde5558-f8f5-4137-859c-9a5baaa0b264"
   ]
 }
