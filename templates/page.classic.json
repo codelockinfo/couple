@@ -144,6 +144,13 @@
         "buttonlink": "",
         "buttontext": "SEE ALL CUSTOMER REVIEWS"
       }
+    },
+    "668abe1d-0539-46df-8c76-dcac38f5dd13": {
+      "type": "full_image",
+      "settings": {
+        "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-fullbleed1-2x.jpg",
+        "bgcolor": ""
+      }
     }
   },
   "order": [
@@ -156,6 +163,7 @@
     "5c28658a-0eba-4fb5-8df2-92929d3f8569",
     "b69bb56e-018f-46e2-9d79-c1263a6cd64d",
     "e803af60-f4ed-4cd9-a13f-11ea5ec069bb",
-    "553153a2-d447-4716-b131-3dfcb2734816"
+    "553153a2-d447-4716-b131-3dfcb2734816",
+    "668abe1d-0539-46df-8c76-dcac38f5dd13"
   ]
 }
