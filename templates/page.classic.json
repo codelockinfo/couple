@@ -67,6 +67,19 @@
         "link_url": ""
       }
     },
+    "5c28658a-0eba-4fb5-8df2-92929d3f8569": {
+      "type": "text-with-image",
+      "settings": {
+        "bgcolor": "",
+        "subheading": "",
+        "title": "The Classic — Thin",
+        "image": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-5050-03-2x.png",
+        "image_position": "left",
+        "content": "<p>A modern band that is understated yet refined. A lower profile setting lets your stone rest a little lower, making it a sophisticated ring easily adapted for everyday wear. Not to mention one that naturally shines in any occasion.<\/p>",
+        "link_text": "STARTING AT $3,999",
+        "link_url": ""
+      }
+    },
     "b69bb56e-018f-46e2-9d79-c1263a6cd64d": {
       "type": "insta_section",
       "settings": {
@@ -113,6 +126,7 @@
     "00d65e3a-d93b-4d17-a0b3-c6978e735a31",
     "9ea26643-77c3-473e-b415-67e0ce49a824",
     "41228192-09b8-469c-95d3-1d8eb6694ef9",
+    "5c28658a-0eba-4fb5-8df2-92929d3f8569",
     "b69bb56e-018f-46e2-9d79-c1263a6cd64d",
     "e803af60-f4ed-4cd9-a13f-11ea5ec069bb"
   ]
