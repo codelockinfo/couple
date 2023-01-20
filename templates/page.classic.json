@@ -107,51 +107,6 @@
         "buttontext": "SEE ALL CUSTOMER REVIEWS"
       }
     },
-    "668abe1d-0539-46df-8c76-dcac38f5dd13": {
-      "type": "full_image",
-      "settings": {
-        "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-fullbleed1-2x.jpg",
-        "bgcolor": ""
-      }
-    },
-    "b69bb56e-018f-46e2-9d79-c1263a6cd64d": {
-      "type": "insta_section",
-      "settings": {
-        "instaimg": "shopify:\/\/shop_images\/ugc_3.jpg",
-        "instanameurl": "",
-        "instaname": "@pinpinsista",
-        "instaimg1": "shopify:\/\/shop_images\/ugc_4.jpg",
-        "instanameurl1": "",
-        "instaname1": "@pinpinsista",
-        "instaimg2": "shopify:\/\/shop_images\/ugc_2.jpg",
-        "instanameurl2": "",
-        "instaname2": "@pinpinsista",
-        "instaimg3": "shopify:\/\/shop_images\/ugc_1.jpg",
-        "instanameurl3": "",
-        "instaname3": "@pinpinsista",
-        "instaimg4": "shopify:\/\/shop_images\/ugc_2.jpg",
-        "instanameurl4": "",
-        "instaname4": "@pinpinsista",
-        "instaimg11": "shopify:\/\/shop_images\/ugc_1.jpg",
-        "instanameurl11": "",
-        "instaname11": "@pinpinsista",
-        "instaimg21": "shopify:\/\/shop_images\/inbloom-d-nav-solitaire-hover-2x.png",
-        "instanameurl21": "",
-        "instaname21": "@pinpinsista",
-        "instaimg31": "shopify:\/\/shop_images\/ugc_3.jpg",
-        "instanameurl31": "",
-        "instaname31": "@pinpinsista",
-        "subtitel": "#COUPLECO",
-        "heading": "Share in the love.",
-        "alink": "",
-        "atext": "FOLLOW US ON INSTAGRAM"
-      }
-    },
-    "e803af60-f4ed-4cd9-a13f-11ea5ec069bb": {
-      "type": "Newsletter-new",
-      "settings": {
-      }
-    },
     "91683fe4-f0c1-446c-abad-edb626fc9c4d": {
       "type": "Diamond-Shapes",
       "blocks": {
@@ -204,6 +159,104 @@
         "buttonlink": "",
         "buttontexts": ""
       }
+    },
+    "668abe1d-0539-46df-8c76-dcac38f5dd13": {
+      "type": "full_image",
+      "settings": {
+        "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-fullbleed1-2x.jpg",
+        "bgcolor": ""
+      }
+    },
+    "b69bb56e-018f-46e2-9d79-c1263a6cd64d": {
+      "type": "insta_section",
+      "settings": {
+        "instaimg": "shopify:\/\/shop_images\/ugc_3.jpg",
+        "instanameurl": "",
+        "instaname": "@pinpinsista",
+        "instaimg1": "shopify:\/\/shop_images\/ugc_4.jpg",
+        "instanameurl1": "",
+        "instaname1": "@pinpinsista",
+        "instaimg2": "shopify:\/\/shop_images\/ugc_2.jpg",
+        "instanameurl2": "",
+        "instaname2": "@pinpinsista",
+        "instaimg3": "shopify:\/\/shop_images\/ugc_1.jpg",
+        "instanameurl3": "",
+        "instaname3": "@pinpinsista",
+        "instaimg4": "shopify:\/\/shop_images\/ugc_2.jpg",
+        "instanameurl4": "",
+        "instaname4": "@pinpinsista",
+        "instaimg11": "shopify:\/\/shop_images\/ugc_1.jpg",
+        "instanameurl11": "",
+        "instaname11": "@pinpinsista",
+        "instaimg21": "shopify:\/\/shop_images\/inbloom-d-nav-solitaire-hover-2x.png",
+        "instanameurl21": "",
+        "instaname21": "@pinpinsista",
+        "instaimg31": "shopify:\/\/shop_images\/ugc_3.jpg",
+        "instanameurl31": "",
+        "instaname31": "@pinpinsista",
+        "subtitel": "#COUPLECO",
+        "heading": "Share in the love.",
+        "alink": "",
+        "atext": "FOLLOW US ON INSTAGRAM"
+      }
+    },
+    "e803af60-f4ed-4cd9-a13f-11ea5ec069bb": {
+      "type": "Newsletter-new",
+      "settings": {
+      }
+    },
+    "0bfcf229-af8a-4749-855d-f9f43d32b3ee": {
+      "type": "Diamond-Shapes",
+      "blocks": {
+        "e8a27da4-48f7-4b65-844a-c0131ffb1ddd": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/SolitaireClassic_WhiteGold_2CT_OnWhite_C.png",
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": "",
+            "bgcolors": ""
+          }
+        },
+        "620d2af7-5363-4839-b309-179c7293f4b9": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/OvalClassicThinCathedral1.8mm2.0CT_B.png",
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": "",
+            "bgcolors": ""
+          }
+        },
+        "6f3300fc-23d4-4f28-9a89-235f3f52b81b": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/PearClassicThinCathedral1.8mm2.0CT_B.png",
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": "",
+            "bgcolors": ""
+          }
+        }
+      },
+      "block_order": [
+        "e8a27da4-48f7-4b65-844a-c0131ffb1ddd",
+        "620d2af7-5363-4839-b309-179c7293f4b9",
+        "6f3300fc-23d4-4f28-9a89-235f3f52b81b"
+      ],
+      "settings": {
+        "buttonlink": "",
+        "buttontexts": ""
+      }
     }
   },
   "order": [
@@ -215,9 +268,10 @@
     "41228192-09b8-469c-95d3-1d8eb6694ef9",
     "5c28658a-0eba-4fb5-8df2-92929d3f8569",
     "553153a2-d447-4716-b131-3dfcb2734816",
+    "91683fe4-f0c1-446c-abad-edb626fc9c4d",
     "668abe1d-0539-46df-8c76-dcac38f5dd13",
     "b69bb56e-018f-46e2-9d79-c1263a6cd64d",
     "e803af60-f4ed-4cd9-a13f-11ea5ec069bb",
-    "91683fe4-f0c1-446c-abad-edb626fc9c4d"
+    "0bfcf229-af8a-4749-855d-f9f43d32b3ee"
   ]
 }
