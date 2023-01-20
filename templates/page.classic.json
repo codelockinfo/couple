@@ -127,10 +127,18 @@
             "confimed": "“It’s everything I never knew I always wanted. I love that the ring I wear every day is sustainable, socially responsible, AND beautiful!”",
             "confimedp": "– LORILYNN M."
           }
+        },
+        "581fd71c-4a89-4e0a-ac21-a4b656170d67": {
+          "type": "block",
+          "settings": {
+            "confimed": "“It’s everything I never knew I always wanted. I love that the ring I wear every day is sustainable, socially responsible, AND beautiful!”",
+            "confimedp": "– LORILYNN M."
+          }
         }
       },
       "block_order": [
-        "d9473a4e-736c-4efc-a11d-a2ae03b54e49"
+        "d9473a4e-736c-4efc-a11d-a2ae03b54e49",
+        "581fd71c-4a89-4e0a-ac21-a4b656170d67"
       ],
       "settings": {
         "buttonlink": "",
