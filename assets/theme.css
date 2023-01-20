@@ -11399,3 +11399,6 @@ img.Image--slideLeft.lazyautosizes.Image--lazyLoaded {
     max-width: 1600px;
     margin: auto;
 }
+img.Image--slideRight.lazyautosizes.Image--lazyLoaded {
+    margin-top: 15%;
+}
