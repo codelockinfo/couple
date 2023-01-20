@@ -23,7 +23,8 @@
     "0fed8c01-133f-4f0a-89cc-240a7c37e413": {
       "type": "full_image",
       "settings": {
-        "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-fullwidthpng-01-2x.png"
+        "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-fullwidthpng-01-2x.png",
+        "heroimg": "#dde9ed"
       }
     }
   },
