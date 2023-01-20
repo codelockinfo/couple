@@ -1,4 +1,4 @@
-<section class="Section {% unless section.settings.image %}Section--spacingNormal{% endunless %}" style=" background-color: #f2f7f8;">
+<section class="Section {% unless section.settings.image %}Section--spacingNormal{% endunless %}" style=" background-color: {{ section.settings.bgcolor }};">
   {%- capture section_content -%}
     <div class="FeatureText__ContentWrapper">
       <div class="FeatureText__Content">
@@ -60,6 +60,11 @@
   "name": "Rich text with image",
   "class": "shopify-section--bordered",
   "settings": [
+    {
+      "type": "color",
+      "id": "bgcolor",
+      "label": "background color"
+    },
     {
       "type": "text",
       "id": "subheading",
