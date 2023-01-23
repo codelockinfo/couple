@@ -20,6 +20,7 @@
              {%- if section.settings.signature != blank -%}
               <div class="signatureimg">
                  <img src="{{ section.settings.signature | img_url: '800x' }}">
+                <h3>{{ section.settings.signaturetext }}</h3>
               </div>
             {%- endif -%}
 
@@ -129,7 +130,11 @@
       "id": "signature",
       "label": "Image"
     },
-    
+    {
+      "type": "text",
+      "id": "signaturetext",
+      "label": "text"
+    },
     {
       "type": "text",
       "id": "link_text",
