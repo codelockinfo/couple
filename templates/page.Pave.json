@@ -57,7 +57,7 @@
     "20f8e557-9410-4294-b4f6-a7b1db88a48c": {
       "type": "text-with-image",
       "settings": {
-        "bgcolor": "",
+        "bgcolor": "#f5eef0",
         "subheading": "",
         "title": "The Pavé — Signature",
         "image": "shopify:\/\/shop_images\/inbloom-d-plp-pave-5050-01-2x.png",
