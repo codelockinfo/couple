@@ -26,11 +26,26 @@
         "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-pave-fullwidthpng-01-2x.png",
         "bgcolor": "#e5d3d9"
       }
+    },
+    "d92d289c-3d2c-42ae-a184-430f61b53142": {
+      "type": "only-text",
+      "settings": {
+        "subheading": "",
+        "title": "The Pavé Setting",
+        "Button": "",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "<p>Inspired by vintage designs, our interpretation of pavé settings goes beyond the expected.<\/p>",
+        "link_text": "",
+        "link_url": "",
+        "bgcolor": "#f5eef0"
+      }
     }
   },
   "order": [
     "main",
     "b80a629e-83e8-4851-9448-8bbe1b2d3e3b",
-    "338df6bd-f366-4a08-bf68-ceb4bd37dc71"
+    "338df6bd-f366-4a08-bf68-ceb4bd37dc71",
+    "d92d289c-3d2c-42ae-a184-430f61b53142"
   ]
 }
