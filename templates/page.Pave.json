@@ -79,6 +79,33 @@
         "link_text": "STARTING AT $4,599",
         "link_url": ""
       }
+    },
+    "e8cb6cc7-b097-487f-b62f-83272b66d743": {
+      "type": "Testimonials-new",
+      "blocks": {
+        "c55b387d-6dc0-4ba7-be09-45fa1ae5ba69": {
+          "type": "block",
+          "settings": {
+            "confimed": "“I’m so happy we went with Couple for my fiancé’s engagement ring… the quality is amazing and I love the environmentally friendly aspect.”",
+            "confimedp": "– BRETT R."
+          }
+        },
+        "11c1ebce-63ff-4dbb-86c8-daf6b44f8c6a": {
+          "type": "block",
+          "settings": {
+            "confimed": "“I’m so happy we went with Couple for my fiancé’s engagement ring… the quality is amazing and I love the environmentally friendly aspect.”",
+            "confimedp": "– BRETT R."
+          }
+        }
+      },
+      "block_order": [
+        "c55b387d-6dc0-4ba7-be09-45fa1ae5ba69",
+        "11c1ebce-63ff-4dbb-86c8-daf6b44f8c6a"
+      ],
+      "settings": {
+        "buttonlink": "",
+        "buttontext": "SEE ALL CUSTOMER REVIEWS"
+      }
     }
   },
   "order": [
@@ -88,6 +115,7 @@
     "d92d289c-3d2c-42ae-a184-430f61b53142",
     "2d574b68-9b96-4a82-9a16-e590699a6bae",
     "20f8e557-9410-4294-b4f6-a7b1db88a48c",
-    "14fb5917-ad87-4ef0-984b-fa4b5e0a3385"
+    "14fb5917-ad87-4ef0-984b-fa4b5e0a3385",
+    "e8cb6cc7-b097-487f-b62f-83272b66d743"
   ]
 }
