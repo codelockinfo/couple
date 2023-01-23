@@ -27,6 +27,8 @@
             
             {%- if section.settings.link_text != blank -%}
               <a href="{{ section.settings.link_url }}" class="signaturebtn">{{ section.settings.link_text | escape }}</a>
+              <a href="{{ section.settings.link_url2 }}" class="">{{ section.settings.link_text2 | escape }}</a>
+              
             {%- endif -%}
           </header>
         {%- endif -%}
@@ -166,6 +168,16 @@
     {
       "type": "url",
       "id": "link_url",
+      "label": "Link URL"
+    },
+    {
+      "type": "text",
+      "id": "link_text2",
+      "label": "Link text"
+    },
+    {
+      "type": "url",
+      "id": "link_url2",
       "label": "Link URL"
     }
   ],
