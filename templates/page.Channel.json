@@ -106,6 +106,13 @@
         "buttonlink": "",
         "buttontext": "SEE ALL CUSTOMER REVIEWS"
       }
+    },
+    "58b4b6bd-e23e-4a36-bb72-720704f23096": {
+      "type": "full_image",
+      "settings": {
+        "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-channel-fullbleed1-2x.jpg",
+        "bgcolor": ""
+      }
     }
   },
   "order": [
@@ -116,6 +123,7 @@
     "aecd51ab-9043-4574-a9af-82b0ada462d6",
     "042d709a-9412-4a98-8a5e-65d12324ed28",
     "7d65c61e-191f-466d-a1a2-adaab2318f06",
-    "3784d96b-a425-45a3-898b-d3e72e816e10"
+    "3784d96b-a425-45a3-898b-d3e72e816e10",
+    "58b4b6bd-e23e-4a36-bb72-720704f23096"
   ]
 }
