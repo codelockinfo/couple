@@ -233,6 +233,41 @@
         "link_url": ""
       }
     },
+    "87cf983a-5820-41f6-8390-34468f9e9b3c": {
+      "type": "2-box",
+      "blocks": {
+        "cf124a8d-4164-4c5d-9a87-3a0b3741dec3": {
+          "type": "section",
+          "settings": {
+            "mainimges": "shopify:\/\/shop_images\/inbloom-global-exitramp-standard-2x_1.png",
+            "bgcolor": "#f6dcd4",
+            "Service": "SERVICE & GUIDANCE",
+            "Guide": "The Ring Guide",
+            "ptext": "A primer on the mined and organic-grown diamond industry, as well as the qualities gemologists always look for in a world-class diamond.",
+            "our": "",
+            "Seeour": "SEE OUR GUIDE"
+          }
+        },
+        "3b5f7b4f-eaad-4ee9-a5db-c9917ad63fa1": {
+          "type": "section",
+          "settings": {
+            "mainimges": "shopify:\/\/shop_images\/inbloom-global-exitramp-diamonds-2x_1_2ac49b91-d5aa-4d5c-9904-c82231054cf3.png",
+            "bgcolor": "#e1dfe8",
+            "Service": "SERVICE & GUIDANCE",
+            "Guide": "The Ring Guide",
+            "ptext": "A primer on the mined and organic-grown diamond industry, as well as the qualities gemologists always look for in a world-class diamond.",
+            "our": "",
+            "Seeour": "SEE OUR GUIDE"
+          }
+        }
+      },
+      "block_order": [
+        "cf124a8d-4164-4c5d-9a87-3a0b3741dec3",
+        "3b5f7b4f-eaad-4ee9-a5db-c9917ad63fa1"
+      ],
+      "settings": {
+      }
+    },
     "b69bb56e-018f-46e2-9d79-c1263a6cd64d": {
       "type": "insta_section",
       "settings": {
@@ -271,39 +306,17 @@
       "settings": {
       }
     },
-    "87cf983a-5820-41f6-8390-34468f9e9b3c": {
-      "type": "2-box",
-      "blocks": {
-        "cf124a8d-4164-4c5d-9a87-3a0b3741dec3": {
-          "type": "section",
-          "settings": {
-            "mainimges": "shopify:\/\/shop_images\/inbloom-global-exitramp-standard-2x_1.png",
-            "bgcolor": "#f6dcd4",
-            "Service": "SERVICE & GUIDANCE",
-            "Guide": "The Ring Guide",
-            "ptext": "A primer on the mined and organic-grown diamond industry, as well as the qualities gemologists always look for in a world-class diamond.",
-            "our": "",
-            "Seeour": "SEE OUR GUIDE"
-          }
-        },
-        "3b5f7b4f-eaad-4ee9-a5db-c9917ad63fa1": {
-          "type": "section",
-          "settings": {
-            "mainimges": "shopify:\/\/shop_images\/inbloom-global-exitramp-diamonds-2x_1_2ac49b91-d5aa-4d5c-9904-c82231054cf3.png",
-            "bgcolor": "#e1dfe8",
-            "Service": "SERVICE & GUIDANCE",
-            "Guide": "The Ring Guide",
-            "ptext": "A primer on the mined and organic-grown diamond industry, as well as the qualities gemologists always look for in a world-class diamond.",
-            "our": "",
-            "Seeour": "SEE OUR GUIDE"
-          }
-        }
-      },
-      "block_order": [
-        "cf124a8d-4164-4c5d-9a87-3a0b3741dec3",
-        "3b5f7b4f-eaad-4ee9-a5db-c9917ad63fa1"
-      ],
+    "2ec77079-7d41-42b6-8c70-6c36bb2469cb": {
+      "type": "text-with-image",
       "settings": {
+        "bgcolor": "",
+        "subheading": "Sub-heading",
+        "title": "We’ll focus on the diamonds.You focus on your joy.",
+        "image": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-promise-2x.png",
+        "image_position": "right",
+        "content": "<p>For me, buying an engagement ring was an emotional rollercoaster. There was a lot of research, jewelry store visits, Instagram research and doubt. After all that, I vowed to make the ring buying process simple and one that sparked joy. Trust, thoughtfulness, transparency and quality are just a few of the ways we’ll deliver when you buy a Couple ring. You deserve to focus less on the potential pitfalls of buying a ring and more on the person who will one day wear it.<\/p>",
+        "link_text": "121",
+        "link_url": ""
       }
     }
   },
@@ -320,8 +333,9 @@
     "668abe1d-0539-46df-8c76-dcac38f5dd13",
     "0bfcf229-af8a-4749-855d-f9f43d32b3ee",
     "47fb633b-a9c4-41f4-a12e-5ca2c21947cc",
+    "87cf983a-5820-41f6-8390-34468f9e9b3c",
     "b69bb56e-018f-46e2-9d79-c1263a6cd64d",
     "e803af60-f4ed-4cd9-a13f-11ea5ec069bb",
-    "87cf983a-5820-41f6-8390-34468f9e9b3c"
+    "2ec77079-7d41-42b6-8c70-6c36bb2469cb"
   ]
 }
