@@ -278,6 +278,11 @@
         "alink": "",
         "atext": "FOLLOW US ON INSTAGRAM"
       }
+    },
+    "b1088781-5056-442f-a0d0-e2efd3cd7889": {
+      "type": "Newsletter-new",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -295,6 +300,7 @@
     "fc710912-c4de-4a74-b6bc-e69ffaf7138a",
     "06b68e45-027a-4262-83d4-baf1f14ea60c",
     "d4f5a149-8aae-4ecb-8c77-57cd9ea74e55",
-    "8c996447-b868-4fd6-b72f-fc3c6f156b24"
+    "8c996447-b868-4fd6-b72f-fc3c6f156b24",
+    "b1088781-5056-442f-a0d0-e2efd3cd7889"
   ]
 }
