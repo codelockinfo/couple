@@ -52,6 +52,19 @@
         "link_text": "STARTING AT $4,599",
         "link_url": ""
       }
+    },
+    "454d09a6-5ac0-4477-a7a7-02d5728df629": {
+      "type": "text-with-image",
+      "settings": {
+        "bgcolor": "",
+        "subheading": "",
+        "title": "Rose Gold",
+        "image": "shopify:\/\/shop_images\/inbloom-d-plp-pave-5050-02-2x.png",
+        "image_position": "right",
+        "content": "<p>A symbol of love and a modern take on gold. Our 18k rose gold flatters all skin tones and is a unique metal for engagement rings.<\/p>",
+        "link_text": "STARTING AT $4,599",
+        "link_url": ""
+      }
     }
   },
   "order": [
@@ -59,6 +72,7 @@
     "07e9f245-24a4-466a-9cb6-ff634cade17a",
     "33cfb7ee-52dc-4f0f-8fd7-3fa607bd2160",
     "29d3b9a7-2a77-4491-808e-69857e9910b5",
-    "dbd257d6-dea0-4a45-9613-70a77377ec72"
+    "dbd257d6-dea0-4a45-9613-70a77377ec72",
+    "454d09a6-5ac0-4477-a7a7-02d5728df629"
   ]
 }
