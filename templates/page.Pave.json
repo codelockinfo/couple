@@ -135,7 +135,7 @@
           "type": "collection",
           "settings": {
             "imageurl": "shopify:\/\/shop_images\/SolitaireClassic_WhiteGold_2CT_OnWhite_C_1.png",
-            "colors1": "",
+            "colors1": "rgba(0,0,0,0)",
             "subheading": "",
             "heading": "The Classic",
             "content1": "<p>Elegant. Timeless. A time-honored silhouette.<\/p>",
