@@ -3,10 +3,25 @@
     "main": {
       "type": "main-page",
       "settings": {
+        "show_large": false
+      }
+    },
+    "07e9f245-24a4-466a-9cb6-ff634cade17a": {
+      "type": "hero_section",
+      "settings": {
+        "heroimg": "shopify:\/\/shop_images\/inbloom-d-plp-halo-atf-2x.jpg",
+        "subhading": "",
+        "hading": "",
+        "textp": "",
+        "buttontext": "",
+        "butonurl": "",
+        "Design": "",
+        "textarey": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "07e9f245-24a4-466a-9cb6-ff634cade17a"
   ]
 }
