@@ -19,10 +19,60 @@
         "Design": "DESIGN",
         "textarey": "DESIGNA channel band takes the look and sparkle of pavé, but adds a modern twist. Micro diamonds are surrounded by two walls of precious metal, making for a smooth, unobtrusive surface. It’s a strong way to showcase your Couple diamond while making a bold statement."
       }
+    },
+    "23129904-7034-4263-8f2d-3128f54fd2fc": {
+      "type": "full_image",
+      "settings": {
+        "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-channel-fullwidthpng-01-2x.png",
+        "bgcolor": "#e1dfe8"
+      }
+    },
+    "30b36828-e066-4357-b097-19d4b3f9139a": {
+      "type": "only-text",
+      "settings": {
+        "subheading": "",
+        "title": "The Channel Metals",
+        "Button": "Title",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "<p>Select from four precious metals.<\/p>",
+        "link_text": "",
+        "link_url": "",
+        "bgcolor": "#f3f3f6"
+      }
+    },
+    "aecd51ab-9043-4574-a9af-82b0ada462d6": {
+      "type": "text-with-image",
+      "settings": {
+        "bgcolor": "",
+        "subheading": "",
+        "title": "White Gold",
+        "image": "shopify:\/\/shop_images\/inbloom-d-plp-Channel-5050-01-2x.png",
+        "image_position": "left",
+        "content": "<p>Our most popular and versatile metal. 18k white gold sets the perfect backdrop for your stone to shine.<\/p>",
+        "link_text": "STARTING AT $4,699",
+        "link_url": ""
+      }
+    },
+    "042d709a-9412-4a98-8a5e-65d12324ed28": {
+      "type": "text-with-image",
+      "settings": {
+        "bgcolor": "",
+        "subheading": "",
+        "title": "Rose Gold",
+        "image_position": "right",
+        "content": "<p>A symbol of love and a modern take on gold. Our 18k rose gold flatters all skin tones and is a unique metal for engagement rings.<\/p>",
+        "link_text": "STARTING AT $4,699",
+        "link_url": ""
+      }
     }
   },
   "order": [
     "main",
-    "0b10bb56-6877-4fe3-a242-01f2630f1ec5"
+    "0b10bb56-6877-4fe3-a242-01f2630f1ec5",
+    "23129904-7034-4263-8f2d-3128f54fd2fc",
+    "30b36828-e066-4357-b097-19d4b3f9139a",
+    "aecd51ab-9043-4574-a9af-82b0ada462d6",
+    "042d709a-9412-4a98-8a5e-65d12324ed28"
   ]
 }
