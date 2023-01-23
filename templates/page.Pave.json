@@ -2,11 +2,27 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+        "show_large": false
+      }
+    },
+    "b80a629e-83e8-4851-9448-8bbe1b2d3e3b": {
+      "type": "hero_section",
+      "settings": {
+        "heroimg": "shopify:\/\/shop_images\/inbloom-d-plp-pave-atf-2x.jpg",
+        "subhading": "OUR RINGS",
+        "hading": "The Pavé",
+        "textp": "A refined expression of joy and romance.",
+        "buttontext": "SHOP THE PAVÉ",
+        "butonurl": "",
+        "Design": "",
+        "textarey": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "b80a629e-83e8-4851-9448-8bbe1b2d3e3b"
   ]
 }
