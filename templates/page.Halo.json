@@ -106,6 +106,13 @@
         "buttonlink": "",
         "buttontext": "SEE ALL CUSTOMER REVIEWS"
       }
+    },
+    "391bdba6-d12a-447c-8077-e5dcfa30c764": {
+      "type": "full_image",
+      "settings": {
+        "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-halo-fullbleed1-2x.jpg",
+        "bgcolor": ""
+      }
     }
   },
   "order": [
@@ -116,6 +123,7 @@
     "dbd257d6-dea0-4a45-9613-70a77377ec72",
     "454d09a6-5ac0-4477-a7a7-02d5728df629",
     "53846499-2d49-4517-aa65-2ddeda0a095d",
-    "443bf9e0-dc2b-4fe4-9b10-a02416d5869e"
+    "443bf9e0-dc2b-4fe4-9b10-a02416d5869e",
+    "391bdba6-d12a-447c-8077-e5dcfa30c764"
   ]
 }
