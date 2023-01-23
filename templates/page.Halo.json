@@ -245,6 +245,39 @@
         "link_text2": "",
         "link_url2": ""
       }
+    },
+    "8c996447-b868-4fd6-b72f-fc3c6f156b24": {
+      "type": "insta_section",
+      "settings": {
+        "instaimg": "shopify:\/\/shop_images\/ugc_1_23b7f866-4f1e-47a9-9b82-cdc5ae3796c4.jpg",
+        "instanameurl": "",
+        "instaname": "",
+        "instaimg1": "shopify:\/\/shop_images\/ugc_4_dfe79bcf-f7b1-4ef4-899e-8da2c5fd1d32.jpg",
+        "instanameurl1": "",
+        "instaname1": "",
+        "instaimg2": "shopify:\/\/shop_images\/ugc_3_9f939372-46e3-4754-bbb0-5ad819d6daf7.jpg",
+        "instanameurl2": "",
+        "instaname2": "",
+        "instaimg3": "shopify:\/\/shop_images\/ugc_2_b09aedb5-1b2b-4c6f-95ba-fdc030e3916c.jpg",
+        "instanameurl3": "",
+        "instaname3": "",
+        "instaimg4": "shopify:\/\/shop_images\/ugc_1_23b7f866-4f1e-47a9-9b82-cdc5ae3796c4.jpg",
+        "instanameurl4": "",
+        "instaname4": "",
+        "instaimg11": "shopify:\/\/shop_images\/ugc_2_b09aedb5-1b2b-4c6f-95ba-fdc030e3916c.jpg",
+        "instanameurl11": "",
+        "instaname11": "",
+        "instaimg21": "shopify:\/\/shop_images\/ugc_4_dfe79bcf-f7b1-4ef4-899e-8da2c5fd1d32.jpg",
+        "instanameurl21": "",
+        "instaname21": "",
+        "instaimg31": "shopify:\/\/shop_images\/ugc_3_9f939372-46e3-4754-bbb0-5ad819d6daf7.jpg",
+        "instanameurl31": "",
+        "instaname31": "",
+        "subtitel": "#COUPLECO",
+        "heading": "Share in the love.",
+        "alink": "",
+        "atext": "FOLLOW US ON INSTAGRAM"
+      }
     }
   },
   "order": [
@@ -261,6 +294,7 @@
     "8a36efd2-09c2-41d0-a000-42ec9c29cc48",
     "fc710912-c4de-4a74-b6bc-e69ffaf7138a",
     "06b68e45-027a-4262-83d4-baf1f14ea60c",
-    "d4f5a149-8aae-4ecb-8c77-57cd9ea74e55"
+    "d4f5a149-8aae-4ecb-8c77-57cd9ea74e55",
+    "8c996447-b868-4fd6-b72f-fc3c6f156b24"
   ]
 }
