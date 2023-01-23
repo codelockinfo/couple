@@ -5,11 +5,11 @@
       <img src="{{ block.settings.mainimges| img_url: 'master' }}">
     </div>
     <div class="abstract-container">
-        <h5>Service &amp; Guidance</h5>
-        <h3>The Ring Guide</h3>
-        <p>A primer on the mined and organic-grown diamond industry, as well as the qualities gemologists always look for in a world-class diamond.</p>
+        <h5>{{ block.settings.Service }}</h5>
+        <h3>{{ block.settings.Guide }}</h3>
+        <p>{{ block.settings.ptext }}</p>
 
-        <a class="button read-more" href="/blogs/our-guide">See our guide</a>
+        <a class="button read-more" href="{{ block.settings.our }}">{{ block.settings.Seeour }}</a>
    </div>
   </div>
 {% endfor %}
@@ -81,8 +81,32 @@
       "type": "image_picker",
     "id": "mainimges",
     "label": "Image"
-  }
-  
+  },
+      {
+      "id" : "Service",
+      "type" : "text",
+      "label" : "sub Heading"
+    },
+      {
+      "id" : "Guide",
+      "type" : "text",
+      "label" : "Heading"
+    },
+      {
+      "id" : "ptext",
+      "type" : "text",
+      "label" : "text"
+    },
+      {
+      "id" : "our",
+      "type" : "url",
+      "label" : "button url"
+    },
+      {
+      "id" : "Seeour",
+      "type" : "text",
+      "label" : "button text"
+    }
     ]
   }
 ],
