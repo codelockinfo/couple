@@ -220,6 +220,19 @@
         "buttontexts": ""
       }
     },
+    "47fb633b-a9c4-41f4-a12e-5ca2c21947cc": {
+      "type": "new-video-with-text",
+      "settings": {
+        "subheading": "WE’RE HERE TO HELP",
+        "title": "We get it, you’ve never done this before.",
+        "video_url2": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-4.mp4",
+        "video_url3": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-3.mp4",
+        "image_position": "right",
+        "content": "<p>That’s why we have complimentary concierges who are here to guide you through everything - from understanding what carat, color, cut, and clarity mean, to designing the perfect ring. And of course, we have resources if you’d prefer to learn at your own pace.<\/p>",
+        "link_text": "BOOK AN APPOINTMENT",
+        "link_url": ""
+      }
+    },
     "b69bb56e-018f-46e2-9d79-c1263a6cd64d": {
       "type": "insta_section",
       "settings": {
@@ -257,19 +270,6 @@
       "type": "Newsletter-new",
       "settings": {
       }
-    },
-    "47fb633b-a9c4-41f4-a12e-5ca2c21947cc": {
-      "type": "new-video-with-text",
-      "settings": {
-        "subheading": "WE’RE HERE TO HELP",
-        "title": "We get it, you’ve never done this before.",
-        "video_url2": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-4.mp4",
-        "video_url3": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-3.mp4",
-        "image_position": "right",
-        "content": "<p>That’s why we have complimentary concierges who are here to guide you through everything - from understanding what carat, color, cut, and clarity mean, to designing the perfect ring. And of course, we have resources if you’d prefer to learn at your own pace.<\/p>",
-        "link_text": "BOOK AN APPOINTMENT",
-        "link_url": ""
-      }
     }
   },
   "order": [
@@ -284,8 +284,8 @@
     "91683fe4-f0c1-446c-abad-edb626fc9c4d",
     "668abe1d-0539-46df-8c76-dcac38f5dd13",
     "0bfcf229-af8a-4749-855d-f9f43d32b3ee",
+    "47fb633b-a9c4-41f4-a12e-5ca2c21947cc",
     "b69bb56e-018f-46e2-9d79-c1263a6cd64d",
-    "e803af60-f4ed-4cd9-a13f-11ea5ec069bb",
-    "47fb633b-a9c4-41f4-a12e-5ca2c21947cc"
+    "e803af60-f4ed-4cd9-a13f-11ea5ec069bb"
   ]
 }
