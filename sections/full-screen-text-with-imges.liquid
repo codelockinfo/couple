@@ -18,7 +18,9 @@
               </div>
             {%- endif -%}
              {%- if section.settings.signature != blank -%}
-              <img src="{{ section.settings.signature | img_url: '800x' }}">
+              <div class="signatureimg">
+                 <img src="{{ section.settings.signature | img_url: '800x' }}">
+              </div>
             {%- endif -%}
 
             
