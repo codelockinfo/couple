@@ -40,12 +40,26 @@
         "link_url": "",
         "bgcolor": "#f5eef0"
       }
+    },
+    "2d574b68-9b96-4a82-9a16-e590699a6bae": {
+      "type": "text-with-image",
+      "settings": {
+        "bgcolor": "#f5eef0",
+        "subheading": "",
+        "title": "The Pavé — Thin",
+        "image": "shopify:\/\/shop_images\/inbloom-d-plp-pave-5050-03-2x.png",
+        "image_position": "right",
+        "content": "<p>Dramatic, dreamy, yet modern. Your diamond is stunningly set above a delicate band of micro diamonds. A 4-prong cathedral setting is the perfect setup for this very sophisticated and understated take on pavé.<\/p>",
+        "link_text": "STARTING AT $4,299",
+        "link_url": ""
+      }
     }
   },
   "order": [
     "main",
     "b80a629e-83e8-4851-9448-8bbe1b2d3e3b",
     "338df6bd-f366-4a08-bf68-ceb4bd37dc71",
-    "d92d289c-3d2c-42ae-a184-430f61b53142"
+    "d92d289c-3d2c-42ae-a184-430f61b53142",
+    "2d574b68-9b96-4a82-9a16-e590699a6bae"
   ]
 }
