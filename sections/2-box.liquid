@@ -1,7 +1,7 @@
 <div class="mainbox">
 {% for block in section.blocks %}
   <div class="guide">
-    <div class="blockimg" style="background-image: linear-gradient(to bottom,transparent 0%,transparent 10%,#f6dcd4 10%,#f6dcd4 100%);">
+    <div class="blockimg" style="background-image: linear-gradient(to bottom,transparent 0%,transparent 10%,{{ block.settings.bgcolor }} 10%,{{ block.settings.bgcolor }} 100%);">
       <img src="{{ block.settings.mainimges| img_url: 'master' }}">
     </div>
     <div class="abstract-container">
@@ -83,6 +83,11 @@
     "id": "mainimges",
     "label": "Image"
   },
+       {
+      "id" : "bgcolor",
+      "type" : "color",
+      "label" : "background-color"
+    },
       {
       "id" : "Service",
       "type" : "text",
