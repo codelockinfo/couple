@@ -169,16 +169,43 @@
             "url-text": "",
             "bgcolors": ""
           }
+        },
+        "78f2e922-f5f4-4910-bf4f-963ab5ff7d92": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": "",
+            "bgcolors": ""
+          }
         }
       },
       "block_order": [
         "39dc05f6-ffed-4be5-b0d4-fa9e35d7e6e3",
         "818af62e-4780-4c1f-b3db-41c88d14aba5",
-        "13412bce-b4a1-4e78-8958-439f9bee0b60"
+        "13412bce-b4a1-4e78-8958-439f9bee0b60",
+        "78f2e922-f5f4-4910-bf4f-963ab5ff7d92"
       ],
       "settings": {
         "buttonlink": "shopify:\/\/collections",
         "buttontexts": "SHOP THIS STYLE"
+      }
+    },
+    "b70087f1-3301-4ab4-ab77-76bfc45a1149": {
+      "type": "new-video-with-text",
+      "settings": {
+        "subheading": "WE’RE HERE TO HELP",
+        "title": "We get it, you’ve never done this before.",
+        "video_url2": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-4.mp4",
+        "video_url3": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-3.mp4",
+        "image_position": "right",
+        "content": "<p>That’s why we have complimentary concierges who are here to guide you through everything - from understanding what carat, color, cut, and clarity mean, to designing the perfect ring. And of course, we have resources if you’d prefer to learn at your own pace.<\/p>",
+        "link_text": "BOOK AN APPOINTMENT",
+        "link_url": ""
       }
     }
   },
@@ -193,6 +220,7 @@
     "e8cb6cc7-b097-487f-b62f-83272b66d743",
     "e463befe-2be8-4516-895e-849e7cb5d656",
     "0c9e9317-d07f-4dfe-a470-26d1d66fa652",
-    "eb8fed71-dab2-45e4-b262-26e56fd6bc36"
+    "eb8fed71-dab2-45e4-b262-26e56fd6bc36",
+    "b70087f1-3301-4ab4-ab77-76bfc45a1149"
   ]
 }
