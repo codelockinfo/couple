@@ -242,6 +242,21 @@
       ],
       "settings": {
       }
+    },
+    "7d546fa0-83d1-479e-9655-059dadde149d": {
+      "type": "full-screen-text-with-imges",
+      "settings": {
+        "bgcolor": "",
+        "subheading": "OUR PROMISE",
+        "title": "We’ll focus on the diamonds.You focus on your joy.",
+        "image": "shopify:\/\/shop_images\/inbloom-d-plp-pave-promise-2x.png",
+        "image_position": "right",
+        "content": "<p>For me, buying an engagement ring was an emotional rollercoaster. There was a lot of research, jewelry store visits, Instagram research and doubt. After all that, I vowed to make the ring buying process simple and one that sparked joy. Trust, thoughtfulness, transparency and quality are just a few of the ways we’ll deliver when you buy a Couple ring. You deserve to focus less on the potential pitfalls of buying a ring and more on the person who will one day wear it.<\/p>",
+        "signature": "shopify:\/\/shop_images\/jeff-brenner-signature.png",
+        "signaturetext": "— JEFF BRENNER, CO-FOUNDER",
+        "link_text": "VISIT OUR FAQS",
+        "link_url": ""
+      }
     }
   },
   "order": [
@@ -257,6 +272,7 @@
     "0c9e9317-d07f-4dfe-a470-26d1d66fa652",
     "eb8fed71-dab2-45e4-b262-26e56fd6bc36",
     "b70087f1-3301-4ab4-ab77-76bfc45a1149",
-    "21c94165-3c44-4a05-9a40-4905925ed323"
+    "21c94165-3c44-4a05-9a40-4905925ed323",
+    "7d546fa0-83d1-479e-9655-059dadde149d"
   ]
 }
