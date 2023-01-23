@@ -2,7 +2,7 @@
 {% for block in section.blocks %}
   <div>
     <div class="blockimg">
-      <img src="{{ section.settings.mainimges }}">
+      <img src="{{ block.settings.mainimges }}">
     </div>
     <div class="abstract-container">
         <h5>Service &amp; Guidance</h5>
@@ -18,12 +18,22 @@
   {
     "name": "2 boc section",
     "settings": [
+      
+    ],
+     "blocks": [
+  {
+    "type": "collection",
+    "name": "Collection",
+    "settings": [
       {
       "type": "image_picker",
     "id": "mainimges",
     "label": "Image"
   }
-    ],
+  
+    ]
+  }
+],
     "presets": [
   {
    "name": "2 boc section"
