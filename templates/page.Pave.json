@@ -127,6 +127,56 @@
         "link_url": "",
         "bgcolor": "#f8f8f6"
       }
+    },
+    "eb8fed71-dab2-45e4-b262-26e56fd6bc36": {
+      "type": "Diamond-Shapes",
+      "blocks": {
+        "39dc05f6-ffed-4be5-b0d4-fa9e35d7e6e3": {
+          "type": "collection",
+          "settings": {
+            "colors1": "",
+            "subheading": "",
+            "heading": "The Classic",
+            "content1": "<p>Elegant. Timeless. A time-honored silhouette.<\/p>",
+            "url-link": "",
+            "url-text": "",
+            "bgcolors": ""
+          }
+        },
+        "818af62e-4780-4c1f-b3db-41c88d14aba5": {
+          "type": "collection",
+          "settings": {
+            "colors1": "",
+            "subheading": "",
+            "heading": "The Classic",
+            "content1": "<p>Elegant. Timeless. A time-honored silhouette.<\/p>",
+            "url-link": "",
+            "url-text": "",
+            "bgcolors": ""
+          }
+        },
+        "13412bce-b4a1-4e78-8958-439f9bee0b60": {
+          "type": "collection",
+          "settings": {
+            "colors1": "",
+            "subheading": "",
+            "heading": "The Classic",
+            "content1": "<p>Elegant. Timeless. A time-honored silhouette.<\/p>",
+            "url-link": "",
+            "url-text": "",
+            "bgcolors": ""
+          }
+        }
+      },
+      "block_order": [
+        "39dc05f6-ffed-4be5-b0d4-fa9e35d7e6e3",
+        "818af62e-4780-4c1f-b3db-41c88d14aba5",
+        "13412bce-b4a1-4e78-8958-439f9bee0b60"
+      ],
+      "settings": {
+        "buttonlink": "shopify:\/\/collections",
+        "buttontexts": "SHOP THIS STYLE"
+      }
     }
   },
   "order": [
@@ -139,6 +189,7 @@
     "14fb5917-ad87-4ef0-984b-fa4b5e0a3385",
     "e8cb6cc7-b097-487f-b62f-83272b66d743",
     "e463befe-2be8-4516-895e-849e7cb5d656",
-    "0c9e9317-d07f-4dfe-a470-26d1d66fa652"
+    "0c9e9317-d07f-4dfe-a470-26d1d66fa652",
+    "eb8fed71-dab2-45e4-b262-26e56fd6bc36"
   ]
 }
