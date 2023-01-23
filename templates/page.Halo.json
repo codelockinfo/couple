@@ -25,11 +25,26 @@
         "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-halo-fullwidthpng-01-2x.png",
         "bgcolor": "#f6dcd4"
       }
+    },
+    "29d3b9a7-2a77-4491-808e-69857e9910b5": {
+      "type": "only-text",
+      "settings": {
+        "subheading": "",
+        "title": "The Halo Metals",
+        "Button": "",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "<p>Select from four precious metals.<\/p>",
+        "link_text": "",
+        "link_url": "",
+        "bgcolor": ""
+      }
     }
   },
   "order": [
     "main",
     "07e9f245-24a4-466a-9cb6-ff634cade17a",
-    "33cfb7ee-52dc-4f0f-8fd7-3fa607bd2160"
+    "33cfb7ee-52dc-4f0f-8fd7-3fa607bd2160",
+    "29d3b9a7-2a77-4491-808e-69857e9910b5"
   ]
 }
