@@ -255,7 +255,9 @@
         "signature": "shopify:\/\/shop_images\/jeff-brenner-signature.png",
         "signaturetext": "— JEFF BRENNER, CO-FOUNDER",
         "link_text": "VISIT OUR FAQS",
-        "link_url": ""
+        "link_url": "",
+        "link_text2": "CHAT WITH US",
+        "link_url2": ""
       }
     }
   },
