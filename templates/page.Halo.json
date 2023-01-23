@@ -113,6 +113,20 @@
         "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-halo-fullbleed1-2x.jpg",
         "bgcolor": ""
       }
+    },
+    "6386c744-a6bf-4ed7-aa7d-8c3821937c57": {
+      "type": "only-text",
+      "settings": {
+        "subheading": "STYLE",
+        "title": "Our Curated Designs",
+        "Button": "",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "",
+        "link_text": "",
+        "link_url": "",
+        "bgcolor": ""
+      }
     }
   },
   "order": [
@@ -124,6 +138,7 @@
     "454d09a6-5ac0-4477-a7a7-02d5728df629",
     "53846499-2d49-4517-aa65-2ddeda0a095d",
     "443bf9e0-dc2b-4fe4-9b10-a02416d5869e",
-    "391bdba6-d12a-447c-8077-e5dcfa30c764"
+    "391bdba6-d12a-447c-8077-e5dcfa30c764",
+    "6386c744-a6bf-4ed7-aa7d-8c3821937c57"
   ]
 }
