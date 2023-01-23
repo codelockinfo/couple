@@ -193,6 +193,41 @@
         "link_text": "WE’RE HERE TO HELP",
         "link_url": ""
       }
+    },
+    "06b68e45-027a-4262-83d4-baf1f14ea60c": {
+      "type": "2-box",
+      "blocks": {
+        "8e091386-fff2-4638-970b-4e7bda5ad0db": {
+          "type": "section",
+          "settings": {
+            "mainimges": "shopify:\/\/shop_images\/inbloom-global-exitramp-standard-2x_1.png",
+            "bgcolor": "#f6dcd4",
+            "Service": "SERVICE & GUIDANCE",
+            "Guide": "The Ring Guide",
+            "ptext": "A primer on the mined and organic-grown diamond industry, as well as the qualities gemologists always look for in a world-class diamond.",
+            "our": "",
+            "Seeour": "SEE OUR GUIDE"
+          }
+        },
+        "00a2f5b1-5a82-40da-8565-e5484aa6a98a": {
+          "type": "section",
+          "settings": {
+            "mainimges": "shopify:\/\/shop_images\/inbloom-global-exitramp-diamonds-2x_1_2ac49b91-d5aa-4d5c-9904-c82231054cf3.png",
+            "bgcolor": "#e1dfe8",
+            "Service": "SERVICE & GUIDANCE",
+            "Guide": "The Ring Guide",
+            "ptext": "A primer on the mined and organic-grown diamond industry, as well as the qualities gemologists always look for in a world-class diamond.",
+            "our": "",
+            "Seeour": "SEE OUR GUIDE"
+          }
+        }
+      },
+      "block_order": [
+        "8e091386-fff2-4638-970b-4e7bda5ad0db",
+        "00a2f5b1-5a82-40da-8565-e5484aa6a98a"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -207,6 +242,7 @@
     "391bdba6-d12a-447c-8077-e5dcfa30c764",
     "6386c744-a6bf-4ed7-aa7d-8c3821937c57",
     "8a36efd2-09c2-41d0-a000-42ec9c29cc48",
-    "fc710912-c4de-4a74-b6bc-e69ffaf7138a"
+    "fc710912-c4de-4a74-b6bc-e69ffaf7138a",
+    "06b68e45-027a-4262-83d4-baf1f14ea60c"
   ]
 }
