@@ -19,10 +19,18 @@
         "Design": "DESIGN",
         "textarey": "Attention to detail gets a whole new meaning with our intricate pavé work. During the sketching phase, we drew inspiration from important rings of past eras, and applied modern techniques to create a style that feels slightly vintage yet ever so modern."
       }
+    },
+    "338df6bd-f366-4a08-bf68-ceb4bd37dc71": {
+      "type": "full_image",
+      "settings": {
+        "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-pave-fullwidthpng-01-2x.png",
+        "bgcolor": "#e5d3d9"
+      }
     }
   },
   "order": [
     "main",
-    "b80a629e-83e8-4851-9448-8bbe1b2d3e3b"
+    "b80a629e-83e8-4851-9448-8bbe1b2d3e3b",
+    "338df6bd-f366-4a08-bf68-ceb4bd37dc71"
   ]
 }
