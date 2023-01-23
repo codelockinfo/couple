@@ -66,6 +66,19 @@
         "link_text": "STARTING AT $4,599",
         "link_url": ""
       }
+    },
+    "14fb5917-ad87-4ef0-984b-fa4b5e0a3385": {
+      "type": "text-with-image",
+      "settings": {
+        "bgcolor": "#f5eef0",
+        "subheading": "",
+        "title": "The Pavé — Tapered",
+        "image": "shopify:\/\/shop_images\/inbloom-d-plp-pave-5050-02-2x.png",
+        "image_position": "right",
+        "content": "<p>This ring is pure romance, embodied. With a 4-prong cathedral setting, your stone will sit at a lower profile, while allowing for maximum light to enter. An elegant taper of pavé stones sets the perfect stage for your diamond, in a whimsical manner that will always impress.<\/p>",
+        "link_text": "STARTING AT $4,599",
+        "link_url": ""
+      }
     }
   },
   "order": [
@@ -74,6 +87,7 @@
     "338df6bd-f366-4a08-bf68-ceb4bd37dc71",
     "d92d289c-3d2c-42ae-a184-430f61b53142",
     "2d574b68-9b96-4a82-9a16-e590699a6bae",
-    "20f8e557-9410-4294-b4f6-a7b1db88a48c"
+    "20f8e557-9410-4294-b4f6-a7b1db88a48c",
+    "14fb5917-ad87-4ef0-984b-fa4b5e0a3385"
   ]
 }
