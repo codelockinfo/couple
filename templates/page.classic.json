@@ -268,6 +268,21 @@
       "settings": {
       }
     },
+    "ac88200b-886c-465f-8479-9908a64213e4": {
+      "type": "full-screen-text-with-imges",
+      "settings": {
+        "bgcolor": "#dde9ed",
+        "subheading": "Sub-heading",
+        "title": "We’ll focus on the diamonds.You focus on your joy.",
+        "image": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-promise-2x.png",
+        "image_position": "right",
+        "content": "<p>For me, buying an engagement ring was an emotional rollercoaster. There was a lot of research, jewelry store visits, Instagram research and doubt. After all that, I vowed to make the ring buying process simple and one that sparked joy. Trust, thoughtfulness, transparency and quality are just a few of the ways we’ll deliver when you buy a Couple ring. You deserve to focus less on the potential pitfalls of buying a ring and more on the person who will one day wear it.<\/p>",
+        "signature": "shopify:\/\/shop_images\/jeff-brenner-signature.png",
+        "signaturetext": "— JEFF BRENNER, CO-FOUNDER",
+        "link_text": "VISIT OUR FAQS ",
+        "link_url": ""
+      }
+    },
     "b69bb56e-018f-46e2-9d79-c1263a6cd64d": {
       "type": "insta_section",
       "settings": {
@@ -305,21 +320,6 @@
       "type": "Newsletter-new",
       "settings": {
       }
-    },
-    "ac88200b-886c-465f-8479-9908a64213e4": {
-      "type": "full-screen-text-with-imges",
-      "settings": {
-        "bgcolor": "#dde9ed",
-        "subheading": "Sub-heading",
-        "title": "We’ll focus on the diamonds.You focus on your joy.",
-        "image": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-promise-2x.png",
-        "image_position": "right",
-        "content": "<p>For me, buying an engagement ring was an emotional rollercoaster. There was a lot of research, jewelry store visits, Instagram research and doubt. After all that, I vowed to make the ring buying process simple and one that sparked joy. Trust, thoughtfulness, transparency and quality are just a few of the ways we’ll deliver when you buy a Couple ring. You deserve to focus less on the potential pitfalls of buying a ring and more on the person who will one day wear it.<\/p>",
-        "signature": "shopify:\/\/shop_images\/jeff-brenner-signature.png",
-        "signaturetext": "— JEFF BRENNER, CO-FOUNDER",
-        "link_text": "VISIT OUR FAQS ",
-        "link_url": ""
-      }
     }
   },
   "order": [
@@ -336,8 +336,8 @@
     "0bfcf229-af8a-4749-855d-f9f43d32b3ee",
     "47fb633b-a9c4-41f4-a12e-5ca2c21947cc",
     "87cf983a-5820-41f6-8390-34468f9e9b3c",
+    "ac88200b-886c-465f-8479-9908a64213e4",
     "b69bb56e-018f-46e2-9d79-c1263a6cd64d",
-    "e803af60-f4ed-4cd9-a13f-11ea5ec069bb",
-    "ac88200b-886c-465f-8479-9908a64213e4"
+    "e803af60-f4ed-4cd9-a13f-11ea5ec069bb"
   ]
 }
