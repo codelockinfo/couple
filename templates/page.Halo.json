@@ -79,6 +79,33 @@
         "link_text": "STARTING AT $4,899",
         "link_url": ""
       }
+    },
+    "443bf9e0-dc2b-4fe4-9b10-a02416d5869e": {
+      "type": "Testimonials-new",
+      "blocks": {
+        "a35c4d76-9b46-4ed4-a8f0-b883cd8abed8": {
+          "type": "block",
+          "settings": {
+            "confimed": "“My experience finding an engagement ring with Couple was awesome. Excellent buying process, exceptional quality, and the price was right.”",
+            "confimedp": "– KEVIN K."
+          }
+        },
+        "83480233-badd-4142-9a87-b4d781c80db6": {
+          "type": "block",
+          "settings": {
+            "confimed": "“My experience finding an engagement ring with Couple was awesome. Excellent buying process, exceptional quality, and the price was right.”",
+            "confimedp": "– KEVIN K."
+          }
+        }
+      },
+      "block_order": [
+        "a35c4d76-9b46-4ed4-a8f0-b883cd8abed8",
+        "83480233-badd-4142-9a87-b4d781c80db6"
+      ],
+      "settings": {
+        "buttonlink": "",
+        "buttontext": "SEE ALL CUSTOMER REVIEWS"
+      }
     }
   },
   "order": [
@@ -88,6 +115,7 @@
     "29d3b9a7-2a77-4491-808e-69857e9910b5",
     "dbd257d6-dea0-4a45-9613-70a77377ec72",
     "454d09a6-5ac0-4477-a7a7-02d5728df629",
-    "53846499-2d49-4517-aa65-2ddeda0a095d"
+    "53846499-2d49-4517-aa65-2ddeda0a095d",
+    "443bf9e0-dc2b-4fe4-9b10-a02416d5869e"
   ]
 }
