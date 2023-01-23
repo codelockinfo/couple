@@ -17,7 +17,11 @@
                 {{ section.settings.content }}
               </div>
             {%- endif -%}
+             {%- if section.settings.signature != blank -%}
+              <img src="{{ section.settings.signature | img_url: '800x' }}">
+            {%- endif -%}
 
+            
             {%- if section.settings.link_text != blank -%}
               <a href="{{ section.settings.link_url }}" class="Link Link--underline">{{ section.settings.link_text | escape }}</a>
             {%- endif -%}
@@ -118,6 +122,12 @@
       "label": "Text",
       "default": "<p>Add your own custom content to give more information about your store, availability details...</p>"
     },
+     {
+      "type": "image_picker",
+      "id": "signature",
+      "label": "Image"
+    },
+    
     {
       "type": "text",
       "id": "link_text",
