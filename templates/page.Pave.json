@@ -292,6 +292,11 @@
         "alink": "",
         "atext": "FOLLOW US ON INSTAGRAM"
       }
+    },
+    "45d05b8a-da54-43d0-81e6-6569dda66868": {
+      "type": "Newsletter-new",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -309,6 +314,7 @@
     "b70087f1-3301-4ab4-ab77-76bfc45a1149",
     "21c94165-3c44-4a05-9a40-4905925ed323",
     "7d546fa0-83d1-479e-9655-059dadde149d",
-    "a5fc4684-e263-44c6-9d98-81941fba5113"
+    "a5fc4684-e263-44c6-9d98-81941fba5113",
+    "45d05b8a-da54-43d0-81e6-6569dda66868"
   ]
 }
