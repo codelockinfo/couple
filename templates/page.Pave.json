@@ -215,7 +215,7 @@
           "type": "section",
           "settings": {
             "mainimges": "shopify:\/\/shop_images\/inbloom-global-exitramp-diamonds-2x_1.png",
-            "bgcolor": "",
+            "bgcolor": "#e1dfe8",
             "Service": "SERVICE & GUIDANCE",
             "Guide": "The Ring Guide",
             "ptext": "A primer on the mined and organic-grown diamond industry, as well as the qualities gemologists always look for in a world-class diamond.",
@@ -227,9 +227,9 @@
           "type": "section",
           "settings": {
             "mainimges": "shopify:\/\/shop_images\/inbloom-global-exitramp-standard-2x_1.png",
-            "bgcolor": "",
+            "bgcolor": "#f6dcd4",
             "Service": "The Ring Guide",
-            "Guide": "Remarkably grown.Just for you.",
+            "Guide": "Remarkably grown<br>.Just for you.",
             "ptext": "Couple diamonds meet an exceptional G + VS2 standard, and are further hand-inspected to ensure they possess a unique, intangible quality.",
             "our": "",
             "Seeour": "LEARN MORE"
