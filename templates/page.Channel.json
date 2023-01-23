@@ -2,11 +2,27 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+        "show_large": false
+      }
+    },
+    "0b10bb56-6877-4fe3-a242-01f2630f1ec5": {
+      "type": "hero_section",
+      "settings": {
+        "heroimg": "shopify:\/\/shop_images\/inbloom-d-plp-channel-atf-2x.jpg",
+        "subhading": "OUR RINGS",
+        "hading": "The Channel",
+        "textp": "Bold. Modern. Sleek. Reinventing how classics are made.",
+        "buttontext": "SHOP THE CHANNEL",
+        "butonurl": "",
+        "Design": "DESIGN",
+        "textarey": "DESIGNA channel band takes the look and sparkle of pavé, but adds a modern twist. Micro diamonds are surrounded by two walls of precious metal, making for a smooth, unobtrusive surface. It’s a strong way to showcase your Couple diamond while making a bold statement."
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "0b10bb56-6877-4fe3-a242-01f2630f1ec5"
   ]
 }
