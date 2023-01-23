@@ -106,6 +106,13 @@
         "buttonlink": "",
         "buttontext": "SEE ALL CUSTOMER REVIEWS"
       }
+    },
+    "e463befe-2be8-4516-895e-849e7cb5d656": {
+      "type": "full_image",
+      "settings": {
+        "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-pave-fullbleed1-2x.jpg",
+        "bgcolor": ""
+      }
     }
   },
   "order": [
@@ -116,6 +123,7 @@
     "2d574b68-9b96-4a82-9a16-e590699a6bae",
     "20f8e557-9410-4294-b4f6-a7b1db88a48c",
     "14fb5917-ad87-4ef0-984b-fa4b5e0a3385",
-    "e8cb6cc7-b097-487f-b62f-83272b66d743"
+    "e8cb6cc7-b097-487f-b62f-83272b66d743",
+    "e463befe-2be8-4516-895e-849e7cb5d656"
   ]
 }
