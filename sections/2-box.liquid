@@ -14,6 +14,27 @@
   </div>
 {% endfor %}
 </div>
+
+
+{% stylesheet %}
+  .mainbox {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1400px;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+  
+{% endstylesheet %}
+
+
 {% schema %}
   {
     "name": "2 box section",
@@ -42,8 +63,7 @@
   }
 {% endschema %}
 
-{% stylesheet %}
-{% endstylesheet %}
+
 
 {% javascript %}
 {% endjavascript %}
