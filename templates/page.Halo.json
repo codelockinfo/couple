@@ -127,6 +127,59 @@
         "link_url": "",
         "bgcolor": ""
       }
+    },
+    "8a36efd2-09c2-41d0-a000-42ec9c29cc48": {
+      "type": "Diamond-Shapes",
+      "blocks": {
+        "a33649a2-0ecf-4613-86db-60e311995657": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/Halo_WhiteGold_2CT_OnWhite_C.png",
+            "colors1": "",
+            "subheading": "",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": "SHOP THIS STYLE",
+            "bgcolors": ""
+          }
+        },
+        "aa9389ce-dea7-4a5f-8987-44cc98a8660a": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/Channel_WhiteGold_2CT_OnWhite_C.png",
+            "colors1": "",
+            "subheading": "",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": "SHOP THIS STYLE",
+            "bgcolors": ""
+          }
+        },
+        "1bfcf259-a139-4485-9776-6e1a868fd231": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/Channel_WhiteGold_2CT_OnWhite_C.png",
+            "colors1": "",
+            "subheading": "",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": "SHOP THIS STYLE",
+            "bgcolors": ""
+          }
+        }
+      },
+      "block_order": [
+        "a33649a2-0ecf-4613-86db-60e311995657",
+        "aa9389ce-dea7-4a5f-8987-44cc98a8660a",
+        "1bfcf259-a139-4485-9776-6e1a868fd231"
+      ],
+      "settings": {
+        "buttonlink": "",
+        "buttontexts": ""
+      }
     }
   },
   "order": [
@@ -139,6 +192,7 @@
     "53846499-2d49-4517-aa65-2ddeda0a095d",
     "443bf9e0-dc2b-4fe4-9b10-a02416d5869e",
     "391bdba6-d12a-447c-8077-e5dcfa30c764",
-    "6386c744-a6bf-4ed7-aa7d-8c3821937c57"
+    "6386c744-a6bf-4ed7-aa7d-8c3821937c57",
+    "8a36efd2-09c2-41d0-a000-42ec9c29cc48"
   ]
 }
