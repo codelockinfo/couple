@@ -44,7 +44,7 @@
     "aecd51ab-9043-4574-a9af-82b0ada462d6": {
       "type": "text-with-image",
       "settings": {
-        "bgcolor": "",
+        "bgcolor": "#f3f3f6",
         "subheading": "",
         "title": "White Gold",
         "image": "shopify:\/\/shop_images\/inbloom-d-plp-Channel-5050-01-2x.png",
@@ -57,7 +57,7 @@
     "042d709a-9412-4a98-8a5e-65d12324ed28": {
       "type": "text-with-image",
       "settings": {
-        "bgcolor": "",
+        "bgcolor": "#f3f3f6",
         "subheading": "",
         "title": "Rose Gold",
         "image": "shopify:\/\/shop_images\/inbloom-d-plp-Channel-5050-02-2x.png",
@@ -70,7 +70,7 @@
     "7d65c61e-191f-466d-a1a2-adaab2318f06": {
       "type": "text-with-image",
       "settings": {
-        "bgcolor": "",
+        "bgcolor": "#f3f3f6",
         "subheading": "",
         "title": "Yellow Gold",
         "image": "shopify:\/\/shop_images\/inbloom-d-plp-Channel-5050-03-2x.png",
