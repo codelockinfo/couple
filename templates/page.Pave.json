@@ -113,6 +113,20 @@
         "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-pave-fullbleed1-2x.jpg",
         "bgcolor": ""
       }
+    },
+    "0c9e9317-d07f-4dfe-a470-26d1d66fa652": {
+      "type": "only-text",
+      "settings": {
+        "subheading": "STYLE",
+        "title": "Our Curated Designs",
+        "Button": "",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "",
+        "link_text": "",
+        "link_url": "",
+        "bgcolor": "#f8f8f6"
+      }
     }
   },
   "order": [
@@ -124,6 +138,7 @@
     "20f8e557-9410-4294-b4f6-a7b1db88a48c",
     "14fb5917-ad87-4ef0-984b-fa4b5e0a3385",
     "e8cb6cc7-b097-487f-b62f-83272b66d743",
-    "e463befe-2be8-4516-895e-849e7cb5d656"
+    "e463befe-2be8-4516-895e-849e7cb5d656",
+    "0c9e9317-d07f-4dfe-a470-26d1d66fa652"
   ]
 }
