@@ -44,7 +44,7 @@
     "dbd257d6-dea0-4a45-9613-70a77377ec72": {
       "type": "text-with-image",
       "settings": {
-        "bgcolor": "",
+        "bgcolor": "#fcf1ee",
         "subheading": "",
         "title": "White Gold",
         "image": "shopify:\/\/shop_images\/inbloom-d-plp-pave-5050-01-2x.png",
@@ -57,7 +57,7 @@
     "454d09a6-5ac0-4477-a7a7-02d5728df629": {
       "type": "text-with-image",
       "settings": {
-        "bgcolor": "",
+        "bgcolor": "#fcf1ee",
         "subheading": "",
         "title": "Rose Gold",
         "image": "shopify:\/\/shop_images\/inbloom-d-plp-pave-5050-02-2x.png",
@@ -70,7 +70,7 @@
     "53846499-2d49-4517-aa65-2ddeda0a095d": {
       "type": "text-with-image",
       "settings": {
-        "bgcolor": "",
+        "bgcolor": "#fcf1ee",
         "subheading": "",
         "title": "Platinum",
         "image": "shopify:\/\/shop_images\/inbloom-d-plp-pave-5050-03-2x.png",
