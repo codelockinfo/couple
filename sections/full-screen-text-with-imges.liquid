@@ -26,7 +26,7 @@
 
             
             {%- if section.settings.link_text != blank -%}
-              <a href="{{ section.settings.link_url }}" class="Link Link--underline">{{ section.settings.link_text | escape }}</a>
+              <a href="{{ section.settings.link_url }}" class="signaturebtn">{{ section.settings.link_text | escape }}</a>
             {%- endif -%}
           </header>
         {%- endif -%}
@@ -70,7 +70,16 @@
   .signatureimg h3 {
     margin: 5% 0;
 }
-
+.signaturebtn{
+      background-color: #122947;
+    color: #fff;
+  position: relative;
+    border: none;
+    transform: none;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px #00000014;
+    padding: 10px 15px;
+}
 
 
 
