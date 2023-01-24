@@ -13,11 +13,11 @@
         "section_size": "large",
         "image": "shopify:\/\/shop_images\/couple-d-wedding-mens-atf-2x.jpg",
         "text_color": "#122947",
-        "overlay_color": "#000000",
+        "overlay_color": "rgba(0,0,0,0)",
         "overlay_opacity": 0,
-        "subheading": "131123",
-        "title": "Tell your story",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+        "subheading": "MEN'S",
+        "title": "Bands",
+        "content": "<p>Classic. Sophisticated. The symbol of a shared life.<\/p>"
       }
     }
   },
