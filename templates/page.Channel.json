@@ -113,6 +113,59 @@
         "mainimg": "shopify:\/\/shop_images\/inbloom-d-plp-channel-fullbleed1-2x.jpg",
         "bgcolor": ""
       }
+    },
+    "47f3d2a9-8a71-4395-94d8-08c979891581": {
+      "type": "Diamond-Shapes",
+      "blocks": {
+        "cc432e5d-8884-4fba-8b94-5ff273f22008": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/SolitaireClassic_WhiteGold_2CT_OnWhite_C_1.png",
+            "colors1": "",
+            "subheading": "",
+            "heading": "The Classic",
+            "content1": "<p>Elegant. Timeless. A time-honored silhouette.<\/p>",
+            "url-link": "",
+            "url-text": "SHOP THIS STYLE",
+            "bgcolors": ""
+          }
+        },
+        "bbc910a6-8a86-4ddc-ae8a-8458601182af": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/PaveThin_WhiteGold_2CT_OnWhite_B.png",
+            "colors1": "",
+            "subheading": "",
+            "heading": "The Pavé",
+            "content1": "<p>Elegant. Timeless. A time-honored silhouette.<\/p>",
+            "url-link": "",
+            "url-text": "SHOP THIS STYLE",
+            "bgcolors": ""
+          }
+        },
+        "00fb310e-4d9f-439f-b109-861e807b73a0": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/Channel_WhiteGold_2CT_OnWhite_C.png",
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "The Halo",
+            "content1": "<p>Elegant. Timeless. A time-honored silhouette.<\/p>",
+            "url-link": "",
+            "url-text": "SHOP THIS STYLE",
+            "bgcolors": ""
+          }
+        }
+      },
+      "block_order": [
+        "cc432e5d-8884-4fba-8b94-5ff273f22008",
+        "bbc910a6-8a86-4ddc-ae8a-8458601182af",
+        "00fb310e-4d9f-439f-b109-861e807b73a0"
+      ],
+      "settings": {
+        "buttonlink": "",
+        "buttontexts": ""
+      }
     }
   },
   "order": [
@@ -124,6 +177,7 @@
     "042d709a-9412-4a98-8a5e-65d12324ed28",
     "7d65c61e-191f-466d-a1a2-adaab2318f06",
     "3784d96b-a425-45a3-898b-d3e72e816e10",
-    "58b4b6bd-e23e-4a36-bb72-720704f23096"
+    "58b4b6bd-e23e-4a36-bb72-720704f23096",
+    "47f3d2a9-8a71-4395-94d8-08c979891581"
   ]
 }
