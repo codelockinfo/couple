@@ -8563,6 +8563,7 @@ body:not(.features--show-image-zooming) .Image--lazyLoaded.Image--zoomOut {
   flex-grow: 0;
   padding: 0 15px;
   text-shadow: 0 1px rgba(0, 0, 0, 0.5);
+  margin-left: 10%;
 }
 
 .ImageHero__TextContent {
