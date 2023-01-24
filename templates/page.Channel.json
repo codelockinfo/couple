@@ -140,7 +140,7 @@
             "content1": "<p>Elegant. Timeless. A time-honored silhouette.<\/p>",
             "url-link": "",
             "url-text": "SHOP THIS STYLE",
-            "bgcolors": ""
+            "bgcolors": "#1c1b1b"
           }
         },
         "00fb310e-4d9f-439f-b109-861e807b73a0": {
@@ -148,7 +148,7 @@
           "settings": {
             "imageurl": "shopify:\/\/shop_images\/Channel_WhiteGold_2CT_OnWhite_C.png",
             "colors1": "",
-            "subheading": "Sub-heading",
+            "subheading": "",
             "heading": "The Halo",
             "content1": "<p>Elegant. Timeless. A time-honored silhouette.<\/p>",
             "url-link": "",
