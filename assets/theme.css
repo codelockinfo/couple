@@ -11409,3 +11409,6 @@ h3.SectionHeader__SubHeading.Heading.u-h6 {
 h2.SectionHeader__Heading.Heading.u-h1 {
     font-size: 39px !important;
 }
+.SectionHeader__Description p {
+    font-size: 18px !important;
+}
