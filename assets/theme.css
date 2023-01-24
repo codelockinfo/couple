@@ -8562,7 +8562,7 @@ body:not(.features--show-image-zooming) .Image--lazyLoaded.Image--zoomOut {
   flex-basis: 425px;
   flex-grow: 0;
   padding: 0 15px;
-  text-shadow: 0 1px rgba(0, 0, 0, 0.5);
+/*   text-shadow: 0 1px rgba(0, 0, 0, 0.5); */
   margin-left: 10%;
 }
 
@@ -11412,3 +11412,5 @@ h2.SectionHeader__Heading.Heading.u-h1 {
 .SectionHeader__Description p {
     font-size: 18px !important;
 }
+
+
