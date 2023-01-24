@@ -7,22 +7,22 @@
         "show_large": false
       }
     },
-    "0572e37e-70ec-4030-ac79-1b642ccabbee": {
-      "type": "text-with-image",
+    "02e7d6e7-ec18-4fa1-973e-27c0ce746416": {
+      "type": "image-with-text-overlay",
       "settings": {
-        "bgcolor": "",
-        "subheading": "Sub-heading",
-        "title": "Title",
-        "image": "shopify:\/\/shop_images\/couple-d-wedding-mens-atf-2x-removebg-preview_1.png",
-        "image_position": "right",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
-        "link_text": "",
-        "link_url": ""
+        "section_size": "large",
+        "image": "shopify:\/\/shop_images\/couple-d-wedding-mens-atf-2x.jpg",
+        "text_color": "#122947",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "subheading": "",
+        "title": "Tell your story",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
       }
     }
   },
   "order": [
     "main",
-    "0572e37e-70ec-4030-ac79-1b642ccabbee"
+    "02e7d6e7-ec18-4fa1-973e-27c0ce746416"
   ]
 }
