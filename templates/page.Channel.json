@@ -166,6 +166,19 @@
         "buttonlink": "",
         "buttontexts": ""
       }
+    },
+    "ad80721d-596f-4da3-9398-cbe88ea53db9": {
+      "type": "new-video-with-text",
+      "settings": {
+        "subheading": "Sub-heading",
+        "title": "Title",
+        "video_url2": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-4.mp4",
+        "video_url3": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-3.mp4",
+        "image_position": "right",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
     }
   },
   "order": [
@@ -178,6 +191,7 @@
     "7d65c61e-191f-466d-a1a2-adaab2318f06",
     "3784d96b-a425-45a3-898b-d3e72e816e10",
     "58b4b6bd-e23e-4a36-bb72-720704f23096",
-    "47f3d2a9-8a71-4395-94d8-08c979891581"
+    "47f3d2a9-8a71-4395-94d8-08c979891581",
+    "ad80721d-596f-4da3-9398-cbe88ea53db9"
   ]
 }
