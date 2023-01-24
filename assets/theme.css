@@ -11406,3 +11406,6 @@ img.Image--slideRight.lazyautosizes.Image--lazyLoaded {
 h3.SectionHeader__SubHeading.Heading.u-h6 {
     color: #ef525b !important;
 }
+h2.SectionHeader__Heading.Heading.u-h1 {
+    font-size: 39px !important;
+}
