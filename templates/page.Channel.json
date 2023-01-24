@@ -170,13 +170,13 @@
     "ad80721d-596f-4da3-9398-cbe88ea53db9": {
       "type": "new-video-with-text",
       "settings": {
-        "subheading": "Sub-heading",
-        "title": "Title",
+        "subheading": "WE’RE HERE TO HELP",
+        "title": "We get it, you’ve never done this before.",
         "video_url2": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-4.mp4",
         "video_url3": "https:\/\/dr6b2l874r4si.cloudfront.net\/concierge-sample-3.mp4",
         "image_position": "right",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
-        "link_text": "",
+        "content": "<p>That’s why we have complimentary concierges who are here to guide you through everything - from understanding what carat, color, cut, and clarity mean, to designing the perfect ring. And of course, we have resources if you’d prefer to learn at your own pace.<\/p>",
+        "link_text": "BOOK AN APPOINTMENT",
         "link_url": ""
       }
     }
