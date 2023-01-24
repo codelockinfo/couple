@@ -8508,13 +8508,13 @@ body:not(.features--show-image-zooming) .Image--lazyLoaded.Image--zoomOut {
 .ImageHero {
   position: relative;
   display: flex;
-  flex-direction: row;
+/*   flex-direction: row; */
   align-items: center;
-  justify-content: center;
+/*   justify-content: center;
   text-align: center;
   background-size: cover;
   background-position: center;
-  min-height: 380px;
+  min-height: 380px; */
   width: 100%;
   overflow: hidden;
 }
