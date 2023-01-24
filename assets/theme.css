@@ -11403,3 +11403,6 @@ img.Image--slideLeft.lazyautosizes.Image--lazyLoaded {
 img.Image--slideRight.lazyautosizes.Image--lazyLoaded {
     margin-top: 15%;
 }
+h3.SectionHeader__SubHeading.Heading.u-h6 {
+    color: #ef525b !important;
+}
