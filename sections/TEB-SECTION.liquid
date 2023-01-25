@@ -19,19 +19,19 @@
   
         <div class="grid">
           <a class="product yellow-gold with-link-primary" href="/collections/bands/products/womens-round-1-8mm-yellow-gold">
-            <img src="https://dr6b2l874r4si.cloudfront.net/WomenRounded_YellowGold_1.5mm_OnWhite_A.png">
+            <img src="{{ block.settings.proimg1 }}">
             <span class="link-primary">Yellow Gold</span>
           </a>
           <a class="product white-gold with-link-primary" href="/collections/bands/products/womens-round-1-8mm-white-gold">
-            <img src="https://dr6b2l874r4si.cloudfront.net/WomenRounded_WhiteGold_1.5mm_OnWhite_A.png">
+             <img src="{{ block.settings.proimg2 }}">
             <span class="link-primary">White Gold</span>
           </a>
           <a class="product rose-gold with-link-primary" href="/collections/bands/products/womens-round-1-8mm-rose-gold">
-            <img src="https://dr6b2l874r4si.cloudfront.net/WomenRounded_RoseGold_1.5mm_OnWhite_A.png">
+            <img src="{{ block.settings.proimg3 }}">
             <span class="link-primary">Rose Gold</span>
           </a>
           <a class="product white-gold with-link-primary" href="/collections/bands/products/womens-round-1-8mm-platinum">
-            <img src="https://dr6b2l874r4si.cloudfront.net/WomenRounded_WhiteGold_1.5mm_OnWhite_A.png">
+             <img src="{{ block.settings.proimg4 }}">
             <span class="link-primary">Platinum</span>
           </a>
         </div>
@@ -63,6 +63,30 @@
     "id": "Starting",
     "label": "Sub-heading",
     "default": "Sub-heading"
+  },
+      {
+    "type": "image_picker",
+    "id": "proimg1",
+    "label": "Image",
+    "info": "1200 x 1200px .png recommended"
+  },
+       {
+    "type": "image_picker",
+    "id": "proimg2",
+    "label": "Image",
+    "info": "1200 x 1200px .png recommended"
+  },
+       {
+    "type": "image_picker",
+    "id": "proimg3",
+    "label": "Image",
+    "info": "1200 x 1200px .png recommended"
+  },
+       {
+    "type": "image_picker",
+    "id": "proimg4",
+    "label": "Image",
+    "info": "1200 x 1200px .png recommended"
   }
       
     ]
