@@ -18,8 +18,8 @@
     <div class="product-groups">
       {% for block in section.blocks %}
       <div id="collection-round" class="product-group round waypoint-active" data-waypoint="scrollLink">
-        <h4>Round</h4>
-        <h5>Starting at $419</h5>
+        <h4>{{ block.settings.Roundtetx }}</h4>
+        <h5>{{ block.settings.Starting }}</h5>
   
         <div class="grid">
           <a class="product yellow-gold with-link-primary" href="/collections/bands/products/womens-round-1-8mm-yellow-gold">
@@ -53,7 +53,17 @@
     "type": "teb",
     "name": "teb",
     "settings": [
-      
+       {
+    "type": "text",
+    "id": "Roundtetx",
+    "label": "heading",
+    "default": "heading"
+  }, {
+    "type": "text",
+    "id": "Starting",
+    "label": "Sub-heading",
+    "default": "Sub-heading"
+  }
     ]
   }
 ],
