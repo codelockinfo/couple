@@ -78,6 +78,7 @@
     },
     "549c2686-a404-4b4e-b6f5-7f8605233ecc": {
       "type": "full-screen-text-with-imges",
+      "disabled": true,
       "settings": {
         "bgcolor": "",
         "subheading": "Sub-heading",
@@ -105,6 +106,19 @@
         "link_url": "",
         "bgcolor": ""
       }
+    },
+    "da204797-114f-4cf5-aa1a-8a4f55f3c124": {
+      "type": "text-with-image",
+      "settings": {
+        "bgcolor": "",
+        "subheading": "Sub-heading",
+        "title": "Title",
+        "image": "shopify:\/\/shop_images\/couple-earrings-metals-2x.png",
+        "image_position": "right",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
     }
   },
   "order": [
@@ -114,6 +128,7 @@
     "eb2b2945-6159-4193-8853-f25b0f11955b",
     "e593dd15-dc26-4208-8a88-43d630c64aa0",
     "549c2686-a404-4b4e-b6f5-7f8605233ecc",
-    "6da634ef-af68-4373-bc88-49095c578cd3"
+    "6da634ef-af68-4373-bc88-49095c578cd3",
+    "da204797-114f-4cf5-aa1a-8a4f55f3c124"
   ]
 }
