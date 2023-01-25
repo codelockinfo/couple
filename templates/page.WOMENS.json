@@ -154,12 +154,18 @@
       ],
       "settings": {
       }
+    },
+    "8e7eab71-cb98-4445-af2e-b0ef12a7116b": {
+      "type": "Newsletter-new",
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
     "013d9816-5758-43be-9649-7b7400b19710",
     "a3984763-7d46-4ea1-b638-d0dbc610dc29",
-    "36b36786-729e-4f0d-963c-5fc688cabf15"
+    "36b36786-729e-4f0d-963c-5fc688cabf15",
+    "8e7eab71-cb98-4445-af2e-b0ef12a7116b"
   ]
 }
