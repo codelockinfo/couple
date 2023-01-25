@@ -80,7 +80,8 @@
       ],
       "settings": {
         "buttonlink": "",
-        "buttontexts": ""
+        "buttontexts": "",
+        "bgcolor": "#f3f4f2"
       }
     }
   },
