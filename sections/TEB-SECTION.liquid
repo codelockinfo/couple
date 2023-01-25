@@ -3,6 +3,7 @@
   <div class="collection-header waypoint-active" data-waypoint="sticky">
     <div class="header-placeholder"></div>
     <div class="header-sticky">
+      
       <a class="link-nav" href="#collection-round">Round</a>
       <a class="link-nav" href="#collection-knife-edge">Knife Edge</a>
       <a class="link-nav" href="#collection-half-pave">Half Pavé</a>
@@ -11,13 +12,15 @@
       <a class="link-nav" href="#collection-eternity">Eternity</a>
       <a class="link-nav" href="#collection-tapered">Tapered</a>
       <a class="link-nav" href="#collection-tapered-pave">Tapered Pavé</a>
+      
     </div>
+    
   </div>
 
   <div class="collection">
     <div class="product-groups">
       {% for block in section.blocks %}
-      <div id="collection-round" class="product-group round waypoint-active" data-waypoint="scrollLink">
+      <div id="collection-round{{ forloop.index }}" class="product-group round waypoint-active" data-waypoint="scrollLink">
         <h4>{{ block.settings.Roundtetx }}</h4>
         <h5>{{ block.settings.Starting }}</h5>
   
