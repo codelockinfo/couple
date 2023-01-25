@@ -5,7 +5,7 @@
     <div class="ratinconain multipleitems">
       {% for block in section.blocks %}
         <div class="reviestep">
-          {{ block.settings.sliderimg |img_url: 'master' }}
+        <img src="{{ block.settings.sliderimg |img_url: 'master' }}">
         </div>
       {% endfor %}
     </div>
