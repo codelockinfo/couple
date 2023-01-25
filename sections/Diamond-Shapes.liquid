@@ -1,4 +1,4 @@
-<div class="shapes" style="background-color: #f2f7f8;">
+<div class="shapes" style="background-color: {{ section.settings.bgcolor }};">
   <div class="Containers block4">
     <div class="maindivv">
       {% for block in section.blocks %}
@@ -40,7 +40,12 @@
     "type": "text",
     "id": "buttontexts",
     "label": "text"
-  }
+  },
+    {
+        "type": "color",
+         "id": "bgcolor",
+        "label": "background color"
+     }
   ],
     "blocks": [
   {
@@ -85,12 +90,7 @@
     "type": "text",
     "id": "url-text",
     "label": "Link text"
-  },
-        {
-                  "type": "color",
-                  "id": "bgcolors",
-                  "label": "background color"
-                }
+  }
     ]
   }
 ],
