@@ -10,51 +10,6 @@
          <div class="mainimgs1">
             <img src="{{block.settings.imgdiv | img_url:'large' }}">
         </div>
-        <div class="reviestep1">
-            {% if block.settings.rating == 5 %}
-             <span class="fa fa-star checked"></span>
-             <span class="fa fa-star checked"></span>
-             <span class="fa fa-star checked"></span>
-             <span class="fa fa-star checked"></span>
-             <span class="fa fa-star checked"></span>
-              {% endif %}
-              {% if block.settings.rating == 4 %}
-             <span class="fa fa-star checked"></span>
-             <span class="fa fa-star checked"></span>
-             <span class="fa fa-star checked"></span>
-             <span class="fa fa-star checked"></span>
-             <span class="fa fa-star "></span>
-              {% endif %}
-              {% if block.settings.rating == 3 %}
-             <span class="fa fa-star checked"></span>
-             <span class="fa fa-star checked"></span>
-             <span class="fa fa-star checked"></span>
-             <span class="fa fa-star "></span>
-             <span class="fa fa-star "></span>
-              {% endif %}
-              {% if block.settings.rating == 2 %}
-             <span class="fa fa-star checked"></span>
-             <span class="fa fa-star checked"></span>
-             <span class="fa fa-star "></span>
-             <span class="fa fa-star "></span>
-             <span class="fa fa-star "></span>
-              {% endif %}
-              {% if block.settings.rating == 1 %}
-             <span class="fa fa-star checked"></span>
-             <span class="fa fa-star "></span>
-             <span class="fa fa-star "></span>
-             <span class="fa fa-star "></span>
-             <span class="fa fa-star "></span>
-              {% endif %}
-              
-           
-              <div class=" customerdetail">
-                <h2 class="ratingcls">{{ block.settings.textimg }}</h2>
-                    
-                  <h4>{{ block.settings.subtext }}</h4>
-                <p>{{ block.settings.ptext }}</p>
-              </div>
-           </div>
        </div>
       {% endfor %}
     </div>
