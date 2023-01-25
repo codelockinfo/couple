@@ -61,12 +61,27 @@
         "link_text2": "",
         "link_url2": ""
       }
+    },
+    "e593dd15-dc26-4208-8a88-43d630c64aa0": {
+      "type": "only-text",
+      "settings": {
+        "subheading": "QUALITY",
+        "title": "",
+        "Button": "Title",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "<p>Set in 18k White Gold, or Platinum with stunning F\/G colour, VS1 clarity Round Brilliant lab grown diamonds. See what size is right for you below.<\/p>",
+        "link_text": "",
+        "link_url": "",
+        "bgcolor": ""
+      }
     }
   },
   "order": [
     "main",
     "recently-viewed-products",
     "a1683458-ef50-4ff3-b7cb-c112d5be983c",
-    "eb2b2945-6159-4193-8853-f25b0f11955b"
+    "eb2b2945-6159-4193-8853-f25b0f11955b",
+    "e593dd15-dc26-4208-8a88-43d630c64aa0"
   ]
 }
