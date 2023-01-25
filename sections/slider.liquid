@@ -2,7 +2,7 @@
 
 <div class="customercontainer">
   <div class="customreviewside">
-    <div class="ratinconain multipleitems">
+    <div class="ratinconain multipleitems1">
       {% for block in section.blocks %}
         <div class="reviestep1">
         <img src="{{ block.settings.sliderimg |img_url: '600x' }}">
@@ -339,7 +339,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
 <script>
-    $('.multipleitems').slick({
+    $('.multipleitems1').slick({
       arrows: true,
        dots: true,
     infinite: true,
