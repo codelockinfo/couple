@@ -4,7 +4,7 @@
     <div class="header-placeholder"></div>
     <div class="header-sticky">
        {% for block in section.blocks %}
-      <a class="link-nav" href="#collection-round{{ forloop.index }}">Round</a>
+      <a class="link-nav" href="#collection-round{{ forloop.index }}">{{ block.settings.headingteb }}</a>
        {% endfor %}
     </div>
     
@@ -62,7 +62,14 @@
     "id": "Starting",
     "label": "Sub-heading",
     "default": "Sub-heading"
+  },
+      {
+    "type": "text",
+    "id": "headingteb",
+    "label": "Sub-heading",
+    "default": "Sub-heading"
   }
+      
     ]
   }
 ],
