@@ -1,12 +1,142 @@
-{% schema %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<div class="customerslider gentlebaby customercontainer">
+  <div class="customreviewside">
+    <div class="ratinconain1 multipleitems1">
+      {% for block in section.blocks %}
+       
+      <div class="customerdetailmain1">
+         <div class="mainimgs1">
+            <img src="{{block.settings.imgdiv | img_url:'large' }}">
+        </div>
+        <div class="reviestep1">
+            {% if block.settings.rating == 5 %}
+             <span class="fa fa-star checked"></span>
+             <span class="fa fa-star checked"></span>
+             <span class="fa fa-star checked"></span>
+             <span class="fa fa-star checked"></span>
+             <span class="fa fa-star checked"></span>
+              {% endif %}
+              {% if block.settings.rating == 4 %}
+             <span class="fa fa-star checked"></span>
+             <span class="fa fa-star checked"></span>
+             <span class="fa fa-star checked"></span>
+             <span class="fa fa-star checked"></span>
+             <span class="fa fa-star "></span>
+              {% endif %}
+              {% if block.settings.rating == 3 %}
+             <span class="fa fa-star checked"></span>
+             <span class="fa fa-star checked"></span>
+             <span class="fa fa-star checked"></span>
+             <span class="fa fa-star "></span>
+             <span class="fa fa-star "></span>
+              {% endif %}
+              {% if block.settings.rating == 2 %}
+             <span class="fa fa-star checked"></span>
+             <span class="fa fa-star checked"></span>
+             <span class="fa fa-star "></span>
+             <span class="fa fa-star "></span>
+             <span class="fa fa-star "></span>
+              {% endif %}
+              {% if block.settings.rating == 1 %}
+             <span class="fa fa-star checked"></span>
+             <span class="fa fa-star "></span>
+             <span class="fa fa-star "></span>
+             <span class="fa fa-star "></span>
+             <span class="fa fa-star "></span>
+              {% endif %}
+              
+           
+              <div class=" customerdetail">
+                <h2 class="ratingcls">{{ block.settings.textimg }}</h2>
+                    
+                  <h4>{{ block.settings.subtext }}</h4>
+                <p>{{ block.settings.ptext }}</p>
+              </div>
+           </div>
+       </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+    {% schema %}
   {
-    "name": "Section name",
-    "settings": []
+  "name": "customreview",
+
+  "settings": [
+
+  ],
+  "blocks":[
+  {
+  "type" : "block",
+  "name" : "block",
+  "settings" : [
+    {
+            "type": "range",
+            "id": "rating",
+            "min": 0,
+            "max": 5,
+            "step": 1,
+            "label": "Rating",
+            "info": "Set less than '1' to disable Rating.",
+            "default": 5
+          },
+    {
+          "id" : "rating_no",
+          "type" : "text",
+          "label" : "rating no"
+        },
+    {
+          "id" : "imgdiv",
+          "type" : "image_picker",
+        "label": " Image"
+        },
+    {
+          "id" : "textimg",
+          "type" : "text",
+          "label" : "heading"
+        },
+    {
+          "id" : "subtext",
+          "type" : "text",
+          "label" : "sub text"
+    }
+        ,
+      {
+          "id" : "ptext",
+          "type" : "text",
+          "label" : "text"
+        }
+    
+  ]
   }
-{% endschema %}
 
-{% stylesheet %}
-{% endstylesheet %}
+  ],
+  "presets" : [
+  {
+    "name" : "customer slider",
+    "category" : "customreview"
 
-{% javascript %}
-{% endjavascript %}
+    }
+  ]
+  }
+  {% endschema %}
+
+ <link rel="canonical" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script> 
+<script>
+  $('.multipleitems1').slick({
+  infinite: true,
+  slidesToShow: 1,
+  slidesToScroll: 1,
+     // autoplay: true,
+    adaptiveHeight: true,
+  dots: true
+    
+    
+});
+</script>
+ 
