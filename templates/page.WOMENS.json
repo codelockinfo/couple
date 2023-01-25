@@ -12,9 +12,9 @@
       "settings": {
         "section_size": "large",
         "image": "shopify:\/\/shop_images\/couple-d-wedding-womens-atf-2x.jpg",
-        "text_color": "#ffffff",
+        "text_color": "#122947",
         "overlay_color": "#000000",
-        "overlay_opacity": 30,
+        "overlay_opacity": 0,
         "subheading": "WOMEN'S",
         "title": "Bands",
         "content": "<p>Elegant. Timeless. The symbol of a shared life.<\/p>"
