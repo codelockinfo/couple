@@ -145,11 +145,11 @@
         "71a2d194-9a5e-4170-a1fb-2bb7c5ee2a58"
       ],
       "settings": {
-        "headingmain": "",
-        "subheading": "",
+        "headingmain": "Flat",
+        "subheading": "STARTING AT $769",
         "buttonlink": "",
         "buttontexts": "",
-        "bgcolor": ""
+        "bgcolor": "#f3f4f2"
       }
     }
   },
