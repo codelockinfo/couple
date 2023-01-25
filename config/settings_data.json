@@ -136,14 +136,6 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "text",
-            "settings": {
-              "title": "About the shop",
-              "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
-              "show_social_media": true
-            }
-          },
           "footer-1": {
             "type": "links",
             "settings": {
@@ -152,6 +144,7 @@
           },
           "footer-2": {
             "type": "newsletter",
+            "disabled": true,
             "settings": {
               "title": "Newsletter",
               "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
@@ -159,7 +152,6 @@
           }
         },
         "block_order": [
-          "footer-0",
           "footer-1",
           "footer-2"
         ],
