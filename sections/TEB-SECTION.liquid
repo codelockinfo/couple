@@ -19,19 +19,19 @@
   
         <div class="grid">
           <a class="product yellow-gold with-link-primary" href="{{ block.settings.alink1 }}">
-            <img src="{{ block.settings.proimg1 }}">
+            <img src="{{ block.settings.proimg1|img_url: 'master' }}">
             <span class="link-primary">{{ block.settings.Gold1 }}</span>
           </a>
           <a class="product yellow-gold with-link-primary" href="{{ block.settings.alink2 }}">
-            <img src="{{ block.settings.proimg2 }}">
+            <img src="{{ block.settings.proimg2 |img_url: 'master'}}">
             <span class="link-primary">{{ block.settings.Gold2 }}</span>
           </a>
          <a class="product yellow-gold with-link-primary" href="{{ block.settings.alink3 }}">
-            <img src="{{ block.settings.proimg3 }}">
+            <img src="{{ block.settings.proimg3|img_url: 'master' }}">
             <span class="link-primary">{{ block.settings.Gold3 }}</span>
           </a>
           <a class="product yellow-gold with-link-primary" href="{{ block.settings.alink4 }}">
-            <img src="{{ block.settings.proimg4 }}">
+            <img src="{{ block.settings.proimg4 |img_url: 'master'}}">
             <span class="link-primary">{{ block.settings.Gold4 }}</span>
           </a>
         </div>
