@@ -26,57 +26,61 @@
         "d65e9a43-a477-4e9b-a9ce-b265cd632067": {
           "type": "collection",
           "settings": {
+            "imageurl": "shopify:\/\/shop_images\/MenRounded_YellowGold_4.5mm_OnWhite_A.png",
             "colors1": "",
-            "subheading": "Sub-heading",
-            "heading": "heading",
-            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "subheading": "",
+            "heading": "",
+            "content1": "",
             "url-link": "",
-            "url-text": "",
-            "bgcolors": ""
-          }
-        },
-        "9c62ecd6-a46e-4d24-8b34-2dabd71d090e": {
-          "type": "collection",
-          "settings": {
-            "colors1": "",
-            "subheading": "Sub-heading",
-            "heading": "heading",
-            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
-            "url-link": "",
-            "url-text": "",
-            "bgcolors": ""
-          }
-        },
-        "8243d8f5-8603-4cc9-bcdc-c30940ee8467": {
-          "type": "collection",
-          "settings": {
-            "colors1": "",
-            "subheading": "Sub-heading",
-            "heading": "heading",
-            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
-            "url-link": "",
-            "url-text": "",
+            "url-text": "YELLOW GOLD",
             "bgcolors": ""
           }
         },
         "ea7031ff-3ea5-47f3-ba61-2da1893668b0": {
           "type": "collection",
           "settings": {
+            "imageurl": "shopify:\/\/shop_images\/MenRounded_WhiteGold_4.5mm_OnWhite_A_1.png",
             "colors1": "",
-            "subheading": "Sub-heading",
-            "heading": "heading",
-            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "subheading": "",
+            "heading": "",
+            "content1": "",
             "url-link": "",
-            "url-text": "",
+            "url-text": "WHITE GOLD",
+            "bgcolors": ""
+          }
+        },
+        "9c62ecd6-a46e-4d24-8b34-2dabd71d090e": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/MenRounded_RoseGold_4.5mm_OnWhite_A.png",
+            "colors1": "",
+            "subheading": "",
+            "heading": "",
+            "content1": "",
+            "url-link": "",
+            "url-text": "ROSE GOLD",
+            "bgcolors": ""
+          }
+        },
+        "8243d8f5-8603-4cc9-bcdc-c30940ee8467": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/MenRounded_WhiteGold_4.5mm_OnWhite_A.png",
+            "colors1": "",
+            "subheading": "",
+            "heading": "",
+            "content1": "",
+            "url-link": "",
+            "url-text": "PLATINUM",
             "bgcolors": ""
           }
         }
       },
       "block_order": [
         "d65e9a43-a477-4e9b-a9ce-b265cd632067",
+        "ea7031ff-3ea5-47f3-ba61-2da1893668b0",
         "9c62ecd6-a46e-4d24-8b34-2dabd71d090e",
-        "8243d8f5-8603-4cc9-bcdc-c30940ee8467",
-        "ea7031ff-3ea5-47f3-ba61-2da1893668b0"
+        "8243d8f5-8603-4cc9-bcdc-c30940ee8467"
       ],
       "settings": {
         "buttonlink": "",
