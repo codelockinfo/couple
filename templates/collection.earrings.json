@@ -79,7 +79,7 @@
     "b84fc40b-4c4a-4dc5-93af-1cfa622824ae": {
       "type": "full-screen-text-with-imges",
       "settings": {
-        "bgcolor": "",
+        "bgcolor": "#f8f8f6",
         "subheading": "METALS",
         "title": "Metals that match.",
         "image": "shopify:\/\/shop_images\/couple-earrings-metals-2x.png",
