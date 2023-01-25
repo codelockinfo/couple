@@ -27,14 +27,16 @@
           "type": "teb",
           "settings": {
             "Roundtetx": "Round",
-            "Starting": "STARTING AT $419"
+            "Starting": "STARTING AT $419",
+            "headingteb": "Round"
           }
         },
         "d2619805-7166-4076-9363-bdc75ed48ce7": {
           "type": "teb",
           "settings": {
-            "Roundtetx": "heading",
-            "Starting": "Sub-heading"
+            "Roundtetx": "Round 2",
+            "Starting": "Sub-heading",
+            "headingteb": "Round 2"
           }
         }
       },
