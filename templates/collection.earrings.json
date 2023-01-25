@@ -245,6 +245,11 @@
       "settings": {
         "heading": ""
       }
+    },
+    "cd584564-13b3-4a33-935a-313e251559bd": {
+      "type": "Newsletter-new",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -258,6 +263,7 @@
     "acd20583-c3d8-400c-ae46-99b51b108b22",
     "784f87f3-df72-40b3-adb9-9284893253b9",
     "47754c1a-2731-4525-88ae-63ef79162190",
-    "74aaaf8d-ae6d-485e-ba2c-977df90cc5b6"
+    "74aaaf8d-ae6d-485e-ba2c-977df90cc5b6",
+    "cd584564-13b3-4a33-935a-313e251559bd"
   ]
 }
