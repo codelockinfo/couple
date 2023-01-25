@@ -19,10 +19,74 @@
         "title": "Bands",
         "content": "<p>Classic. Sophisticated. The symbol of a shared life.<\/p>"
       }
+    },
+    "57a327da-bf17-4acb-9ddc-3b03df93f1e4": {
+      "type": "Diamond-Shapes",
+      "blocks": {
+        "d65e9a43-a477-4e9b-a9ce-b265cd632067": {
+          "type": "collection",
+          "settings": {
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": "",
+            "bgcolors": ""
+          }
+        },
+        "9c62ecd6-a46e-4d24-8b34-2dabd71d090e": {
+          "type": "collection",
+          "settings": {
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": "",
+            "bgcolors": ""
+          }
+        },
+        "8243d8f5-8603-4cc9-bcdc-c30940ee8467": {
+          "type": "collection",
+          "settings": {
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": "",
+            "bgcolors": ""
+          }
+        },
+        "ea7031ff-3ea5-47f3-ba61-2da1893668b0": {
+          "type": "collection",
+          "settings": {
+            "colors1": "",
+            "subheading": "Sub-heading",
+            "heading": "heading",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": "",
+            "bgcolors": ""
+          }
+        }
+      },
+      "block_order": [
+        "d65e9a43-a477-4e9b-a9ce-b265cd632067",
+        "9c62ecd6-a46e-4d24-8b34-2dabd71d090e",
+        "8243d8f5-8603-4cc9-bcdc-c30940ee8467",
+        "ea7031ff-3ea5-47f3-ba61-2da1893668b0"
+      ],
+      "settings": {
+        "buttonlink": "",
+        "buttontexts": ""
+      }
     }
   },
   "order": [
     "main",
-    "02e7d6e7-ec18-4fa1-973e-27c0ce746416"
+    "02e7d6e7-ec18-4fa1-973e-27c0ce746416",
+    "57a327da-bf17-4acb-9ddc-3b03df93f1e4"
   ]
 }
