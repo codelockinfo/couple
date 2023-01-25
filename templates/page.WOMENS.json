@@ -27,40 +27,39 @@
           "type": "teb",
           "settings": {
             "Roundtetx": "Round",
-            "Starting": "STARTING AT $419",
-            "headingteb": "Round"
+            "Starting": "STARTING AT $419"
           }
         },
         "d2619805-7166-4076-9363-bdc75ed48ce7": {
           "type": "teb",
+          "disabled": true,
           "settings": {
             "Roundtetx": "Round 2",
-            "Starting": "Sub-heading",
-            "headingteb": "Round 2"
+            "Starting": "Sub-heading"
           }
         },
         "18e8f644-7268-459a-b806-83a0563e73df": {
           "type": "teb",
+          "disabled": true,
           "settings": {
             "Roundtetx": "heading",
-            "Starting": "Sub-heading",
-            "headingteb": "Sub-heading"
+            "Starting": "Sub-heading"
           }
         },
         "067d9603-9e34-49dd-bbcc-e7acc321a58d": {
           "type": "teb",
+          "disabled": true,
           "settings": {
             "Roundtetx": "heading",
-            "Starting": "Sub-heading",
-            "headingteb": "Sub-heading"
+            "Starting": "Sub-heading"
           }
         },
         "32d26d1f-8fe5-461c-abb4-0e94b4514258": {
           "type": "teb",
+          "disabled": true,
           "settings": {
             "Roundtetx": "heading",
-            "Starting": "Sub-heading",
-            "headingteb": "Sub-heading"
+            "Starting": "Sub-heading"
           }
         }
       },
