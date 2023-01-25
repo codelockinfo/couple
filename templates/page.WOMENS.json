@@ -2,11 +2,27 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+        "show_large": false
+      }
+    },
+    "013d9816-5758-43be-9649-7b7400b19710": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "section_size": "large",
+        "image": "shopify:\/\/shop_images\/couple-d-wedding-womens-atf-2x.jpg",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30,
+        "subheading": "WOMEN'S",
+        "title": "Bands",
+        "content": "<p>Elegant. Timeless. The symbol of a shared life.<\/p>"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "013d9816-5758-43be-9649-7b7400b19710"
   ]
 }
