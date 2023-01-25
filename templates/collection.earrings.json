@@ -98,23 +98,13 @@
         "a14921ac-6259-4cbb-a13c-7f6a8abad91a": {
           "type": "block",
           "settings": {
-            "rating": 5,
-            "rating_no": "",
-            "imgdiv": "shopify:\/\/shop_images\/ugc_1_23b7f866-4f1e-47a9-9b82-cdc5ae3796c4.jpg",
-            "textimg": "",
-            "subtext": "",
-            "ptext": ""
+            "mainimg": "shopify:\/\/shop_images\/ugc_1_23b7f866-4f1e-47a9-9b82-cdc5ae3796c4.jpg"
           }
         },
         "0fc7c4a2-795a-4844-91e3-d703788eaa69": {
           "type": "block",
           "settings": {
-            "rating": 5,
-            "rating_no": "",
-            "imgdiv": "shopify:\/\/shop_images\/ugc_3_9f939372-46e3-4754-bbb0-5ad819d6daf7.jpg",
-            "textimg": "",
-            "subtext": "",
-            "ptext": ""
+            "mainimg": "shopify:\/\/shop_images\/ugc_3_9f939372-46e3-4754-bbb0-5ad819d6daf7.jpg"
           }
         }
       },
