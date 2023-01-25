@@ -6,11 +6,7 @@
     <div class="ratinconain1 multipleitems1">
       {% for block in section.blocks %}
        
-      <div class="customerdetailmain1">
-         <div class="mainimgs1">
-            <img src="{{block.settings.imgdiv | img_url:'large' }}">
-        </div>
-       </div>
+      
       {% endfor %}
     </div>
   </div>
@@ -28,42 +24,7 @@
   "type" : "block",
   "name" : "block",
   "settings" : [
-    {
-            "type": "range",
-            "id": "rating",
-            "min": 0,
-            "max": 5,
-            "step": 1,
-            "label": "Rating",
-            "info": "Set less than '1' to disable Rating.",
-            "default": 5
-          },
-    {
-          "id" : "rating_no",
-          "type" : "text",
-          "label" : "rating no"
-        },
-    {
-          "id" : "imgdiv",
-          "type" : "image_picker",
-        "label": " Image"
-        },
-    {
-          "id" : "textimg",
-          "type" : "text",
-          "label" : "heading"
-        },
-    {
-          "id" : "subtext",
-          "type" : "text",
-          "label" : "sub text"
-    }
-        ,
-      {
-          "id" : "ptext",
-          "type" : "text",
-          "label" : "text"
-        }
+
     
   ]
   }
