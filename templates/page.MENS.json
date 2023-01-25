@@ -85,11 +85,78 @@
         "buttontexts": "",
         "bgcolor": "#f3f4f2"
       }
+    },
+    "42529b1d-459e-4335-90bf-bd8e89f2855e": {
+      "type": "Diamond-Shapes",
+      "blocks": {
+        "31e075f6-6c84-4309-86a4-3f8d7e9bfcbb": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/MenFlat_RoseGold_4.5mm_OnWhite_A.png",
+            "colors1": "",
+            "subheading": "",
+            "heading": "",
+            "content1": "",
+            "url-link": "",
+            "url-text": "YELLOW GOLD"
+          }
+        },
+        "a8a4612d-a41e-4aa8-8eb4-f37ddbe38cb6": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/MenFlat_WhiteGold_4.5mm_OnWhite_A.png",
+            "colors1": "",
+            "subheading": "",
+            "heading": "",
+            "content1": "",
+            "url-link": "",
+            "url-text": "WHITE GOLD"
+          }
+        },
+        "2bc7af5d-06c5-4b87-a2ea-26dd1bb6454c": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/MenFlat_YellowGold_4.5mm_OnWhite_A_-_Copy.png",
+            "colors1": "",
+            "subheading": "",
+            "heading": "",
+            "content1": "",
+            "url-link": "",
+            "url-text": "ROSE GOLD"
+          }
+        },
+        "71a2d194-9a5e-4170-a1fb-2bb7c5ee2a58": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/MenFlat_WhiteGold_4.5mm_OnWhite_A_1.png",
+            "colors1": "",
+            "subheading": "",
+            "heading": "",
+            "content1": "",
+            "url-link": "",
+            "url-text": "PLATINUM"
+          }
+        }
+      },
+      "block_order": [
+        "31e075f6-6c84-4309-86a4-3f8d7e9bfcbb",
+        "a8a4612d-a41e-4aa8-8eb4-f37ddbe38cb6",
+        "2bc7af5d-06c5-4b87-a2ea-26dd1bb6454c",
+        "71a2d194-9a5e-4170-a1fb-2bb7c5ee2a58"
+      ],
+      "settings": {
+        "headingmain": "",
+        "subheading": "",
+        "buttonlink": "",
+        "buttontexts": "",
+        "bgcolor": ""
+      }
     }
   },
   "order": [
     "main",
     "02e7d6e7-ec18-4fa1-973e-27c0ce746416",
-    "57a327da-bf17-4acb-9ddc-3b03df93f1e4"
+    "57a327da-bf17-4acb-9ddc-3b03df93f1e4",
+    "42529b1d-459e-4335-90bf-bd8e89f2855e"
   ]
 }
