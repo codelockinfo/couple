@@ -4,7 +4,7 @@
   <div class="customreviewside">
     <div class="ratinconain multipleitems">
       {% for block in section.blocks %}
-        <div class="reviestep">
+        <div class="reviestep1">
         <img src="{{ block.settings.sliderimg |img_url: 'master' }}">
         </div>
       {% endfor %}
@@ -344,7 +344,7 @@
       arrows: true,
        dots: true,
     infinite: true,
-    slidesToShow: 1,
+    slidesToShow: 2,
     slidesToScroll: 1,
        autoplay: true,
       prevArrow:"<button type='button' class='drag dogarrow1 slick-prev pull-left'><i class='fa fa-angle-left' aria-hidden='true'></i></button>",
