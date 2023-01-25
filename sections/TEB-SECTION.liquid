@@ -18,21 +18,21 @@
         <h5>{{ block.settings.Starting }}</h5>
   
         <div class="grid">
-          <a class="product yellow-gold with-link-primary" href="/collections/bands/products/womens-round-1-8mm-yellow-gold">
+          <a class="product yellow-gold with-link-primary" href="{{ block.settings.alink1 }}">
             <img src="{{ block.settings.proimg1 }}">
-            <span class="link-primary">Yellow Gold</span>
+            <span class="link-primary">{{ block.settings.Gold1 }}</span>
           </a>
-          <a class="product white-gold with-link-primary" href="/collections/bands/products/womens-round-1-8mm-white-gold">
-             <img src="{{ block.settings.proimg2 }}">
-            <span class="link-primary">White Gold</span>
+          <a class="product yellow-gold with-link-primary" href="{{ block.settings.alink2 }}">
+            <img src="{{ block.settings.proimg2 }}">
+            <span class="link-primary">{{ block.settings.Gold2 }}</span>
           </a>
-          <a class="product rose-gold with-link-primary" href="/collections/bands/products/womens-round-1-8mm-rose-gold">
+         <a class="product yellow-gold with-link-primary" href="{{ block.settings.alink3 }}">
             <img src="{{ block.settings.proimg3 }}">
-            <span class="link-primary">Rose Gold</span>
+            <span class="link-primary">{{ block.settings.Gold3 }}</span>
           </a>
-          <a class="product white-gold with-link-primary" href="/collections/bands/products/womens-round-1-8mm-platinum">
-             <img src="{{ block.settings.proimg4 }}">
-            <span class="link-primary">Platinum</span>
+          <a class="product yellow-gold with-link-primary" href="{{ block.settings.alink4 }}">
+            <img src="{{ block.settings.proimg4 }}">
+            <span class="link-primary">{{ block.settings.Gold4 }}</span>
           </a>
         </div>
         
@@ -63,32 +63,75 @@
     "id": "Starting",
     "label": "Sub-heading",
     "default": "Sub-heading"
-  },
-      {
+  }, 
+        {
     "type": "image_picker",
     "id": "proimg1",
     "label": "Image",
     "info": "1200 x 1200px .png recommended"
   },
-       {
+      {
+    "type": "url",
+    "id": "alink1",
+    "label": "product url"
+  }, 
+        {
+    "type": "text",
+    "id": "Gold1",
+    "label": "heading",
+    "default": "product titel"
+  },
+        {
     "type": "image_picker",
     "id": "proimg2",
     "label": "Image",
     "info": "1200 x 1200px .png recommended"
   },
-       {
+      {
+    "type": "url",
+    "id": "alink2",
+    "label": "product url"
+  }, 
+        {
+    "type": "text",
+    "id": "Gold2",
+    "label": "heading",
+    "default": "product titel"
+  },
+        {
     "type": "image_picker",
     "id": "proimg3",
     "label": "Image",
     "info": "1200 x 1200px .png recommended"
   },
-       {
+      {
+    "type": "url",
+    "id": "alink3",
+    "label": "product url"
+  }, 
+        {
+    "type": "text",
+    "id": "Gold3",
+    "label": "heading",
+    "default": "product titel"
+  },
+        {
     "type": "image_picker",
     "id": "proimg4",
     "label": "Image",
     "info": "1200 x 1200px .png recommended"
+  },
+      {
+    "type": "url",
+    "id": "alink4",
+    "label": "product url"
+  }, 
+        {
+    "type": "text",
+    "id": "Gold4",
+    "label": "heading",
+    "default": "product titel"
   }
-      
     ]
   }
 ],
