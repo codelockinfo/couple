@@ -27,7 +27,19 @@
           "type": "teb",
           "settings": {
             "Roundtetx": "Round",
-            "Starting": "STARTING AT $419"
+            "Starting": "STARTING AT $419",
+            "proimg1": "shopify:\/\/shop_images\/WomenRounded_YellowGold_1.5mm_OnWhite_A.png",
+            "alink1": "",
+            "Gold1": "YELLOW GOLD",
+            "proimg2": "shopify:\/\/shop_images\/WomenRounded_WhiteGold_1.5mm_OnWhite_A.png",
+            "alink2": "",
+            "Gold2": "YELLOW GOLD",
+            "proimg3": "shopify:\/\/shop_images\/WomenRounded_RoseGold_1.5mm_OnWhite_A.png",
+            "alink3": "",
+            "Gold3": "YELLOW GOLD",
+            "proimg4": "shopify:\/\/shop_images\/WomenRounded_WhiteGold_1.5mm_OnWhite_A_1.png",
+            "alink4": "",
+            "Gold4": "YELLOW GOLD"
           }
         },
         "d2619805-7166-4076-9363-bdc75ed48ce7": {
@@ -35,7 +47,15 @@
           "disabled": true,
           "settings": {
             "Roundtetx": "Round 2",
-            "Starting": "Sub-heading"
+            "Starting": "Sub-heading",
+            "alink1": "",
+            "Gold1": "product titel",
+            "alink2": "",
+            "Gold2": "product titel",
+            "alink3": "",
+            "Gold3": "product titel",
+            "alink4": "",
+            "Gold4": "product titel"
           }
         },
         "18e8f644-7268-459a-b806-83a0563e73df": {
@@ -43,7 +63,15 @@
           "disabled": true,
           "settings": {
             "Roundtetx": "heading",
-            "Starting": "Sub-heading"
+            "Starting": "Sub-heading",
+            "alink1": "",
+            "Gold1": "product titel",
+            "alink2": "",
+            "Gold2": "product titel",
+            "alink3": "",
+            "Gold3": "product titel",
+            "alink4": "",
+            "Gold4": "product titel"
           }
         },
         "067d9603-9e34-49dd-bbcc-e7acc321a58d": {
@@ -51,7 +79,15 @@
           "disabled": true,
           "settings": {
             "Roundtetx": "heading",
-            "Starting": "Sub-heading"
+            "Starting": "Sub-heading",
+            "alink1": "",
+            "Gold1": "product titel",
+            "alink2": "",
+            "Gold2": "product titel",
+            "alink3": "",
+            "Gold3": "product titel",
+            "alink4": "",
+            "Gold4": "product titel"
           }
         },
         "32d26d1f-8fe5-461c-abb4-0e94b4514258": {
@@ -59,7 +95,15 @@
           "disabled": true,
           "settings": {
             "Roundtetx": "heading",
-            "Starting": "Sub-heading"
+            "Starting": "Sub-heading",
+            "alink1": "",
+            "Gold1": "product titel",
+            "alink2": "",
+            "Gold2": "product titel",
+            "alink3": "",
+            "Gold3": "product titel",
+            "alink4": "",
+            "Gold4": "product titel"
           }
         }
       },
