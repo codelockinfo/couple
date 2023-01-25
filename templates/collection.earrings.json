@@ -200,6 +200,51 @@
         "link_text2": "",
         "link_url2": ""
       }
+    },
+    "74aaaf8d-ae6d-485e-ba2c-977df90cc5b6": {
+      "type": "brand-logo",
+      "blocks": {
+        "c8dae2a8-e78b-490e-88d6-d717b83d1f96": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vogue_81997c54-8022-4aa7-8e2d-653638977c6c.jpg"
+          }
+        },
+        "7f7f1364-6799-4ce7-a516-ee826d2d0124": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/businessinsider_2f95efbf-0fb2-432d-a723-3bfb472ba3a2.jpg"
+          }
+        },
+        "ee1c51f0-776d-4cfe-9fb4-e4f9acf15efb": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/forbes_96ee008a-c606-45ee-a9e8-84aba01fd243.jpg"
+          }
+        },
+        "0efa7688-bc24-4a67-8eac-1fee085c7a0b": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/realsimple_f232325e-754c-4a69-acbc-efe162e6468a.jpg"
+          }
+        },
+        "0c5f4886-f2e6-4cf9-a5eb-1184cbf12741": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/thezoereport_ae38a3be-cd12-4c8b-a2de-d2429367ba83.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "c8dae2a8-e78b-490e-88d6-d717b83d1f96",
+        "7f7f1364-6799-4ce7-a516-ee826d2d0124",
+        "ee1c51f0-776d-4cfe-9fb4-e4f9acf15efb",
+        "0efa7688-bc24-4a67-8eac-1fee085c7a0b",
+        "0c5f4886-f2e6-4cf9-a5eb-1184cbf12741"
+      ],
+      "settings": {
+        "heading": ""
+      }
     }
   },
   "order": [
@@ -212,6 +257,7 @@
     "0dbce12b-cb48-45bc-abac-9d5b09bc9a1c",
     "acd20583-c3d8-400c-ae46-99b51b108b22",
     "784f87f3-df72-40b3-adb9-9284893253b9",
-    "47754c1a-2731-4525-88ae-63ef79162190"
+    "47754c1a-2731-4525-88ae-63ef79162190",
+    "74aaaf8d-ae6d-485e-ba2c-977df90cc5b6"
   ]
 }
