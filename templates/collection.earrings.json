@@ -121,6 +121,33 @@
       ],
       "settings": {
       }
+    },
+    "acd20583-c3d8-400c-ae46-99b51b108b22": {
+      "type": "Testimonials-new",
+      "blocks": {
+        "d10fe4f6-9e0d-4c64-8d0b-7d9bf9a4ba38": {
+          "type": "block",
+          "settings": {
+            "confimed": "“I’m so happy we went with Couple for my fiancé’s engagement ring… the quality is amazing and I love the environmentally friendly aspect.”",
+            "confimedp": "– SIMON B."
+          }
+        },
+        "1abe98d0-930e-4233-a977-6e256fb674cc": {
+          "type": "block",
+          "settings": {
+            "confimed": "“I’m so happy we went with Couple for my fiancé’s engagement ring… the quality is amazing and I love the environmentally friendly aspect.”",
+            "confimedp": "– SIMON B."
+          }
+        }
+      },
+      "block_order": [
+        "d10fe4f6-9e0d-4c64-8d0b-7d9bf9a4ba38",
+        "1abe98d0-930e-4233-a977-6e256fb674cc"
+      ],
+      "settings": {
+        "buttonlink": "",
+        "buttontext": ""
+      }
     }
   },
   "order": [
@@ -130,6 +157,7 @@
     "eb2b2945-6159-4193-8853-f25b0f11955b",
     "e593dd15-dc26-4208-8a88-43d630c64aa0",
     "b84fc40b-4c4a-4dc5-93af-1cfa622824ae",
-    "0dbce12b-cb48-45bc-abac-9d5b09bc9a1c"
+    "0dbce12b-cb48-45bc-abac-9d5b09bc9a1c",
+    "acd20583-c3d8-400c-ae46-99b51b108b22"
   ]
 }
