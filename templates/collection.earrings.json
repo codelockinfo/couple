@@ -2,17 +2,71 @@
   "sections": {
     "main": {
       "type": "main-collection",
+      "disabled": true,
       "settings": {
+        "show_collection_info": true,
+        "show_collection_image": false,
+        "apply_overlay": true,
+        "show_color_swatch": false,
+        "show_vendor": false,
+        "collection_image_size": "normal",
+        "show_sort_by": true,
+        "show_layout_switch": false,
+        "toolbar_position": "top",
+        "show_filters": true,
+        "show_filter_color_swatch": true,
+        "expand_filters": true,
+        "filter_position": "sidebar",
+        "filter_menu": "",
+        "grid_items_per_page": 16,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 4
       }
     },
     "recently-viewed-products": {
       "type": "recently-viewed-products",
+      "disabled": true,
       "settings": {
+        "title": "Recently viewed",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false
+      }
+    },
+    "a1683458-ef50-4ff3-b7cb-c112d5be983c": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "section_size": "large",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30,
+        "subheading": "",
+        "title": "Tell your story",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+      }
+    },
+    "eb2b2945-6159-4193-8853-f25b0f11955b": {
+      "type": "full-screen-text-with-imges",
+      "settings": {
+        "bgcolor": "#dde9ed",
+        "subheading": "EARRINGS",
+        "title": "The Classic Stud",
+        "image": "shopify:\/\/shop_images\/couple-d-earrings-2x.png",
+        "image_position": "right",
+        "content": "<p>Make a statement, without saying a word.<\/p>",
+        "signaturetext": "",
+        "link_text": "SHOP STUDS",
+        "link_url": "",
+        "link_text2": "",
+        "link_url2": ""
       }
     }
   },
   "order": [
     "main",
-    "recently-viewed-products"
+    "recently-viewed-products",
+    "a1683458-ef50-4ff3-b7cb-c112d5be983c",
+    "eb2b2945-6159-4193-8853-f25b0f11955b"
   ]
 }
