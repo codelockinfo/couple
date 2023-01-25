@@ -98,19 +98,19 @@
         "a14921ac-6259-4cbb-a13c-7f6a8abad91a": {
           "type": "block",
           "settings": {
-            "mainimg": "shopify:\/\/shop_images\/couple-earring-gallery3-2x.jpg"
+            "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery4-2x.jpg"
           }
         },
         "0fc7c4a2-795a-4844-91e3-d703788eaa69": {
           "type": "block",
           "settings": {
-            "mainimg": "shopify:\/\/shop_images\/couple-earring-gallery5-2x.jpg"
+            "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery5-2x.jpg"
           }
         },
         "32817cd3-d531-4412-8e3b-524f216ea574": {
           "type": "block",
           "settings": {
-            "mainimg": "shopify:\/\/shop_images\/couple-earring-gallery4-2x.jpg"
+            "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery2-2x.jpg"
           }
         }
       },
