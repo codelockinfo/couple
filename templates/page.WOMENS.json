@@ -29,10 +29,18 @@
             "Roundtetx": "Round",
             "Starting": "STARTING AT $419"
           }
+        },
+        "d2619805-7166-4076-9363-bdc75ed48ce7": {
+          "type": "teb",
+          "settings": {
+            "Roundtetx": "heading",
+            "Starting": "Sub-heading"
+          }
         }
       },
       "block_order": [
-        "b9b6814a-a03d-4bc2-b360-9dbce1ff0daf"
+        "b9b6814a-a03d-4bc2-b360-9dbce1ff0daf",
+        "d2619805-7166-4076-9363-bdc75ed48ce7"
       ],
       "settings": {
       }
