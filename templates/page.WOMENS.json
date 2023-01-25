@@ -44,16 +44,19 @@
         },
         "d2619805-7166-4076-9363-bdc75ed48ce7": {
           "type": "teb",
-          "disabled": true,
           "settings": {
             "Roundtetx": "Round 2",
             "Starting": "Sub-heading",
+            "proimg1": "shopify:\/\/shop_images\/WomenRounded_RoseGold_1.5mm_OnWhite_A.png",
             "alink1": "",
             "Gold1": "product titel",
+            "proimg2": "shopify:\/\/shop_images\/WomenRounded_WhiteGold_1.5mm_OnWhite_A.png",
             "alink2": "",
             "Gold2": "product titel",
+            "proimg3": "shopify:\/\/shop_images\/WomenRounded_YellowGold_1.5mm_OnWhite_A.png",
             "alink3": "",
             "Gold3": "product titel",
+            "proimg4": "shopify:\/\/shop_images\/WomenRounded_WhiteGold_1.5mm_OnWhite_A.png",
             "alink4": "",
             "Gold4": "product titel"
           }
