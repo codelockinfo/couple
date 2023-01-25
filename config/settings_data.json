@@ -149,11 +149,21 @@
               "title": "Newsletter",
               "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
             }
+          },
+          "db8ab9b1-7fcf-4826-a181-45f31a3440f5": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "title": "About the shop",
+              "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+              "show_social_media": true
+            }
           }
         },
         "block_order": [
           "footer-1",
-          "footer-2"
+          "footer-2",
+          "db8ab9b1-7fcf-4826-a181-45f31a3440f5"
         ],
         "settings": {
           "show_payment_methods": true,
