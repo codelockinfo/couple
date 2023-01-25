@@ -23,13 +23,6 @@
     "a3984763-7d46-4ea1-b638-d0dbc610dc29": {
       "type": "TEB-SECTION",
       "blocks": {
-        "b69a8fee-a2e7-4c00-904f-88afafe5e1bb": {
-          "type": "teb",
-          "settings": {
-            "Roundtetx": "heading",
-            "Starting": "Sub-heading"
-          }
-        },
         "b9b6814a-a03d-4bc2-b360-9dbce1ff0daf": {
           "type": "teb",
           "settings": {
@@ -39,7 +32,6 @@
         }
       },
       "block_order": [
-        "b69a8fee-a2e7-4c00-904f-88afafe5e1bb",
         "b9b6814a-a03d-4bc2-b360-9dbce1ff0daf"
       ],
       "settings": {
