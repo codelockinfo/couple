@@ -19,10 +19,16 @@
         "title": "Bands",
         "content": "<p>Elegant. Timeless. The symbol of a shared life.<\/p>"
       }
+    },
+    "a3984763-7d46-4ea1-b638-d0dbc610dc29": {
+      "type": "TEB-SECTION",
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
-    "013d9816-5758-43be-9649-7b7400b19710"
+    "013d9816-5758-43be-9649-7b7400b19710",
+    "a3984763-7d46-4ea1-b638-d0dbc610dc29"
   ]
 }
