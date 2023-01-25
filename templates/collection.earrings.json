@@ -148,6 +148,41 @@
         "buttonlink": "",
         "buttontext": "SEE ALL CUSTOMER REVIEWS"
       }
+    },
+    "784f87f3-df72-40b3-adb9-9284893253b9": {
+      "type": "2-box",
+      "blocks": {
+        "b6dff3c8-08d8-48a0-8ea9-c54de58f4e8a": {
+          "type": "section",
+          "settings": {
+            "mainimges": "shopify:\/\/shop_images\/inbloom-global-exitramp-standard-2x_1.png",
+            "bgcolor": "",
+            "Service": "",
+            "Guide": "",
+            "ptext": "",
+            "our": "",
+            "Seeour": ""
+          }
+        },
+        "83cb559e-fd22-4214-a405-191ed5a54a06": {
+          "type": "section",
+          "settings": {
+            "mainimges": "shopify:\/\/shop_images\/inbloom-global-exitramp-diamonds-2x_1_2ac49b91-d5aa-4d5c-9904-c82231054cf3.png",
+            "bgcolor": "",
+            "Service": "",
+            "Guide": "",
+            "ptext": "",
+            "our": "",
+            "Seeour": ""
+          }
+        }
+      },
+      "block_order": [
+        "b6dff3c8-08d8-48a0-8ea9-c54de58f4e8a",
+        "83cb559e-fd22-4214-a405-191ed5a54a06"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -158,6 +193,7 @@
     "e593dd15-dc26-4208-8a88-43d630c64aa0",
     "b84fc40b-4c4a-4dc5-93af-1cfa622824ae",
     "0dbce12b-cb48-45bc-abac-9d5b09bc9a1c",
-    "acd20583-c3d8-400c-ae46-99b51b108b22"
+    "acd20583-c3d8-400c-ae46-99b51b108b22",
+    "784f87f3-df72-40b3-adb9-9284893253b9"
   ]
 }
