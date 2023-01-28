@@ -47,12 +47,26 @@
         "link_text": "",
         "link_url": ""
       }
+    },
+    "79e97ac4-46e9-4714-8933-40bb382393e1": {
+      "type": "new-text-with-image",
+      "settings": {
+        "bgcolor": "",
+        "subheading": "",
+        "title": "Cut and Polish",
+        "image": "shopify:\/\/shop_images\/inbloom-d-diamonds-6040-02-2x.png",
+        "image_position": "right",
+        "content": "<p>Each raw diamond is then analyzed and cut into a recognizable round solitaire shape. Once polished, the diamond must pass an IGI certification of excellent cut with G color and VS2 clarity.<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
     }
   },
   "order": [
     "main",
     "ff30fe27-8c7b-45b1-82ae-0db20aedae78",
     "b61aedd7-f846-444a-b184-cf076a15f193",
-    "846969d2-4e3c-4709-9538-be03e8b361ea"
+    "846969d2-4e3c-4709-9538-be03e8b361ea",
+    "79e97ac4-46e9-4714-8933-40bb382393e1"
   ]
 }
