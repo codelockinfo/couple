@@ -70,12 +70,28 @@
       ],
       "settings": {
       }
+    },
+    "3dd96f48-dc06-43e6-87fd-dfa8b14ce0a6": {
+      "type": "only-text",
+      "settings": {
+        "subheading": "CUT",
+        "title": "A cut above the rest.",
+        "titlesub": "",
+        "Button": "",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "<p>The ring cut sets the foundation for a quality diamond. Little known fact--cut is the factor most variable amongst diamond brands. Other brands will market an identical excellent cut as \"ideal\", or \"super ideal\" depending on the jeweler. We don't use marketing jargon. We only select stones that are cut to maximize the light reflection, bringing forth the best sparkle and radiance.<\/p>",
+        "link_text": "",
+        "link_url": "",
+        "bgcolor": ""
+      }
     }
   },
   "order": [
     "main",
     "6d48feed-9f1d-41e8-a2b4-e1cf098abdee",
     "05287c96-d784-4b22-a522-641ed1f0769a",
-    "5a02f6d5-9eed-4a7b-b021-4caee639875a"
+    "5a02f6d5-9eed-4a7b-b021-4caee639875a",
+    "3dd96f48-dc06-43e6-87fd-dfa8b14ce0a6"
   ]
 }
