@@ -60,6 +60,19 @@
         "link_text": "",
         "link_url": ""
       }
+    },
+    "f8cb6697-b433-4ed6-82b9-71f58dac6c9e": {
+      "type": "new-text-with-image",
+      "settings": {
+        "bgcolor": "",
+        "subheading": "Sub-heading",
+        "title": "Title",
+        "image": "shopify:\/\/shop_images\/inbloom-d-diamonds-6040-03-2x.png",
+        "image_position": "right",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
     }
   },
   "order": [
@@ -67,6 +80,7 @@
     "ff30fe27-8c7b-45b1-82ae-0db20aedae78",
     "b61aedd7-f846-444a-b184-cf076a15f193",
     "846969d2-4e3c-4709-9538-be03e8b361ea",
-    "79e97ac4-46e9-4714-8933-40bb382393e1"
+    "79e97ac4-46e9-4714-8933-40bb382393e1",
+    "f8cb6697-b433-4ed6-82b9-71f58dac6c9e"
   ]
 }
