@@ -2,28 +2,28 @@
 
 <div class="slick-slider">
   <div class="element element-1">
-    <img src="{{ block.settings.sliderimg |img_url: '600x600' }}">
+    <img src="{{ section.settings.sliderimg |img_url: '600x600' }}">
   </div>
   <div class="element element-2">
-    <img src="{{ block.settings.sliderimg |img_url: '600x600' }}">
+    <img src="{{ section.settings.sliderimg |img_url: '600x600' }}">
   </div>
 </div>
 {% schema %}
 {
 "name": "slider2",
 "settings": [
-
+ {
+    "type": "image_picker",
+    "id": "sliderimg",
+    "label": "Image"
+    }
 ],
 "blocks":[
 {
 "type" : "block",
 "name" : "block",
 "settings" : [
-    {
-    "type": "image_picker",
-    "id": "sliderimg",
-    "label": "Image"
-    }
+
 ]
 }
 
