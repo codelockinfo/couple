@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
 <div class="mianelement">
+  <h2>{{ section.settings.heading }}</h2>
+  <h3>{{ section.settings.subheading }}</h3>
   <div class="slick-slider">
       {% for block in section.blocks %}
     <div class="element element-1">
@@ -12,6 +14,18 @@
 {
 "name": "slider",
 "settings": [
+    {
+    "type": "text",
+    "id": "subheading",
+    "label": "heading",
+    "default": "sub-heading"
+  },
+    {
+    "type": "text",
+    "id": "Roundtetx",
+    "label": "heading",
+    "default": "heading"
+  }
 ],
 "blocks":[
 {
