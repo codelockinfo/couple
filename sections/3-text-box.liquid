@@ -5,28 +5,27 @@
             <h2>Excellent</h2>
             <p class="body-large">IGI Grading</p>
           </a>
-
-          <a class="box box-color" href="#standard-color">
-            <h5>Color</h5>
-            <h2>G</h2>
-            <p class="body-large">Near Colorless</p>
-          </a>
-
-          <a class="box box-clarity" href="#standard-clarity">
-            <h5>Clarity</h5>
-            <h2>VS2</h2>
-            <p class="body-large">Very Slight Inclusion</p>
-          </a>
         </div>
       </div>
 {% schema %}
   {
     "name": "3 text box",
     "settings": []
+    
   }
 {% endschema %}
 
 {% stylesheet %}
+.centered {
+    margin-top: 80px;
+    margin-bottom: 56px;
+}
+ .centered box{
+        flex-basis: calc(33.33333% - 24px);
+    max-width: calc(33.33333% - 24px);
+    margin-right: 0;
+    margin-left: 24px;
+  }
 {% endstylesheet %}
 
 {% javascript %}
