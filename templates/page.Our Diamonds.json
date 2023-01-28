@@ -18,10 +18,26 @@
         "title": "Lab-grown Diamonds.",
         "content": "<p>Couple’s lab-grown diamonds are atomically and chemically identical to mined diamonds, yet 35% larger on a price basis and meet the highest of standards. Compared to mined diamonds, Couple diamonds are eco-friendly, and 100% ethically produced and sourced.<\/p>"
       }
+    },
+    "b61aedd7-f846-444a-b184-cf076a15f193": {
+      "type": "only-text",
+      "settings": {
+        "subheading": "THE PROCESS",
+        "title": "Our Diamond Seed",
+        "titlesub": "",
+        "Button": "",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "<p>Each Couple diamond is born from a thin sliver of an exceptional diamond.<\/p>",
+        "link_text": "",
+        "link_url": "",
+        "bgcolor": ""
+      }
     }
   },
   "order": [
     "main",
-    "ff30fe27-8c7b-45b1-82ae-0db20aedae78"
+    "ff30fe27-8c7b-45b1-82ae-0db20aedae78",
+    "b61aedd7-f846-444a-b184-cf076a15f193"
   ]
 }
