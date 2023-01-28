@@ -109,6 +109,7 @@
         },
         "32817cd3-d531-4412-8e3b-524f216ea574": {
           "type": "block",
+          "disabled": true,
           "settings": {
             "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery2-2x.jpg"
           }
