@@ -88,6 +88,35 @@
         "link_url": "",
         "bgcolor": "#f8f8f6"
       }
+    },
+    "7b60ef99-7ccc-47fb-b32f-b4799b2499c3": {
+      "type": "insta_section",
+      "settings": {
+        "instanameurl": "",
+        "instaname": "",
+        "instaimg1": "shopify:\/\/shop_images\/couple-earring-gallery4-2x.jpg",
+        "instanameurl1": "",
+        "instaname1": "",
+        "instaimg2": "shopify:\/\/shop_images\/couple-earring-gallery5-2x.jpg",
+        "instanameurl2": "",
+        "instaname2": "",
+        "instaimg3": "shopify:\/\/shop_images\/couple-earring-gallery4-2x.jpg",
+        "instanameurl3": "",
+        "instaname3": "",
+        "instaimg4": "shopify:\/\/shop_images\/couple-earring-gallery5-2x.jpg",
+        "instanameurl4": "",
+        "instaname4": "",
+        "instanameurl11": "",
+        "instaname11": "",
+        "instanameurl21": "",
+        "instaname21": "",
+        "instanameurl31": "",
+        "instaname31": "",
+        "subtitel": "",
+        "heading": "",
+        "alink": "",
+        "atext": ""
+      }
     }
   },
   "order": [
@@ -97,6 +126,7 @@
     "846969d2-4e3c-4709-9538-be03e8b361ea",
     "79e97ac4-46e9-4714-8933-40bb382393e1",
     "f8cb6697-b433-4ed6-82b9-71f58dac6c9e",
-    "e5d96525-0721-4904-bf59-f1279cb1c0ce"
+    "e5d96525-0721-4904-bf59-f1279cb1c0ce",
+    "7b60ef99-7ccc-47fb-b32f-b4799b2499c3"
   ]
 }
