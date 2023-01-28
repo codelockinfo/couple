@@ -4,9 +4,9 @@
   <div class="customreviewside ">
     <div class="ratinconain ">
       {% for block in section.blocks %}
-        <div class="reviestep1" style="background-image:url()">
-          <div class="subimge">
-              <img src="{{ block.settings.sliderimg |img_url: '600x600' }}">
+        <div class="reviestep1" >
+          <div class="subimge" style="background-image:url({{ block.settings.sliderimg |img_url: '600x600' }})">
+              <img src="">
           </div>
         </div>
       
