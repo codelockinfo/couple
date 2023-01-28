@@ -2,8 +2,8 @@
 <div class="mianelement">
   <div class="slick-slider">
       {% for block in section.blocks %}
-    <div class="element element-1" style="background-image:url({{ block.settings.sliderimg |img_url: '600x600' }})">
-      <img src="{{ section.settings.sliderimg |img_url: '600x600' }}">
+    <div class="element element-1">
+      <img src="{{ block.settings.sliderimg |img_url: '600x600' }}">
     </div>
       {% endfor %}
   </div>
