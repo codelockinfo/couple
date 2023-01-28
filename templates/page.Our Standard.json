@@ -41,9 +41,9 @@
         "fa1193d0-698d-40fe-88f0-372503ef5b69": {
           "type": "block",
           "settings": {
-            "Cut": "Title",
-            "Excellent": "Title",
-            "Grading": "Title"
+            "Cut": "CUT",
+            "Excellent": "Excellent",
+            "Grading": "IGI Grading"
           }
         },
         "ba5ee371-3ca2-450a-9537-93fb6098aa4b": {
