@@ -65,11 +65,11 @@
       "type": "new-text-with-image",
       "settings": {
         "bgcolor": "",
-        "subheading": "Sub-heading",
-        "title": "Title",
+        "subheading": "",
+        "title": "Meticulously Selected",
         "image": "shopify:\/\/shop_images\/inbloom-d-diamonds-6040-03-2x.png",
         "image_position": "right",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "content": "<p>A little-known fact in the diamond industry is that the grading process can be a bit subjective. That’s why we painstakingly examine each stone and ask ourselves, “is this a diamond I’d give to my spouse?” Our in-house gemologist selects the best excellent cut, G+VS2 stones and they go on to become Couple diamonds. We believe this additional step is necessary to ensure that your ring is as unique as your own love story.<\/p>",
         "link_text": "",
         "link_url": ""
       }
