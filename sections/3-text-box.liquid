@@ -1,10 +1,12 @@
 <div class="centered">
         <div class="grid">
+           {% for block in section.blocks %}
           <a class="box box-cut" href="#standard-cut">
             <h5>Cut</h5>
             <h2>Excellent</h2>
             <p class="body-large">IGI Grading</p>
           </a>
+             {% endfor %}
         </div>
       </div>
 {% schema %}
