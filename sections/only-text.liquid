@@ -14,6 +14,10 @@
             {%- if section.settings.title != blank -%}
               <h2 class="SectionHeader__Heading Heading u-h1">{{ section.settings.title | escape }}</h2>
             {%- endif -%}
+
+            {%- if section.settings.titlesub != blank -%}
+              <h3 class="SectionHeader__Heading Heading u-h1">{{ section.settings.titlesub | escape }}</h3>
+            {%- endif -%}
           
             {%- if section.settings.buttonlink0 != blank -%}
               <a href="{{ section.settings.buttonlink0 }}" class="buttontext">{{ section.settings.Button | escape }}</a><br>
@@ -82,7 +86,7 @@
      {
       "type": "text",
       "id": "Button",
-      "label": "Heading",
+      "label": "button text",
       "default": "Title"
     },
     {
