@@ -8559,7 +8559,7 @@ body:not(.features--show-image-zooming) .Image--lazyLoaded.Image--zoomOut {
 
 .ImageHero__ContentOverlay {
   position: relative;
-  flex-basis: 425px;
+  flex-basis: 550px;
   flex-grow: 0;
   padding: 0 15px;
 /*   text-shadow: 0 1px rgba(0, 0, 0, 0.5); */
