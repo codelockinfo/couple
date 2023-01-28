@@ -251,6 +251,11 @@
       "type": "Newsletter-new",
       "settings": {
       }
+    },
+    "1333bdf6-5be6-4858-9e5b-cf4b4fafee6d": {
+      "type": "slider22",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -265,6 +270,7 @@
     "784f87f3-df72-40b3-adb9-9284893253b9",
     "47754c1a-2731-4525-88ae-63ef79162190",
     "74aaaf8d-ae6d-485e-ba2c-977df90cc5b6",
-    "cd584564-13b3-4a33-935a-313e251559bd"
+    "cd584564-13b3-4a33-935a-313e251559bd",
+    "1333bdf6-5be6-4858-9e5b-cf4b4fafee6d"
   ]
 }
