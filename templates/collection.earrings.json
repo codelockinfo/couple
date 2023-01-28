@@ -92,35 +92,43 @@
         "link_url2": ""
       }
     },
-    "0dbce12b-cb48-45bc-abac-9d5b09bc9a1c": {
-      "type": "slider",
+    "1333bdf6-5be6-4858-9e5b-cf4b4fafee6d": {
+      "type": "slider22",
       "blocks": {
-        "a14921ac-6259-4cbb-a13c-7f6a8abad91a": {
+        "ac445003-32f4-4ac1-8bc0-384bf657b304": {
           "type": "block",
           "settings": {
             "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery4-2x.jpg"
           }
         },
-        "0fc7c4a2-795a-4844-91e3-d703788eaa69": {
+        "0cc2eac4-c248-4999-bfdd-6aa5d4caa4ec": {
           "type": "block",
           "settings": {
             "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery5-2x.jpg"
           }
         },
-        "32817cd3-d531-4412-8e3b-524f216ea574": {
+        "21fef22c-eb33-4989-9b9d-fb9782b022a8": {
           "type": "block",
-          "disabled": true,
+          "settings": {
+            "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery3-2x.jpg"
+          }
+        },
+        "9b0ee7ce-0eef-40d4-9ea2-96fbba528cbd": {
+          "type": "block",
           "settings": {
             "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery2-2x.jpg"
           }
         }
       },
       "block_order": [
-        "a14921ac-6259-4cbb-a13c-7f6a8abad91a",
-        "0fc7c4a2-795a-4844-91e3-d703788eaa69",
-        "32817cd3-d531-4412-8e3b-524f216ea574"
+        "ac445003-32f4-4ac1-8bc0-384bf657b304",
+        "0cc2eac4-c248-4999-bfdd-6aa5d4caa4ec",
+        "21fef22c-eb33-4989-9b9d-fb9782b022a8",
+        "9b0ee7ce-0eef-40d4-9ea2-96fbba528cbd"
       ],
       "settings": {
+        "heading": "GALLERY",
+        "subheading": "Studs in the wild."
       }
     },
     "acd20583-c3d8-400c-ae46-99b51b108b22": {
@@ -251,45 +259,6 @@
       "type": "Newsletter-new",
       "settings": {
       }
-    },
-    "1333bdf6-5be6-4858-9e5b-cf4b4fafee6d": {
-      "type": "slider22",
-      "blocks": {
-        "ac445003-32f4-4ac1-8bc0-384bf657b304": {
-          "type": "block",
-          "settings": {
-            "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery4-2x.jpg"
-          }
-        },
-        "0cc2eac4-c248-4999-bfdd-6aa5d4caa4ec": {
-          "type": "block",
-          "settings": {
-            "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery5-2x.jpg"
-          }
-        },
-        "21fef22c-eb33-4989-9b9d-fb9782b022a8": {
-          "type": "block",
-          "settings": {
-            "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery3-2x.jpg"
-          }
-        },
-        "9b0ee7ce-0eef-40d4-9ea2-96fbba528cbd": {
-          "type": "block",
-          "settings": {
-            "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery2-2x.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "ac445003-32f4-4ac1-8bc0-384bf657b304",
-        "0cc2eac4-c248-4999-bfdd-6aa5d4caa4ec",
-        "21fef22c-eb33-4989-9b9d-fb9782b022a8",
-        "9b0ee7ce-0eef-40d4-9ea2-96fbba528cbd"
-      ],
-      "settings": {
-        "heading": "GALLERY",
-        "subheading": "Studs in the wild."
-      }
     }
   },
   "order": [
@@ -299,12 +268,11 @@
     "eb2b2945-6159-4193-8853-f25b0f11955b",
     "e593dd15-dc26-4208-8a88-43d630c64aa0",
     "b84fc40b-4c4a-4dc5-93af-1cfa622824ae",
-    "0dbce12b-cb48-45bc-abac-9d5b09bc9a1c",
+    "1333bdf6-5be6-4858-9e5b-cf4b4fafee6d",
     "acd20583-c3d8-400c-ae46-99b51b108b22",
     "784f87f3-df72-40b3-adb9-9284893253b9",
     "47754c1a-2731-4525-88ae-63ef79162190",
     "74aaaf8d-ae6d-485e-ba2c-977df90cc5b6",
-    "cd584564-13b3-4a33-935a-313e251559bd",
-    "1333bdf6-5be6-4858-9e5b-cf4b4fafee6d"
+    "cd584564-13b3-4a33-935a-313e251559bd"
   ]
 }
