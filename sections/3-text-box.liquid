@@ -2,9 +2,9 @@
         <div class="grid">
            {% for block in section.blocks %}
           <a class="box box-cut" href="#standard-cut">
-            <h5>Cut</h5>
-            <h2>Excellent</h2>
-            <p class="body-large">IGI Grading</p>
+            <h5>{{ block.settings.Cut }}</h5>
+            <h2>{{ block.settings.Excellent }}</h2>
+            <p class="body-large">{{ block.settings.Grading }}</p>
           </a>
              {% endfor %}
         </div>
