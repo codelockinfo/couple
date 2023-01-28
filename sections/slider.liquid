@@ -4,8 +4,8 @@
   <div class="customreviewside ">
     <div class="ratinconain ">
       {% for block in section.blocks %}
-        <div class="reviestep1">
-        <img src="{{ block.settings.sliderimg |img_url: '600x600' }}">
+        <div class="reviestep1" style="background-image:url({{ block.settings.sliderimg |img_url: '600x600' }})">
+       
         </div>
       {% endfor %}
     </div>
