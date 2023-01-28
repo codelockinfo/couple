@@ -14,7 +14,7 @@
         "image": "shopify:\/\/shop_images\/inbloom-d-standard-atf-2x.jpg",
         "text_color": "#122947",
         "overlay_color": "#000000",
-        "overlay_opacity": 6,
+        "overlay_opacity": 0,
         "subheading": "OUR STANDARD",
         "title": "High Standards.Peace of Mind.",
         "content": "<p>Our diamonds are first certified by the<a href=\"http:\/\/www.igiworldwide.com\/\" target=\"_blank\">International Gemological Institute<\/a>, then only the best are personally selected by our in-house gemologist. We are meticulous so you can shop confidently.<\/p>"
@@ -34,11 +34,35 @@
         "link_url": "",
         "bgcolor": "#f8f8f6"
       }
+    },
+    "5a02f6d5-9eed-4a7b-b021-4caee639875a": {
+      "type": "3-text-box",
+      "blocks": {
+        "fa1193d0-698d-40fe-88f0-372503ef5b69": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "ba5ee371-3ca2-450a-9537-93fb6098aa4b": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "fa1193d0-698d-40fe-88f0-372503ef5b69",
+        "ba5ee371-3ca2-450a-9537-93fb6098aa4b"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
     "6d48feed-9f1d-41e8-a2b4-e1cf098abdee",
-    "05287c96-d784-4b22-a522-641ed1f0769a"
+    "05287c96-d784-4b22-a522-641ed1f0769a",
+    "5a02f6d5-9eed-4a7b-b021-4caee639875a"
   ]
 }
