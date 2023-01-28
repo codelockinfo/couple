@@ -79,14 +79,14 @@
       "settings": {
         "subheading": "COUPLE DIAMONDS",
         "title": "Bigger and Better",
-        "titlesub": "Title",
+        "titlesub": "",
         "Button": "",
         "buttonlink0": "",
         "image_position": "right",
         "content": "<p>How do our diamonds compare to their mined counterparts? Price being equal, you'll see where the value in quality and size shines in a Couple diamond.<\/p>",
         "link_text": "",
         "link_url": "",
-        "bgcolor": ""
+        "bgcolor": "#f8f8f6"
       }
     }
   },
