@@ -40,20 +40,24 @@
       "blocks": {
         "fa1193d0-698d-40fe-88f0-372503ef5b69": {
           "type": "block",
-          "disabled": true,
           "settings": {
           }
         },
         "ba5ee371-3ca2-450a-9537-93fb6098aa4b": {
           "type": "block",
-          "disabled": true,
+          "settings": {
+          }
+        },
+        "5a50fd02-94da-4b90-95f5-86bc81b12932": {
+          "type": "block",
           "settings": {
           }
         }
       },
       "block_order": [
         "fa1193d0-698d-40fe-88f0-372503ef5b69",
-        "ba5ee371-3ca2-450a-9537-93fb6098aa4b"
+        "ba5ee371-3ca2-450a-9537-93fb6098aa4b",
+        "5a50fd02-94da-4b90-95f5-86bc81b12932"
       ],
       "settings": {
       }
