@@ -61,6 +61,11 @@
   "class": "shopify-section--bordered",
   "settings": [
     {
+        "type": "color",
+         "id": "bgcolor",
+        "label": "background color"
+     },
+    {
       "type": "text",
       "id": "subheading",
       "label": "Sub-heading",
@@ -123,7 +128,7 @@
 <style>
   .clsFeature .FeatureText__ImageWrapper {
     width: 60%;
-    background-image: linear-gradient(to bottom,transparent 0%,transparent 10vw,#f6dcd4 10vw,#f6dcd4 100%);
+    background-image: linear-gradient(to bottom,transparent 0%,transparent 10vw,{{section.settings.bgcolor}} 10vw,{{section.settings.bgcolor}} 100%);
 }
   .clsFeature .FeatureText__ContentWrapper {
     width: 40%;
