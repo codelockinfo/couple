@@ -1,32 +1,37 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
 <div class="mianelement">
   <div class="slick-slider">
+      {% for block in section.blocks %}
     <div class="element element-1" style="background-image:url({{ block.settings.sliderimg |img_url: '600x600' }})">
       <img src="{{ section.settings.sliderimg |img_url: '600x600' }}">
     </div>
-    <div class="element element-2">
-      <img src="{{ section.settings.sliderimg |img_url: '600x600' }}">
-    </div>
-    <div class="element element-2">
-      <img src="{{ section.settings.sliderimg |img_url: '600x600' }}">
-    </div>
+      {% endfor %}
   </div>
 </div>
 {% schema %}
 {
-"name": "slider2",
+"name": "slider",
 "settings": [
- {
+
+],
+"blocks":[
+{
+"type" : "block",
+"name" : "block",
+"settings" : [
+    {
     "type": "image_picker",
     "id": "sliderimg",
     "label": "Image"
     }
-],
+]
+}
 
+],
 "presets" : [
 {
-  "name" : "slider 22",
-  "category" : "slider2"
+  "name" : "slider new",
+  "category" : "slider"
   }
 ]
 }
