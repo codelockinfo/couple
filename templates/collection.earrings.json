@@ -254,8 +254,39 @@
     },
     "1333bdf6-5be6-4858-9e5b-cf4b4fafee6d": {
       "type": "slider22",
+      "blocks": {
+        "ac445003-32f4-4ac1-8bc0-384bf657b304": {
+          "type": "block",
+          "settings": {
+            "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery4-2x.jpg"
+          }
+        },
+        "0cc2eac4-c248-4999-bfdd-6aa5d4caa4ec": {
+          "type": "block",
+          "settings": {
+            "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery5-2x.jpg"
+          }
+        },
+        "21fef22c-eb33-4989-9b9d-fb9782b022a8": {
+          "type": "block",
+          "settings": {
+            "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery3-2x.jpg"
+          }
+        },
+        "9b0ee7ce-0eef-40d4-9ea2-96fbba528cbd": {
+          "type": "block",
+          "settings": {
+            "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery2-2x.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "ac445003-32f4-4ac1-8bc0-384bf657b304",
+        "0cc2eac4-c248-4999-bfdd-6aa5d4caa4ec",
+        "21fef22c-eb33-4989-9b9d-fb9782b022a8",
+        "9b0ee7ce-0eef-40d4-9ea2-96fbba528cbd"
+      ],
       "settings": {
-        "sliderimg": "shopify:\/\/shop_images\/couple-earring-gallery4-2x.jpg"
       }
     }
   },
