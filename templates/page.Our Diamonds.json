@@ -11,9 +11,9 @@
       "settings": {
         "section_size": "large",
         "image": "shopify:\/\/shop_images\/inbloom-d-diamonds-atf-2x.jpg",
-        "text_color": "#ffffff",
+        "text_color": "#122947",
         "overlay_color": "#000000",
-        "overlay_opacity": 30,
+        "overlay_opacity": 0,
         "subheading": "OUR DIAMONDS",
         "title": "Lab-grown Diamonds.",
         "content": "<p>Couple’s lab-grown diamonds are atomically and chemically identical to mined diamonds, yet 35% larger on a price basis and meet the highest of standards. Compared to mined diamonds, Couple diamonds are eco-friendly, and 100% ethically produced and sourced.<\/p>"
