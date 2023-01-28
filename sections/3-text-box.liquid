@@ -2,9 +2,16 @@
         <div class="grid">
            {% for block in section.blocks %}
           <a class="box box-cut" href="#standard-cut">
+                 {%- if section.settings.Cut != blank -%}
             <h5>{{ block.settings.Cut }}</h5>
+ {%- endif -%}
+                {%- if section.settings.Excellent != blank -%}
             <h2>{{ block.settings.Excellent }}</h2>
+              {%- endif -%}
+                 {%- if section.settings.Grading != blank -%}
             <p class="body-large">{{ block.settings.Grading }}</p>
+             {%- endif -%}
+            
           </a>
              {% endfor %}
         </div>
