@@ -5,7 +5,7 @@
       "disabled": true,
       "settings": {
         "show_collection_info": true,
-        "show_collection_image": false,
+        "show_collection_image": true,
         "apply_overlay": true,
         "show_color_swatch": false,
         "show_vendor": false,
@@ -21,29 +21,6 @@
         "grid_items_per_page": 16,
         "grid_mobile_items_per_row": "2",
         "grid_desktop_items_per_row": 4
-      }
-    },
-    "recently-viewed-products": {
-      "type": "recently-viewed-products",
-      "disabled": true,
-      "settings": {
-        "title": "Recently viewed",
-        "show_product_info": true,
-        "show_vendor": false,
-        "show_color_swatch": false
-      }
-    },
-    "a1683458-ef50-4ff3-b7cb-c112d5be983c": {
-      "type": "image-with-text-overlay",
-      "disabled": true,
-      "settings": {
-        "section_size": "large",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30,
-        "subheading": "",
-        "title": "Tell your story",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
       }
     },
     "eb2b2945-6159-4193-8853-f25b0f11955b": {
@@ -67,6 +44,7 @@
       "settings": {
         "subheading": "QUALITY",
         "title": "Set in 18k White Gold, or Platinum with stunning F\/G colour, VS1 clarity Round Brilliant lab grown diamonds. See what size is right for you below.",
+        "titlesub": "Title",
         "Button": "Title",
         "buttonlink0": "",
         "image_position": "right",
@@ -263,8 +241,6 @@
   },
   "order": [
     "main",
-    "recently-viewed-products",
-    "a1683458-ef50-4ff3-b7cb-c112d5be983c",
     "eb2b2945-6159-4193-8853-f25b0f11955b",
     "e593dd15-dc26-4208-8a88-43d630c64aa0",
     "b84fc40b-4c4a-4dc5-93af-1cfa622824ae",
