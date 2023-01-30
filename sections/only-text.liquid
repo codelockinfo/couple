@@ -30,7 +30,7 @@
             {%- endif -%}
 
             {%- if section.settings.link_url != blank -%}
-              <a href="{{ section.settings.link_url }}" class="Link Link--underline">{{ section.settings.link_text | escape }}</a>
+              <a href="{{ section.settings.link_url }}" class="abuttont">{{ section.settings.link_text | escape }}</a>
             {%- endif -%}
           </header>
         {%- endif -%}
@@ -154,6 +154,10 @@
 }
 {% endschema %}
 <style>
+  .abuttont{
+    border-bottom: 2px solid #122947;
+        color: #122947;
+  }
       .SectionHeader__Description.Rte p {
         transition: transform .75s Cubic-bezier(.3,0,.3,1) .2s,opacity .75s Cubic-bezier(1,0,.43,1) .2s;
         font-size: 18px;
