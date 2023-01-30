@@ -89,42 +89,19 @@
         "bgcolor": "#f8f8f6"
       }
     },
-    "7b60ef99-7ccc-47fb-b32f-b4799b2499c3": {
-      "type": "insta_section",
+    "14f5784c-19a7-4750-b14f-f30c29bd9be9": {
+      "type": "only-text",
       "settings": {
-        "instaimg": "shopify:\/\/shop_images\/ugc_4_dfe79bcf-f7b1-4ef4-899e-8da2c5fd1d32.jpg",
-        "instanameurl": "",
-        "instaname": "",
-        "instaimg1": "shopify:\/\/shop_images\/ugc_2_b09aedb5-1b2b-4c6f-95ba-fdc030e3916c.jpg",
-        "instanameurl1": "",
-        "instaname1": "",
-        "instaimg2": "shopify:\/\/shop_images\/ugc_2_b09aedb5-1b2b-4c6f-95ba-fdc030e3916c.jpg",
-        "instanameurl2": "",
-        "instaname2": "",
-        "instaimg3": "shopify:\/\/shop_images\/ugc_1_23b7f866-4f1e-47a9-9b82-cdc5ae3796c4.jpg",
-        "instanameurl3": "",
-        "instaname3": "",
-        "instaimg4": "shopify:\/\/shop_images\/ugc_3_9f939372-46e3-4754-bbb0-5ad819d6daf7.jpg",
-        "instanameurl4": "",
-        "instaname4": "",
-        "instaimg11": "shopify:\/\/shop_images\/ugc_3_9f939372-46e3-4754-bbb0-5ad819d6daf7.jpg",
-        "instanameurl11": "",
-        "instaname11": "",
-        "instaimg21": "shopify:\/\/shop_images\/ugc_4_dfe79bcf-f7b1-4ef4-899e-8da2c5fd1d32.jpg",
-        "instanameurl21": "",
-        "instaname21": "",
-        "instaimg31": "shopify:\/\/shop_images\/ugc_2_b09aedb5-1b2b-4c6f-95ba-fdc030e3916c.jpg",
-        "instanameurl31": "",
-        "instaname31": "",
-        "subtitel": "#COUPLECO",
-        "heading": "Share in the love.",
-        "alink": "",
-        "atext": "FOLLOW US ON INSTAGRAM"
-      }
-    },
-    "d8a7dbe2-910e-474b-84fd-6a09381c2d21": {
-      "type": "Newsletter-new",
-      "settings": {
+        "subheading": "THE RINGS",
+        "title": "Modern diamonds. Timeless Designs.",
+        "titlesub": "Grown in a lab, and set by hand in New York.Browse our designer collections.",
+        "Button": "",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "",
+        "link_text": "",
+        "link_url": "",
+        "bgcolor": ""
       }
     },
     "9cdebbea-6337-4f09-b8c1-ded4f2d1e5f9": {
@@ -180,39 +157,6 @@
         "bgcolor": ""
       }
     },
-    "14f5784c-19a7-4750-b14f-f30c29bd9be9": {
-      "type": "only-text",
-      "settings": {
-        "subheading": "THE RINGS",
-        "title": "Modern diamonds. Timeless Designs.",
-        "titlesub": "Grown in a lab, and set by hand in New York.Browse our designer collections.",
-        "Button": "",
-        "buttonlink0": "",
-        "image_position": "right",
-        "content": "",
-        "link_text": "",
-        "link_url": "",
-        "bgcolor": ""
-      }
-    },
-    "c5428ba1-a9f3-43be-805f-281da598059e": {
-      "type": "3-text-box",
-      "settings": {
-      }
-    },
-    "e7fbf332-0c01-4b3a-9443-6574fddc2fdb": {
-      "type": "new-full-text-with-image",
-      "disabled": true,
-      "settings": {
-        "subheading": "Sub-heading",
-        "title": "Title",
-        "image": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-promise-2x_2.png",
-        "image_position": "right",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
-        "link_text": "",
-        "link_url": ""
-      }
-    },
     "c78f0a6c-46e7-461e-8d43-e0a9ac627e29": {
       "type": "full-screen-text-with-imges",
       "settings": {
@@ -229,6 +173,44 @@
         "link_text2": "",
         "link_url2": ""
       }
+    },
+    "7b60ef99-7ccc-47fb-b32f-b4799b2499c3": {
+      "type": "insta_section",
+      "settings": {
+        "instaimg": "shopify:\/\/shop_images\/ugc_4_dfe79bcf-f7b1-4ef4-899e-8da2c5fd1d32.jpg",
+        "instanameurl": "",
+        "instaname": "",
+        "instaimg1": "shopify:\/\/shop_images\/ugc_2_b09aedb5-1b2b-4c6f-95ba-fdc030e3916c.jpg",
+        "instanameurl1": "",
+        "instaname1": "",
+        "instaimg2": "shopify:\/\/shop_images\/ugc_2_b09aedb5-1b2b-4c6f-95ba-fdc030e3916c.jpg",
+        "instanameurl2": "",
+        "instaname2": "",
+        "instaimg3": "shopify:\/\/shop_images\/ugc_1_23b7f866-4f1e-47a9-9b82-cdc5ae3796c4.jpg",
+        "instanameurl3": "",
+        "instaname3": "",
+        "instaimg4": "shopify:\/\/shop_images\/ugc_3_9f939372-46e3-4754-bbb0-5ad819d6daf7.jpg",
+        "instanameurl4": "",
+        "instaname4": "",
+        "instaimg11": "shopify:\/\/shop_images\/ugc_3_9f939372-46e3-4754-bbb0-5ad819d6daf7.jpg",
+        "instanameurl11": "",
+        "instaname11": "",
+        "instaimg21": "shopify:\/\/shop_images\/ugc_4_dfe79bcf-f7b1-4ef4-899e-8da2c5fd1d32.jpg",
+        "instanameurl21": "",
+        "instaname21": "",
+        "instaimg31": "shopify:\/\/shop_images\/ugc_2_b09aedb5-1b2b-4c6f-95ba-fdc030e3916c.jpg",
+        "instanameurl31": "",
+        "instaname31": "",
+        "subtitel": "#COUPLECO",
+        "heading": "Share in the love.",
+        "alink": "",
+        "atext": "FOLLOW US ON INSTAGRAM"
+      }
+    },
+    "d8a7dbe2-910e-474b-84fd-6a09381c2d21": {
+      "type": "Newsletter-new",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -239,12 +221,10 @@
     "79e97ac4-46e9-4714-8933-40bb382393e1",
     "f8cb6697-b433-4ed6-82b9-71f58dac6c9e",
     "e5d96525-0721-4904-bf59-f1279cb1c0ce",
-    "7b60ef99-7ccc-47fb-b32f-b4799b2499c3",
-    "d8a7dbe2-910e-474b-84fd-6a09381c2d21",
-    "9cdebbea-6337-4f09-b8c1-ded4f2d1e5f9",
     "14f5784c-19a7-4750-b14f-f30c29bd9be9",
-    "c5428ba1-a9f3-43be-805f-281da598059e",
-    "e7fbf332-0c01-4b3a-9443-6574fddc2fdb",
-    "c78f0a6c-46e7-461e-8d43-e0a9ac627e29"
+    "9cdebbea-6337-4f09-b8c1-ded4f2d1e5f9",
+    "c78f0a6c-46e7-461e-8d43-e0a9ac627e29",
+    "7b60ef99-7ccc-47fb-b32f-b4799b2499c3",
+    "d8a7dbe2-910e-474b-84fd-6a09381c2d21"
   ]
 }
