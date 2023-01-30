@@ -29,7 +29,7 @@
 
   {%- capture section_image -%}
     {%- if section.settings.image != blank -%}
-      <div class="FeatureText__ImageWrapper" style="">
+      <div class="FeatureText__ImageWrapper" style=" background-image: linear-gradient(to bottom,transparent 0%,transparent 10vw,{{section.settings.bgcolor}} 10vw,{{section.settings.bgcolor}} 100%);">
         {%- capture supported_sizes -%}{%- render 'image-size', sizes: '400,600,700,800,900,1000,1200', image: section.settings.image -%}{%- endcapture -%}
 
         <div class="AspectRatio1" style=" --aspect-ratio: {{ section.settings.image.aspect_ratio }}">
@@ -129,7 +129,7 @@
 
 {{ section.id }}.clsFeature .FeatureText__ImageWrapper {
     width: 60%;
-    background-image: linear-gradient(to bottom,transparent 0%,transparent 10vw,{{section.settings.bgcolor}} 10vw,{{section.settings.bgcolor}} 100%);
+   
 }
   .clsFeature .FeatureText__ContentWrapper {
     width: 40%;
