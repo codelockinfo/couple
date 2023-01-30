@@ -179,6 +179,21 @@
         "buttontexts": "",
         "bgcolor": ""
       }
+    },
+    "14f5784c-19a7-4750-b14f-f30c29bd9be9": {
+      "type": "only-text",
+      "settings": {
+        "subheading": "THE RINGS",
+        "title": "Modern diamonds. Timeless Designs.",
+        "titlesub": "Grown in a lab, and set by hand in New York. Browse our designer collections.",
+        "Button": "",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "",
+        "link_text": "",
+        "link_url": "",
+        "bgcolor": ""
+      }
     }
   },
   "order": [
@@ -191,6 +206,7 @@
     "e5d96525-0721-4904-bf59-f1279cb1c0ce",
     "7b60ef99-7ccc-47fb-b32f-b4799b2499c3",
     "d8a7dbe2-910e-474b-84fd-6a09381c2d21",
-    "9cdebbea-6337-4f09-b8c1-ded4f2d1e5f9"
+    "9cdebbea-6337-4f09-b8c1-ded4f2d1e5f9",
+    "14f5784c-19a7-4750-b14f-f30c29bd9be9"
   ]
 }
