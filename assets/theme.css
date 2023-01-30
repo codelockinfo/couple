@@ -11423,4 +11423,6 @@ h2.SectionHeader__Heading.Heading.u-h1 {
 .ImageHero.ImageHero--large {
     height: 100vh;
 }
-
+header.SectionHeader {
+    margin-left: 10%;
+}
