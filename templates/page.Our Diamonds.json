@@ -126,6 +126,59 @@
       "type": "Newsletter-new",
       "settings": {
       }
+    },
+    "9cdebbea-6337-4f09-b8c1-ded4f2d1e5f9": {
+      "type": "Diamond-Shapes",
+      "blocks": {
+        "6b154668-7b14-446c-bd96-3d74f0f6922a": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/inbloom-d-diamonds-3up-03-2x.png",
+            "colors1": "",
+            "subheading": "COUPLE DIAMOND",
+            "heading": "Lower quality & smaller carat",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": ""
+          }
+        },
+        "4df969ba-e377-4880-a291-b26ff688c777": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/inbloom-d-diamonds-3up-02-2x.png",
+            "colors1": "",
+            "subheading": "COUPLE DIAMOND",
+            "heading": "Higher quality & most popular carat size",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": ""
+          }
+        },
+        "d32075ca-0a8f-4cdf-b669-ce221f5810c4": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/inbloom-d-diamonds-3up-01-2x.png",
+            "colors1": "",
+            "subheading": "COUPLE DIAMOND",
+            "heading": "Visibly lower quality & equal carat",
+            "content1": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+            "url-link": "",
+            "url-text": ""
+          }
+        }
+      },
+      "block_order": [
+        "6b154668-7b14-446c-bd96-3d74f0f6922a",
+        "4df969ba-e377-4880-a291-b26ff688c777",
+        "d32075ca-0a8f-4cdf-b669-ce221f5810c4"
+      ],
+      "settings": {
+        "headingmain": "",
+        "subheading": "",
+        "buttonlink": "",
+        "buttontexts": "",
+        "bgcolor": ""
+      }
     }
   },
   "order": [
@@ -137,6 +190,7 @@
     "f8cb6697-b433-4ed6-82b9-71f58dac6c9e",
     "e5d96525-0721-4904-bf59-f1279cb1c0ce",
     "7b60ef99-7ccc-47fb-b32f-b4799b2499c3",
-    "d8a7dbe2-910e-474b-84fd-6a09381c2d21"
+    "d8a7dbe2-910e-474b-84fd-6a09381c2d21",
+    "9cdebbea-6337-4f09-b8c1-ded4f2d1e5f9"
   ]
 }
