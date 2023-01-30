@@ -194,6 +194,41 @@
         "link_url": "",
         "bgcolor": ""
       }
+    },
+    "c5428ba1-a9f3-43be-805f-281da598059e": {
+      "type": "3-text-box",
+      "settings": {
+      }
+    },
+    "e7fbf332-0c01-4b3a-9443-6574fddc2fdb": {
+      "type": "new-full-text-with-image",
+      "disabled": true,
+      "settings": {
+        "subheading": "Sub-heading",
+        "title": "Title",
+        "image": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-promise-2x_2.png",
+        "image_position": "right",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
+    "c78f0a6c-46e7-461e-8d43-e0a9ac627e29": {
+      "type": "full-screen-text-with-imges",
+      "settings": {
+        "bgcolor": "#dde9ed",
+        "subheading": "OUR PROMISE",
+        "title": "We’ll focus on the diamonds.You focus on your joy.",
+        "image": "shopify:\/\/shop_images\/inbloom-d-plp-solitaire-promise-2x_2.png",
+        "image_position": "right",
+        "content": "<p>For me, buying an engagement ring was an emotional rollercoaster. There was a lot of research, jewelry store visits, Instagram research and doubt. After all that, I vowed to make the ring buying process simple and one that sparked joy. Trust, thoughtfulness, transparency and quality are just a few of the ways we’ll deliver when you buy a Couple ring. You deserve to focus less on the potential pitfalls of buying a ring and more on the person who will one day wear it.<\/p>",
+        "signature": "shopify:\/\/shop_images\/jeff-brenner-signature.png",
+        "signaturetext": "— JEFF BRENNER, CO-FOUNDER",
+        "link_text": "VISIT OUR FAQS",
+        "link_url": "",
+        "link_text2": "",
+        "link_url2": ""
+      }
     }
   },
   "order": [
@@ -207,6 +242,9 @@
     "7b60ef99-7ccc-47fb-b32f-b4799b2499c3",
     "d8a7dbe2-910e-474b-84fd-6a09381c2d21",
     "9cdebbea-6337-4f09-b8c1-ded4f2d1e5f9",
-    "14f5784c-19a7-4750-b14f-f30c29bd9be9"
+    "14f5784c-19a7-4750-b14f-f30c29bd9be9",
+    "c5428ba1-a9f3-43be-805f-281da598059e",
+    "e7fbf332-0c01-4b3a-9443-6574fddc2fdb",
+    "c78f0a6c-46e7-461e-8d43-e0a9ac627e29"
   ]
 }
