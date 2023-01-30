@@ -19,6 +19,10 @@ USEFUL VARIABLES
   {%- assign use_transparent_header = true -%}
 {%- endif -%}
 
+{%- if template.name == 'page'   -%}
+  {%- assign use_transparent_header = true -%}
+{%- endif -%}
+
 {%- if section.settings.navigation_style != 'sidebar' -%}
   {%- assign use_sidebar_menu = false -%}
 {%- else -%}
