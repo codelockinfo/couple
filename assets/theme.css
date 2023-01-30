@@ -15,6 +15,14 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+  @font-face {
+font-family: "brown font" ;
+src: url("https://cdn.shopify.com/s/files/1/0678/7678/2370/files/FontsFree-Net-Brown-Regular-Regular.woff2?v=1675053321") format("woff2"),
+url("https://cdn.shopify.com/s/files/1/0678/7678/2370/files/FontsFree-Net-Brown-Regular-Regular.woff?v=1675053321") format("woff");
+}
+
+
+
 
 html {
   font-family: sans-serif;
