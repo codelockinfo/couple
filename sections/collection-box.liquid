@@ -1,7 +1,18 @@
+<div>
+  <div>
+    <img src="{{ section.settings.mainimgs }}">
+  </div>
+</div>
 {% schema %}
   {
     "name": "Section name",
-    "settings": []
+    "settings": [
+      {
+      "type": "image_picker",
+    "id": "mainimgs",
+    "label": "Image"
+  }
+    ]
   }
 {% endschema %}
 
