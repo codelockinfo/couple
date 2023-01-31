@@ -32,6 +32,7 @@
       "settings": {
         "subheading": "",
         "title": "The Classic Setting",
+        "titlesub": "",
         "Button": "",
         "buttonlink0": "",
         "image_position": "right",
@@ -119,8 +120,7 @@
             "heading": "Round",
             "content1": "<p>Available in all Classic settings.<\/p>",
             "url-link": "",
-            "url-text": "SHOP THIS STYLE",
-            "bgcolors": ""
+            "url-text": "SHOP THIS STYLE"
           }
         },
         "3ae9140a-3b21-41a1-aa51-3b6290302d87": {
@@ -132,8 +132,7 @@
             "heading": "heading",
             "content1": "<p>Available in Classic Thin setting only.<\/p>",
             "url-link": "",
-            "url-text": "SHOP THIS STYLE",
-            "bgcolors": ""
+            "url-text": "SHOP THIS STYLE"
           }
         },
         "29160650-a56a-4177-9112-301741fe03b4": {
@@ -145,8 +144,7 @@
             "heading": "Round",
             "content1": "<p>Available in Classic Thin setting only.<\/p>",
             "url-link": "",
-            "url-text": "SHOP THIS STYLE",
-            "bgcolors": ""
+            "url-text": "SHOP THIS STYLE"
           }
         }
       },
@@ -156,8 +154,11 @@
         "29160650-a56a-4177-9112-301741fe03b4"
       ],
       "settings": {
+        "headingmain": "",
+        "subheading": "",
         "buttonlink": "",
-        "buttontexts": ""
+        "buttontexts": "",
+        "bgcolor": ""
       }
     },
     "668abe1d-0539-46df-8c76-dcac38f5dd13": {
@@ -179,8 +180,7 @@
             "heading": "heading",
             "content1": "<p>Available in all Classic settings.<\/p>",
             "url-link": "",
-            "url-text": "SHOP THIS STYLE",
-            "bgcolors": ""
+            "url-text": "SHOP THIS STYLE"
           }
         },
         "620d2af7-5363-4839-b309-179c7293f4b9": {
@@ -192,8 +192,7 @@
             "heading": "heading",
             "content1": "<p>Available in all Classic settings.<\/p>",
             "url-link": "",
-            "url-text": "SHOP THIS STYLE",
-            "bgcolors": ""
+            "url-text": "SHOP THIS STYLE"
           }
         },
         "6f3300fc-23d4-4f28-9a89-235f3f52b81b": {
@@ -205,8 +204,7 @@
             "heading": "heading",
             "content1": "<p>Available in all Classic settings.<\/p>",
             "url-link": "",
-            "url-text": "SHOP THIS STYLE",
-            "bgcolors": ""
+            "url-text": "SHOP THIS STYLE"
           }
         }
       },
@@ -216,8 +214,11 @@
         "6f3300fc-23d4-4f28-9a89-235f3f52b81b"
       ],
       "settings": {
+        "headingmain": "",
+        "subheading": "",
         "buttonlink": "",
-        "buttontexts": ""
+        "buttontexts": "",
+        "bgcolor": ""
       }
     },
     "47fb633b-a9c4-41f4-a12e-5ca2c21947cc": {
@@ -280,7 +281,9 @@
         "signature": "shopify:\/\/shop_images\/jeff-brenner-signature.png",
         "signaturetext": "— JEFF BRENNER, CO-FOUNDER",
         "link_text": "VISIT OUR FAQS ",
-        "link_url": ""
+        "link_url": "",
+        "link_text2": "",
+        "link_url2": ""
       }
     },
     "b69bb56e-018f-46e2-9d79-c1263a6cd64d": {
