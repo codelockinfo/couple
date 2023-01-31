@@ -1,8 +1,51 @@
-<div>
+{% comment %} <div>
   <div>
     <img src="{{ section.settings.mainimgs| img_url: 'master' }}">
   </div>
-</div>
+</div> {% endcomment %}
+<div class="grid-container">
+      <div class="grid">
+        <div class="col classic">
+          <a class="with-link-primary" href="/collections/engagement-rings/classic">
+            <div class="background-container">
+              <div class="image-container image-ready" style="{{ section.settings.mainimgs| img_url: 'master' }}"></div>
+            </div>
+
+            <span class="link-primary animate-out">The Classic</span>
+          </a>
+        </div>
+
+        <div class="col pave">
+          <a class="with-link-primary" href="/collections/engagement-rings/pave">
+            <div class="background-container">
+              <div class="image-container image-ready"></div>
+            </div>
+
+            <span class="link-primary animate-out">The Pavé</span>
+          </a>
+        </div>
+
+        <div class="col halo">
+          <a class="with-link-primary" href="/collections/engagement-rings/halo">
+            <div class="background-container">
+              <div class="image-container image-ready"></div>
+            </div>
+
+            <span class="link-primary animate-out">The Halo</span>
+          </a>
+        </div>
+
+        <div class="col channel">
+          <a class="with-link-primary" href="/collections/engagement-rings/channel">
+            <div class="background-container">
+              <div class="image-container image-ready"></div>
+            </div>
+
+            <span class="link-primary animate-out">The Channel</span>
+          </a>
+        </div>
+      </div>
+    </div>
 {% schema %}
   {
     "name": "Section name",
