@@ -28,6 +28,28 @@
         "bgcolor": "#f6dcd4"
       }
     },
+    "b8287637-3d5d-41e6-8c29-697973fc9138": {
+      "type": "only-text",
+      "settings": {
+        "subheading": "OUR ANSWER",
+        "title": "Cut the imperfections.",
+        "titlesub": "",
+        "Button": "Title",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "<p>The old school way of buying a ring wasn't working for us. So we re-engineered the entire process—from sourcing the diamonds to trying them on.<\/p>",
+        "link_text": "",
+        "link_url": "",
+        "bgcolor": "#dde9ed"
+      }
+    },
+    "c4159871-4105-4865-ae5d-2c1d81f7f6b1": {
+      "type": "full_image",
+      "settings": {
+        "mainimg": "shopify:\/\/shop_images\/inbloom-d-story-fullwidthpng-02-2x.png",
+        "bgcolor": "#dde9ed"
+      }
+    },
     "483770f0-16b5-4073-ac85-7008b8b5b146": {
       "type": "insta_section",
       "settings": {
@@ -66,26 +88,19 @@
       "settings": {
       }
     },
-    "c4159871-4105-4865-ae5d-2c1d81f7f6b1": {
-      "type": "full_image",
-      "settings": {
-        "mainimg": "shopify:\/\/shop_images\/inbloom-d-story-fullwidthpng-02-2x.png",
-        "bgcolor": "#dde9ed"
-      }
-    },
-    "b8287637-3d5d-41e6-8c29-697973fc9138": {
+    "3763259b-44da-461f-b9ca-0ba2edf371d6": {
       "type": "only-text",
       "settings": {
-        "subheading": "OUR ANSWER",
-        "title": "Cut the imperfections.",
+        "subheading": "",
+        "title": "“Shopping for a diamond ring was miserable. I either felt cheap or like I was getting ripped off.”",
         "titlesub": "",
-        "Button": "Title",
+        "Button": "",
         "buttonlink0": "",
         "image_position": "right",
-        "content": "<p>The old school way of buying a ring wasn't working for us. So we re-engineered the entire process—from sourcing the diamonds to trying them on.<\/p>",
+        "content": "<p>— JEFF BRENNER - CO-FOUNDER<\/p>",
         "link_text": "",
         "link_url": "",
-        "bgcolor": "#dde9ed"
+        "bgcolor": ""
       }
     }
   },
@@ -93,9 +108,10 @@
     "main",
     "84f5a632-5e4e-46bc-8207-e2a912ad94eb",
     "68a207f4-ee9f-402f-8e88-43cc4a8955da",
+    "b8287637-3d5d-41e6-8c29-697973fc9138",
+    "c4159871-4105-4865-ae5d-2c1d81f7f6b1",
     "483770f0-16b5-4073-ac85-7008b8b5b146",
     "ac2e1914-08fc-4cdf-aa65-0d113ef27f67",
-    "c4159871-4105-4865-ae5d-2c1d81f7f6b1",
-    "b8287637-3d5d-41e6-8c29-697973fc9138"
+    "3763259b-44da-461f-b9ca-0ba2edf371d6"
   ]
 }
