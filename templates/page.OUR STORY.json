@@ -60,12 +60,18 @@
         "alink": "",
         "atext": "FOLLOW US ON INSTAGRAM"
       }
+    },
+    "ac2e1914-08fc-4cdf-aa65-0d113ef27f67": {
+      "type": "Newsletter-new",
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
     "84f5a632-5e4e-46bc-8207-e2a912ad94eb",
     "68a207f4-ee9f-402f-8e88-43cc4a8955da",
-    "483770f0-16b5-4073-ac85-7008b8b5b146"
+    "483770f0-16b5-4073-ac85-7008b8b5b146",
+    "ac2e1914-08fc-4cdf-aa65-0d113ef27f67"
   ]
 }
