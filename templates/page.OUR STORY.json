@@ -2,11 +2,27 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+        "show_large": false
+      }
+    },
+    "84f5a632-5e4e-46bc-8207-e2a912ad94eb": {
+      "type": "hero_section",
+      "settings": {
+        "heroimg": "shopify:\/\/shop_images\/inbloom-d-story-atf-2x.png",
+        "subhading": "",
+        "hading": "",
+        "textp": "",
+        "buttontext": "",
+        "butonurl": "",
+        "Design": "",
+        "textarey": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "84f5a632-5e4e-46bc-8207-e2a912ad94eb"
   ]
 }
