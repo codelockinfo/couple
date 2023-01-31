@@ -126,15 +126,17 @@
         "f8b20591-24a7-45ac-8521-3bbf0285b8bf": {
           "type": "section",
           "settings": {
+            "mainimgs": "shopify:\/\/shop_images\/inbloom-d-global-exitramp-4up-halo-2x.jpg",
             "atext": "",
-            "linktext": ""
+            "linktext": "THE CLASSIC"
           }
         },
         "7f1d1d75-de83-4c12-b58a-217dfa8d1dd7": {
           "type": "section",
           "settings": {
+            "mainimgs": "shopify:\/\/shop_images\/inbloom-d-global-exitramp-4up-channel-2x.jpg",
             "atext": "",
-            "linktext": ""
+            "linktext": "THE CLASSIC"
           }
         }
       },
