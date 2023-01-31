@@ -106,8 +106,45 @@
     },
     "9ef712a7-9e5e-4a2f-9e09-ba14996fa7a2": {
       "type": "collection-box",
+      "blocks": {
+        "fb8d3cc2-fbb7-46ff-a428-e2ed7db66030": {
+          "type": "section",
+          "settings": {
+            "mainimgs": "shopify:\/\/shop_images\/inbloom-d-global-exitramp-4up-solitaire-2x.jpg",
+            "atext": "",
+            "linktext": "THE CLASSIC"
+          }
+        },
+        "2bb743ac-c611-459e-938c-af3e3a0264c8": {
+          "type": "section",
+          "settings": {
+            "mainimgs": "shopify:\/\/shop_images\/inbloom-d-global-exitramp-4up-pave-2x.jpg",
+            "atext": "",
+            "linktext": "THE CLASSIC"
+          }
+        },
+        "f8b20591-24a7-45ac-8521-3bbf0285b8bf": {
+          "type": "section",
+          "settings": {
+            "atext": "",
+            "linktext": ""
+          }
+        },
+        "7f1d1d75-de83-4c12-b58a-217dfa8d1dd7": {
+          "type": "section",
+          "settings": {
+            "atext": "",
+            "linktext": ""
+          }
+        }
+      },
+      "block_order": [
+        "fb8d3cc2-fbb7-46ff-a428-e2ed7db66030",
+        "2bb743ac-c611-459e-938c-af3e3a0264c8",
+        "f8b20591-24a7-45ac-8521-3bbf0285b8bf",
+        "7f1d1d75-de83-4c12-b58a-217dfa8d1dd7"
+      ],
       "settings": {
-        "mainimgs": "shopify:\/\/shop_images\/inbloom-d-global-exitramp-4up-solitaire-2x.jpg"
       }
     },
     "9cdebbea-6337-4f09-b8c1-ded4f2d1e5f9": {
