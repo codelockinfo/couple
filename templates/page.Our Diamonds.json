@@ -104,6 +104,12 @@
         "bgcolor": ""
       }
     },
+    "9ef712a7-9e5e-4a2f-9e09-ba14996fa7a2": {
+      "type": "collection-box",
+      "settings": {
+        "mainimgs": "shopify:\/\/shop_images\/inbloom-d-global-exitramp-4up-solitaire-2x.jpg"
+      }
+    },
     "9cdebbea-6337-4f09-b8c1-ded4f2d1e5f9": {
       "type": "Diamond-Shapes",
       "blocks": {
@@ -211,12 +217,6 @@
       "type": "Newsletter-new",
       "settings": {
       }
-    },
-    "9ef712a7-9e5e-4a2f-9e09-ba14996fa7a2": {
-      "type": "collection-box",
-      "settings": {
-        "mainimgs": "shopify:\/\/shop_images\/inbloom-d-global-exitramp-4up-solitaire-2x.jpg"
-      }
     }
   },
   "order": [
@@ -228,10 +228,10 @@
     "f8cb6697-b433-4ed6-82b9-71f58dac6c9e",
     "e5d96525-0721-4904-bf59-f1279cb1c0ce",
     "14f5784c-19a7-4750-b14f-f30c29bd9be9",
+    "9ef712a7-9e5e-4a2f-9e09-ba14996fa7a2",
     "9cdebbea-6337-4f09-b8c1-ded4f2d1e5f9",
     "c78f0a6c-46e7-461e-8d43-e0a9ac627e29",
     "7b60ef99-7ccc-47fb-b32f-b4799b2499c3",
-    "d8a7dbe2-910e-474b-84fd-6a09381c2d21",
-    "9ef712a7-9e5e-4a2f-9e09-ba14996fa7a2"
+    "d8a7dbe2-910e-474b-84fd-6a09381c2d21"
   ]
 }
