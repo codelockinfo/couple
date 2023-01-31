@@ -20,10 +20,18 @@
         "Design": "OUR MISSION",
         "textarey": "Buying an engagement ring should be simple, transparent, and full of joy."
       }
+    },
+    "68a207f4-ee9f-402f-8e88-43cc4a8955da": {
+      "type": "full_image",
+      "settings": {
+        "mainimg": "shopify:\/\/shop_images\/inbloom-d-story-fullwidthpng-01-2x.png",
+        "bgcolor": "#f6dcd4"
+      }
     }
   },
   "order": [
     "main",
-    "84f5a632-5e4e-46bc-8207-e2a912ad94eb"
+    "84f5a632-5e4e-46bc-8207-e2a912ad94eb",
+    "68a207f4-ee9f-402f-8e88-43cc4a8955da"
   ]
 }
