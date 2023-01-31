@@ -11393,7 +11393,10 @@ a.Link.Link--underline {
     border-radius: 2px;
     box-shadow: 0 2px 4px #00000014;
     color: #122947;
-    padding: 10px 15px;
+padding: 15px 20px;
+    font-family: "Brown",Sans-Serif;
+    font-size: 12px;
+  
 }
 div#shopify-section-template--17429961998626__f4ffbfb9-6cd7-4a71-8f16-ef8ba166ccd9 {
     background-color: #f0ede8;
