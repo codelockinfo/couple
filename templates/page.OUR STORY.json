@@ -10,6 +10,7 @@
     "84f5a632-5e4e-46bc-8207-e2a912ad94eb": {
       "type": "hero_section",
       "settings": {
+        "bgcolore": "#f6dcd4",
         "heroimg": "shopify:\/\/shop_images\/inbloom-d-story-atf-2x.png",
         "subhading": "OUR STORY",
         "hading": "Starting a shared life should be met with celebration, not caution.",
