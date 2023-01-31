@@ -14,7 +14,7 @@
               <div class="image-container image-ready" style="background-image: url({{ block.settings.mainimgs| img_url: 'master' }});"></div>
             </div>
 
-            <span class="link-primary animate-out">The Classic</span>
+            <span class="link-primary animate-out">{{ block.settings.linktext }}</span>
           </a>
         </div>   
         {% endfor %}
@@ -41,6 +41,11 @@
       "id" : "atext",
       "type" : "url",
       "label" : "button url"
+    },
+      {
+      "id" : "linktext",
+      "type" : "text",
+      "label" : "text"
     }
     ]
   }
