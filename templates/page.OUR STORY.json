@@ -72,6 +72,21 @@
         "mainimg": "shopify:\/\/shop_images\/inbloom-d-story-fullwidthpng-02-2x.png",
         "bgcolor": "#dde9ed"
       }
+    },
+    "b8287637-3d5d-41e6-8c29-697973fc9138": {
+      "type": "only-text",
+      "settings": {
+        "subheading": "OUR ANSWER",
+        "title": "Cut the imperfections.",
+        "titlesub": "",
+        "Button": "Title",
+        "buttonlink0": "",
+        "image_position": "right",
+        "content": "<p>The old school way of buying a ring wasn't working for us. So we re-engineered the entire process—from sourcing the diamonds to trying them on.<\/p>",
+        "link_text": "",
+        "link_url": "",
+        "bgcolor": ""
+      }
     }
   },
   "order": [
@@ -80,6 +95,7 @@
     "68a207f4-ee9f-402f-8e88-43cc4a8955da",
     "483770f0-16b5-4073-ac85-7008b8b5b146",
     "ac2e1914-08fc-4cdf-aa65-0d113ef27f67",
-    "c4159871-4105-4865-ae5d-2c1d81f7f6b1"
+    "c4159871-4105-4865-ae5d-2c1d81f7f6b1",
+    "b8287637-3d5d-41e6-8c29-697973fc9138"
   ]
 }
