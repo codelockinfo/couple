@@ -7,45 +7,17 @@
 <div class="featured-products waypoint-active">
 <div class="grid-container">
       <div class="grid">
+        {% for block in section.blocks %}
         <div class="col classic">
-          <a class="with-link-primary" href="/collections/engagement-rings/classic">
+          <a class="with-link-primary" href="{{ block.settings.atext }}">
             <div class="background-container">
-              <div class="image-container image-ready" style="background-image: url({{ section.settings.mainimgs| img_url: 'master' }});"></div>
+              <div class="image-container image-ready" style="background-image: url({{ block.settings.mainimgs| img_url: 'master' }});"></div>
             </div>
 
             <span class="link-primary animate-out">The Classic</span>
           </a>
-        </div>
-
-        <div class="col pave">
-          <a class="with-link-primary" href="/collections/engagement-rings/pave">
-            <div class="background-container">
-              <div class="image-container image-ready" style="background-image: url({{ section.settings.mainimgs| img_url: 'master' }});"></div>
-            </div>
-
-            <span class="link-primary animate-out">The Pavé</span>
-          </a>
-        </div>
-
-        <div class="col halo">
-          <a class="with-link-primary" href="/collections/engagement-rings/halo">
-            <div class="background-container">
-              <div class="image-container image-ready" style="background-image: url({{ section.settings.mainimgs| img_url: 'master' }});"></div>
-            </div>
-
-            <span class="link-primary animate-out">The Halo</span>
-          </a>
-        </div>
-
-        <div class="col channel">
-          <a class="with-link-primary" href="/collections/engagement-rings/channel">
-            <div class="background-container">
-              <div class="image-container image-ready" style="background-image: url({{ section.settings.mainimgs| img_url: 'master' }});"></div>
-            </div>
-
-            <span class="link-primary animate-out">The Channel</span>
-          </a>
-        </div>
+        </div>   
+        {% endfor %}
       </div>
     </div>
   </div>
@@ -57,7 +29,12 @@
       "type": "image_picker",
     "id": "mainimgs",
     "label": "Image"
-  }
+  },
+       {
+      "id" : "atext",
+      "type" : "text",
+      "label" : "button url"
+    }
     ],
         "presets": [
   {
