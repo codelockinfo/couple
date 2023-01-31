@@ -8,7 +8,9 @@
         <h2 class="fade">{{ section.settings.hading }}</h2>
         <p class="body-large fade">{{ section.settings.textp }}</p>
         <div>
+            {%- if section.settings.buttontext != blank -%}
         <a class="button button-hero" href="{{ section.settings.butonurl }}"><span>{{ section.settings.buttontext }}</span></a>
+              {%- endif -%}
           </div>
       </div>
       <div class="right-column"></div>
