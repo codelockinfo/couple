@@ -19,7 +19,7 @@
         </div>   
         {% endfor %}
         <div class="button-container raise">
-      <a class="button" href="/collections/engagement-rings">Shop Engagement Rings</a>
+      <a class="button" href="{{ section.settings.ringa }}">{{ section.settings.Rings }}</a>
     </div>
       </div>
     </div>
@@ -28,7 +28,16 @@
   {
     "name": "collection box",
     "settings": [
-     
+        {
+      "id" : "ringa",
+      "type" : "url",
+      "label" : "button url"
+    },
+     {
+      "id" : "Rings",
+      "type" : "text",
+      "label" : "text"
+    }
     ],
     "blocks": [
   {
