@@ -3,6 +3,7 @@
     "f4ffbfb9-6cd7-4a71-8f16-ef8ba166ccd9": {
       "type": "text-with-image",
       "settings": {
+        "bgcolor": "",
         "subheading": "",
         "title": "A personalized ring buying experience, from beginning to end.",
         "image": "shopify:\/\/shop_images\/hero.webp",
@@ -86,6 +87,7 @@
     "84c8e6d6-8195-470f-8853-f794e302b29b": {
       "type": "new-text-with-image",
       "settings": {
+        "bgcolor": "#f6dcd4",
         "subheading": "ETHICALLY SOURCED DIAMONDS",
         "title": "Beautiful diamonds, without the mines",
         "image": "shopify:\/\/shop_images\/homepage-loose-diamonds.webp",
@@ -127,6 +129,7 @@
       "settings": {
         "subheading": "STRESS-FREE BUYING",
         "title": "How it works.",
+        "titlesub": "Title",
         "Button": "",
         "buttonlink0": "",
         "image_position": "right",
@@ -189,6 +192,7 @@
       "settings": {
         "subheading": "A CURATED EXPERIENCE",
         "title": "Everything matters",
+        "titlesub": "Title",
         "Button": "",
         "buttonlink0": "",
         "image_position": "right",
@@ -283,6 +287,7 @@
       "settings": {
         "subheading": "GUIDANCE",
         "title": "NO MATTER WHERE YOU ARE IN THE PROCESS, WE’RE HERE TO HELP.",
+        "titlesub": "Title",
         "Button": "ASK US ANYTHING",
         "buttonlink0": "shopify:\/\/collections\/african-natural-products",
         "image_position": "right",
