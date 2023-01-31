@@ -11,13 +11,13 @@
       "type": "hero_section",
       "settings": {
         "heroimg": "shopify:\/\/shop_images\/inbloom-d-story-atf-2x.png",
-        "subhading": "",
-        "hading": "",
+        "subhading": "OUR STORY",
+        "hading": "Starting a shared life should be met with celebration, not caution.",
         "textp": "",
         "buttontext": "",
         "butonurl": "",
-        "Design": "",
-        "textarey": ""
+        "Design": "OUR MISSION",
+        "textarey": "Buying an engagement ring should be simple, transparent, and full of joy."
       }
     }
   },
