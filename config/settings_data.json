@@ -60,8 +60,8 @@
         "settings": {
           "enable_bar": false,
           "home_page_only": false,
-          "background": "#000000",
-          "text_color": "#ffffff",
+          "background": "#ffffff",
+          "text_color": "#000000",
           "content": "Announce something here",
           "link": ""
         }
