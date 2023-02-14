@@ -10,11 +10,11 @@
       "type": "text-with-image",
       "settings": {
         "bgcolor": "#e1dfe8",
-        "subheading": "Sub-heading",
-        "title": "Title",
+        "subheading": "OUR BLOG",
+        "title": "Beyond the Ring",
         "image": "shopify:\/\/shop_images\/inbloom-d-blog-atf-2x.png",
         "image_position": "right",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "content": "<p>Your engagement doesn’t begin and end with the perfect ring; it’s about so much more. Everything from proposal tips to diamond maintenance.<\/p>",
         "link_text": "",
         "link_url": ""
       }
