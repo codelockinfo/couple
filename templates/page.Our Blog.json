@@ -3,10 +3,25 @@
     "main": {
       "type": "main-page",
       "settings": {
+        "show_large": false
+      }
+    },
+    "b9f815fd-c90f-495f-b9e1-144e64ed6fdb": {
+      "type": "text-with-image",
+      "settings": {
+        "bgcolor": "#e1dfe8",
+        "subheading": "Sub-heading",
+        "title": "Title",
+        "image": "shopify:\/\/shop_images\/inbloom-d-blog-atf-2x.png",
+        "image_position": "right",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "link_text": "",
+        "link_url": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "b9f815fd-c90f-495f-b9e1-144e64ed6fdb"
   ]
 }
