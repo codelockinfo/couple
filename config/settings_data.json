@@ -82,10 +82,25 @@
               "push_2_subheading": "",
               "push_2_url": ""
             }
+          },
+          "a4d0f0e4-2dae-4b52-9aed-2299ca8dac0c": {
+            "type": "mega_menu",
+            "settings": {
+              "navigation_mega_menu": "",
+              "push_1_image": "shopify:\/\/shop_images\/inbloom-d-nav-solitaire-2x_1.png",
+              "push_1_heading": "Example heading",
+              "push_1_subheading": "Example sub-heading",
+              "push_1_url": "",
+              "push_2_image": "shopify:\/\/shop_images\/inbloom-d-nav-solitaire-2x_1.png",
+              "push_2_heading": "Example heading",
+              "push_2_subheading": "Example sub-heading",
+              "push_2_url": ""
+            }
           }
         },
         "block_order": [
-          "56d33110-b356-4055-9ddb-968faa19d209"
+          "56d33110-b356-4055-9ddb-968faa19d209",
+          "a4d0f0e4-2dae-4b52-9aed-2299ca8dac0c"
         ],
         "settings": {
           "use_sticky_header": true,
