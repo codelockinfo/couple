@@ -68,6 +68,25 @@
       },
       "header": {
         "type": "header",
+        "blocks": {
+          "56d33110-b356-4055-9ddb-968faa19d209": {
+            "type": "mega_menu",
+            "settings": {
+              "navigation_mega_menu": "ENGAGEMENT",
+              "push_1_image": "shopify:\/\/shop_images\/Channel_WhiteGold_2CT_OnWhite_C.png",
+              "push_1_heading": "",
+              "push_1_subheading": "",
+              "push_1_url": "",
+              "push_2_image": "shopify:\/\/shop_images\/inbloom-d-global-exitramp-4up-pave-2x.jpg",
+              "push_2_heading": "",
+              "push_2_subheading": "",
+              "push_2_url": ""
+            }
+          }
+        },
+        "block_order": [
+          "56d33110-b356-4055-9ddb-968faa19d209"
+        ],
         "settings": {
           "use_sticky_header": true,
           "logo": "shopify:\/\/shop_images\/svg-xml_base64_PHN2ZyBjbGFzcz0ibWFyayBtYXJrLWxvZ28iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVud.png",
